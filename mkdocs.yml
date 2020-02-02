@@ -1,0 +1,11 @@
+site_name: Erie Looking Productions
+theme: mkdocs
+site_url: http://erielookingproductions.info/
+site_description: The website of Erie Looking Productions.
+site_author: Stephen Michael Kellat
+google_analytics: ['UA-156490670-1', 'ELP']
+copyright: Copyright © 2019-2020 Erie Looking Productions and Stephen Michael Kellat.  
+plugins: []
+nav:
+     - Home: index.md
+
