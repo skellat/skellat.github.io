@@ -4,7 +4,7 @@ Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-p
 
 If you're looking for the blog of Stephen Michael Kellat please head over instead to [Coyote Works](http://coyote.works/).  
 
-## Commercial Services
+## Commercial Services Offered
 
 We offer many services on a general commercial basis.
 
@@ -50,6 +50,7 @@ We have a variety of matters that are works in progress before us.  Those includ
 * Development of new podcasting projects as well as development of audiovisual streaming using [OBS Studio](https://snapcraft.io/obs-studio)  
 * Continued experimentation in optimal Over The Air television receiver systems design  
 * Writing and review of various fictional works 
+* Monitoring of submissions to various publication outlets
 
 ## Supporting A Vibrant Local Media Environment
 
