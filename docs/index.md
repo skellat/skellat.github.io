@@ -81,7 +81,7 @@ We have been experimenting with various styles of receiving television signals. 
 
 *An example of current Over The Air reception.*
 
-This works helps us explain to clients the engineering limits of our constantly changing over-the-air television broadcast environment.
+This work helps us explain to clients the engineering limits of our constantly changing over-the-air television broadcast environment.
 
 ### KCRW 7th Radio Race (2019)
 
