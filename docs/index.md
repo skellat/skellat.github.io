@@ -2,7 +2,7 @@
 
 Erie Looking Productions is based in Ashtabula, Ohio.  We are a boutique multi-platform media arts shop available for contract work.  From work in [LaTeX2e](https://www.latex-project.org/) to audio production to video editing, we provide unique solutions for you. Examples of audio works we have created can be found online at the [Internet Archive](https://archive.org/search.php?query=%22Erie%20Looking%20Productions%22&and[]=mediatype%3A%22audio%22).
 
-If you're looking for the blog of Stephen Michael Kellat please head over instead to [Coyote Works](http://coyote.works/).  
+If you're looking for the blog of Stephen Michael Kellat, please head over instead to [Coyote Works](http://coyote.works/) which is powered using [ikiwiki](https://ikiwiki.info/).  
 
 ## Commercial Services Offered
 
@@ -15,7 +15,7 @@ We handle:
 * Audio editing
 * Radio ad production and placement
 * Audio production
-* Contract podcast production
+* Podcast production
 * Limited music recording for release
 * Single-camera video recording of events
 * Radio airtime brokerage
@@ -32,6 +32,7 @@ We handle:
  
 * Print media production using [LaTeX2e](https://www.latex-project.org/)  
 * Support for churches in preparing worship materials for print and overhead display  
+* Booklet and print collateral design as well as production using appropriate sub-contractors as needed
 
 ### Other Matters
 
