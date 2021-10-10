@@ -28,4 +28,4 @@ timezone: America/Detroit
 markdown: kramdown
 
 #Exclude local build settings
-exclude: ['CNAME', 'README.md', 'readme.md', 'Gemfile.lock', 'Gemfile']
+exclude: ['CNAME', 'README.md', 'docs', 'readme.md', 'Gemfile.lock', 'Gemfile']
