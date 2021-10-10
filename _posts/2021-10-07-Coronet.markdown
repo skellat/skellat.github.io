@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Getting Ready Physically"
+date: 2021-10-07 0054 -0400
+file: https://archive.org/download/GettingR1951/GettingR1951_512kb.mp4
+summary: "Coronet Films: How did this happen?"
+description: "Coronet Films: How did this happen?"
+duration: "10:26"
+length: "626"
+explicit: "no" 
+keywords: "Internet Archive, Coronet Films"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+Coronet Films gets spoofed quite a bit by RiffTrax.  This is an unriffed look at one of their films caught up in the Prelinger Archive.
+
+<iframe src="https://archive.org/embed/GettingR1951" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
