@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en-us">
+
+    <channel>
+		<atom:link href="http://coyote.works/podcast.rss" rel="self" type="application/rss+xml" />
+		<title>The Contingencies Show</title>
+		<link>http://coyote.works/podcast</link>
+		<language>en-us</language>
+        <copyright>&#xA9; 2021 The Contingencies Show</copyright>
+		<itunes:subtitle>Our Special Television System</itunes:subtitle>
+        <itunes:author>Erie Looking Productions</itunes:author>
+		<itunes:summary>This is our very special 'Push VOD' proto-network.</itunes:summary>
+        <description>This is our very special 'Push VOD' proto-network.</description>
+		<webMaster>ashtabulaecv197@gmail.com (Erie Looking Productions)</webMaster>
+        <itunes:owner>
+			<itunes:name>Erie Looking Productions</itunes:name>
+			<itunes:email>ashtabulaecv197@gmail.com</itunes:email>
+		</itunes:owner>
+        <itunes:image href="http://coyote.works/podcast/images/itunes.png" />
+        <itunes:category text="Arts" />
+        <itunes:explicit>no</itunes:explicit>
+		
+
+        <item>
+            <title>Cosmos: War of the Planets</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: Cosmos: War of the Planets</itunes:subtitle>
+            <itunes:summary>A Spaghetti Space Opera.  If you try to play a drinking game with this you will need a liver transplant on standby...</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Cosmos_War_of_the_Planets/Cosmos_War_of_the_Planets.mp4" length="5343" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/Cosmos-War-of-the-Planets.html</guid>
+            <pubDate>Wed, 25 Aug 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>1:29:03</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A Spaghetti Space Opera.  If you try to play a drinking game with this you will need a liver transplant on standby... A Spaghetti Space Opera.  If you try to play a drinking game with this you will need a liver transplant on standby... Show Notes Available at http://coyote.works/podcast/2021/Cosmos-War-of-the-Planets.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Warning From Space</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: Warning From Space</itunes:subtitle>
+            <itunes:summary>A rogue planet menaces Earth and only scientists in Japan can save us all...</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/WarningFromSpaceImproved1/Warning%20from%20Space%20Improved_1.mp4" length="5272" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/Warning-Space.html</guid>
+            <pubDate>Tue, 24 Aug 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>1:27:52</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A rogue planet menaces Earth and only scientists in Japan can save us all... A rogue planet menaces Earth and only scientists in Japan can save us all... Show Notes Available at http://coyote.works/podcast/2021/Warning-Space.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Space Internet Governance Webinar</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: Space Internet Governance Webinar</itunes:subtitle>
+            <itunes:summary>Vint Cerf speaks in an Internet Society panel about how the Internet can be taken to the stars.</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/spaceig/2020.08.07_Space_Internet_Governance.mp4" length="5242" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/SpaceInternet.html</guid>
+            <pubDate>Sun, 22 Aug 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>1:27:22</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Vint Cerf speaks in an Internet Society panel about how the Internet can be taken to the stars. Vint Cerf speaks in an Internet Society panel about how the Internet can be taken to the stars. Show Notes Available at http://coyote.works/podcast/2021/SpaceInternet.html.</description>
+            <itunes:keywords>Internet Archive,ISOC</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>NASA Administrator Discusses Collaboration with US Space Force</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: NASA Administrator Discusses Collaboration with US Space Force</itunes:subtitle>
+            <itunes:summary>The Mitchell Institute hosted the Space Power Forum with NASA Administrator Jim Bridenstine and Chief of Space Operations General Jay Raymond on Tuesday, September 22. The space domain is as vitally important to U.S. defense as it is to its scientific and commercial interests, and the establishment of the U.S. Space Force (USSF) raises big questions with implications for all. This conversation with the leaders of NASA and the USSF explored how they intend to collaboratively tackle shared challenges in space, their respective mission requirements, and opportunities to leverage commercial capabilities and innovation.</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://images-assets.nasa.gov/video/NHQ_2020_0922_NASA%20Administrator%20Discusses%20Collaboration%20with%20US%20Space%20Force/NHQ_2020_0922_NASA%20Administrator%20Discusses%20Collaboration%20with%20US%20Space%20Force~large.mp4" length="3659" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/NASA-USSF.html</guid>
+            <pubDate>Sun, 22 Aug 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>1:00:59</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>The Mitchell Institute hosted the Space Power Forum with NASA Administrator Jim Bridenstine and Chief of Space Operations General Jay Raymond on Tuesday, September 22. The space domain is as vitally important to U.S. defense as it is to its scientific and commercial interests, and the establishment of the U.S. Space Force (USSF) raises big questions with implications for all. This conversation with the leaders of NASA and the USSF explored how they intend to collaboratively tackle shared challenges in space, their respective mission requirements, and opportunities to leverage commercial capabilities and innovation. The Mitchell Institute hosted the Space Power Forum with NASA Administrator Jim Bridenstine and Chief of Space Operations General Jay Raymond on Tuesday, September 22. The space domain is as vitally important to U.S. defense as it is to its scientific and commercial interests, and the establishment of the U.S. Space Force (USSF) raises big questions with implications for all. This conversation with the leaders of NASA and the USSF explored how they intend to collaboratively tackle shared challenges in space, their respective mission requirements, and opportunities to leverage commercial capabilities and innovation. Show Notes Available at http://coyote.works/podcast/2021/NASA-USSF.html.</description>
+            <itunes:keywords>NASA,USSF</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Service and Citizenship</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: Service and Citizenship</itunes:subtitle>
+            <itunes:summary>A film from Coronet dated to 1951 about being a good citizens in light of the Korean Conflict.</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Servicea1951/Servicea1951_edit.mp4" length="663" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/ServiceCitizenship.html</guid>
+            <pubDate>Fri, 20 Aug 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>11:03</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A film from Coronet dated to 1951 about being a good citizens in light of the Korean Conflict. A film from Coronet dated to 1951 about being a good citizens in light of the Korean Conflict. Show Notes Available at http://coyote.works/podcast/2021/ServiceCitizenship.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Are You A Good Citizen?</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: Are You A Good Citizen?</itunes:subtitle>
+            <itunes:summary>A film from Coronet dated to 1949 about being a good citizen in the USA.</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/0916_Are_You_a_Good_Citizen_00_01_03_02/0916_Are_You_a_Good_Citizen_00_01_03_02.m4v" length="625" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/AreGoodCitizen.html</guid>
+            <pubDate>Fri, 20 Aug 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>10:25</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A film from Coronet dated to 1949 about being a good citizen in the USA. A film from Coronet dated to 1949 about being a good citizen in the USA. Show Notes Available at http://coyote.works/podcast/2021/AreGoodCitizen.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>How To Use The Dial Phone</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: How To Use The Dial Phone</itunes:subtitle>
+            <itunes:summary>An instructional film from 1927 by the Bell System about how to use a dial telephone.</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/HowtoUse1927/HowtoUse1927_edit.mp4" length="427" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/DialPhone.html</guid>
+            <pubDate>Thu, 19 Aug 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>7:07</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>An instructional film from 1927 by the Bell System about how to use a dial telephone. An instructional film from 1927 by the Bell System about how to use a dial telephone. Show Notes Available at http://coyote.works/podcast/2021/DialPhone.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>At War With The Army</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: At War With The Army</itunes:subtitle>
+            <itunes:summary>A Hal Walker film featuring Jerry Lewis relative to the US Army in World War II.</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/AtWarWithTheArmy/AtWarWithTheArmy.mp4" length="5431" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/At-War.html</guid>
+            <pubDate>Tue, 17 Aug 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>1:30:31</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A Hal Walker film featuring Jerry Lewis relative to the US Army in World War II. A Hal Walker film featuring Jerry Lewis relative to the US Army in World War II. Show Notes Available at http://coyote.works/podcast/2021/At-War.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Beach Girls and the Monster</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: Beach Girls and the Monster</itunes:subtitle>
+            <itunes:summary>A 1960s horror film is not really a horror film but rather a bikini girl flick with a monster on the side.  It is definitely a weird one.  Is the monster real or is something else happening?</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/TheBeachGirlsAndTheMonster/TheBeachGirlsAndTheMonster_512kb.mp4" length="3963" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/Beach-Girls.html</guid>
+            <pubDate>Mon, 16 Aug 2021 00:22:00 -0400</pubDate>
+            <itunes:duration>1:06:03</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A 1960s horror film is not really a horror film but rather a bikini girl flick with a monster on the side.  It is definitely a weird one.  Is the monster real or is something else happening? A 1960s horror film is not really a horror film but rather a bikini girl flick with a monster on the side.  It is definitely a weird one.  Is the monster real or is something else happening? Show Notes Available at http://coyote.works/podcast/2021/Beach-Girls.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Suggestion Box</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: Suggestion Box</itunes:subtitle>
+            <itunes:summary>War Propaganda!  An initial adventure into propaganda from the Office of War Information archived on the Internet Archive.</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Suggesti1945/Suggesti1945_512kb.mp4" length="535" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/Suggestion-Box.html</guid>
+            <pubDate>Mon, 16 Aug 2021 00:08:00 -0400</pubDate>
+            <itunes:duration>08:55</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>War Propaganda!  An initial adventure into propaganda from the Office of War Information archived on the Internet Archive. War Propaganda!  An initial adventure into propaganda from the Office of War Information archived on the Internet Archive. Show Notes Available at http://coyote.works/podcast/2021/Suggestion-Box.html.</description>
+            <itunes:keywords>public domain, Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Attack From Space</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: Attack From Space</itunes:subtitle>
+            <itunes:summary>Science Fiction from Japan!  Walter Manley Enterprises!  The best that can be said is that this has been riffed by RiffTrax.  This is the unriffed version courtesy the Internet Archive.</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Attack_From_Space/Attack_From_Space_512kb.mp4" length="144000" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/Attack-From-Space.html</guid>
+            <pubDate>Sun, 15 Aug 2021 17:17:00 -0400</pubDate>
+            <itunes:duration>1:15:32</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Science Fiction from Japan!  Walter Manley Enterprises!  The best that can be said is that this has been riffed by RiffTrax.  This is the unriffed version courtesy the Internet Archive. Science Fiction from Japan!  Walter Manley Enterprises!  The best that can be said is that this has been riffed by RiffTrax.  This is the unriffed version courtesy the Internet Archive. Show Notes Available at http://coyote.works/podcast/2021/Attack-From-Space.html.</description>
+            <itunes:keywords>Science Fiction, public domain, silly films, Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>The Airport in the Jet Age</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>The Contingencies Show: The Airport in the Jet Age</itunes:subtitle>
+            <itunes:summary>Shot by Encyclopaedia Britannica Films, our adventure into the films of the Internet Archive starts with 'The Airport in the Jet Age'.  This item is part of the Prelinger Archives.</itunes:summary>
+            <itunes:image href="http://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/4053_The_Airport_in_the_Jet_Age/4053_The_Airport_in_the_Jet_Age.m4v" length="682" type="video/mp4"/>
+            <guid isPermaLink="true">http://coyote.works/podcast/2021/The-Airport-in-the-Jet-Age.html</guid>
+            <pubDate>Sun, 15 Aug 2021 15:45:00 -0400</pubDate>
+            <itunes:duration>11:22</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Shot by Encyclopaedia Britannica Films, our adventure into the films of the Internet Archive starts with 'The Airport in the Jet Age'.  This item is part of the Prelinger Archives. Shot by Encyclopaedia Britannica Films, our adventure into the films of the Internet Archive starts with 'The Airport in the Jet Age'.  This item is part of the Prelinger Archives. Show Notes Available at http://coyote.works/podcast/2021/The-Airport-in-the-Jet-Age.html.</description>
+            <itunes:keywords>educational films, Prelinger Archives, Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+	</channel>
+</rss>

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+ELP TV is a renegade attempt at Ashtabula-area television.  Powered by the resources of the Internet Archive, it provides a mix of past and present for viewers like you.
+
+<div class="post-list">
+    {% for post in site.posts %}
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <p class="meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <p>{{ post.excerpt }} </p>    
+    {% endfor %}
+</div>
+
