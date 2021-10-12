@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Werewolf in a Girls' Dormitory"
+date: 2021-10-11 2326 -0400
+file: https://archive.org/download/Werewolf_In_A_Girls_Dormitory/Werewolf_In_A_Girls_Dormitory_512kb.mp4
+summary: "A B-grade monster movie in monochrome.  This is unriffed.  For a riffed version you should check out RiffTrax."
+description: "A B-grade monster movie in monochrome.  This is unriffed.  For a riffed version you should check out RiffTrax."
+duration: "1:23:09"
+length: "4989"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+This is the unriffed version of a B-movie monster flick that RiffTrax had its British squad cover.
+
+<iframe src="https://archive.org/embed/Werewolf_In_A_Girls_Dormitory" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
