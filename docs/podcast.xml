@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>Big Buck Bunny</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Big Buck Bunny</itunes:subtitle>
+            <itunes:summary>A cartoon made as a technical demonstration of an open source software project.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/BigBuckBunny_310/big_buck_bunny_640.mp4" length="596" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/BigBuckBunny.html</guid>
+            <pubDate>Tue, 12 Oct 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>9:56</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A cartoon made as a technical demonstration of an open source software project. 
+
+Show Notes Available at https://coyote.works/2021/BigBuckBunny.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Werewolf in a Girls' Dormitory</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Werewolf in a Girls' Dormitory</itunes:subtitle>
