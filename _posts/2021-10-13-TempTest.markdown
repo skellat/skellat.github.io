@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Temporary Test Run"
+date: 2021-10-13 0131 -0400
+file: http://skellat.freeshell.org/testrun.mp4
+summary: "A placeholder temporary test run of what the weather report would conceptually look like.  Yes, this is a mock up."
+description: "A placeholder temporary test run of what the weather report would conceptually look like.  Yes, this is a mock up."
+duration: "0:52"
+length: "52"
+explicit: "no" 
+keywords: "Housekeeping"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+This is a temporary test run episode that acts as a mock up to show the concept behind the weather report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

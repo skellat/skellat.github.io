@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>Temporary Test Run</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Temporary Test Run</itunes:subtitle>
+            <itunes:summary>A placeholder temporary test run of what the weather report would conceptually look like.  Yes, this is a mock up.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="http://skellat.freeshell.org/testrun.mp4" length="52" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/TempTest.html</guid>
+            <pubDate>Wed, 13 Oct 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>0:52</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A placeholder temporary test run of what the weather report would conceptually look like.  Yes, this is a mock up. 
+
+Show Notes Available at https://coyote.works/2021/TempTest.html.</description>
+            <itunes:keywords>Housekeeping</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Big Buck Bunny</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Big Buck Bunny</itunes:subtitle>
