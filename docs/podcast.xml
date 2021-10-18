@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>Puerto Rico: A Colony The American Way</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Puerto Rico: A Colony The American Way</itunes:subtitle>
+            <itunes:summary>A travelogue about Puerto Rico.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/puerto-rico-acolony-the-american-way/PuertoRico_AColonyTheAmericanWay.mp4" length="1681" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/PR.html</guid>
+            <pubDate>Mon, 18 Oct 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>27:41</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A travelogue about Puerto Rico. 
+
+Show Notes Available at https://coyote.works/2021/PR.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Temporary Test Run</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Temporary Test Run</itunes:subtitle>
@@ -38,7 +56,7 @@
 
 Show Notes Available at https://coyote.works/2021/TempTest.html.</description>
             <itunes:keywords>Housekeeping</itunes:keywords>
-            <itunes:block>no</itunes:block>
+            <itunes:block>yes</itunes:block>
 		</item>
 
         <item>
