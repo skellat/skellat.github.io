@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>The Phantom Creeps</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: The Phantom Creeps</itunes:subtitle>
+            <itunes:summary>An unriffed Bella Lugosi film.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/ThePhantomCreeps/ThePhantomCreeps_512kb.mp4" length="4700" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/PhantomCreeps.html</guid>
+            <pubDate>Tue, 19 Oct 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>1:18:20</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>An unriffed Bella Lugosi film. 
+
+Show Notes Available at https://coyote.works/2021/PhantomCreeps.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Evil Brain From Outer Space</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Evil Brain From Outer Space</itunes:subtitle>
+            <itunes:summary>From the Star Man quartet of films</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/EvilBrainFromOuterSpace/EvilBrainFromOuterSpace_512kb.mp4" length="4689" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/EvilBrain.html</guid>
+            <pubDate>Tue, 19 Oct 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>1:18:09</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>From the Star Man quartet of films 
+
+Show Notes Available at https://coyote.works/2021/EvilBrain.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Puerto Rico: A Colony The American Way</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Puerto Rico: A Colony The American Way</itunes:subtitle>
