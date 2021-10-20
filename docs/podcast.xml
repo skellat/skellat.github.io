@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>Yongary</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Yongary</itunes:subtitle>
+            <itunes:summary>A Korean monster movie.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Yongary-MonsterFromTheDeep/Yongara_512kb.mp4" length="4659" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/Yongary.html</guid>
+            <pubDate>Wed, 20 Oct 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>1:17:39</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A Korean monster movie. 
+
+Show Notes Available at https://coyote.works/2021/Yongary.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Exercise and Health</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Exercise and Health</itunes:subtitle>
+            <itunes:summary>Another installment from our friends at Coronet Films.  This short dates to 1949.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Exercise1949/Exercise1949.mp4" length="590" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/B.html</guid>
+            <pubDate>Wed, 20 Oct 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>9:50</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Another installment from our friends at Coronet Films.  This short dates to 1949. 
+
+Show Notes Available at https://coyote.works/2021/B.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>The Phantom Creeps</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: The Phantom Creeps</itunes:subtitle>
