@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Teenagers From Outer Space"
+date: 2021-10-23 2309 -0400
+file: https://archive.org/download/teenagers_from_outerspace/Teenagers_from_Outer_Space_512kb.mp4
+summary: "Classic Madness"
+description: "Classic Madness"
+duration: "1:25:28"
+length: "4528"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+Classic science fiction madness.
+
+<iframe src="https://archive.org/embed/teenagers_from_outerspace" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

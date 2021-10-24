@@ -1,0 +1,39 @@
+---
+layout: post
+title: "BBS: The Documentary -- Episode 5"
+date: 2021-10-24 0001 -0400
+file: https://archive.org/download/BBS.The.Documentary/BBS.The.Documentary.ep5_512kb.mp4
+summary: "Produced by Jason Scott, this presents history of computer culture"
+description: "Produced by Jason Scott, this presents history of computer culture"
+duration: "42:45"
+length: "2565"
+explicit: "yes" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+The fifth episode about a part of our early computer culture.
+
+<iframe src="https://archive.org/embed/BBS.The.Documentary" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
