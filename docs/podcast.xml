@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>Radio Broadcasting Today</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Radio Broadcasting Today</itunes:subtitle>
+            <itunes:summary>This is a film out of the Academic Film Archive of North America.  In this film we take a 1940s era look at radio broadcasting.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/RadioBroadcastingToday/RadioBroadcastingToday.mp4" length="1113" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/radio.html</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>18:33</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>This is a film out of the Academic Film Archive of North America.  In this film we take a 1940s era look at radio broadcasting. 
+
+Show Notes Available at https://coyote.works/2021/radio.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Atomic Rulers of the World</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Atomic Rulers of the World</itunes:subtitle>

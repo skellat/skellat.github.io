@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Radio Broadcasting Today"
+date: 2021-10-26 0001 -0400
+file: https://archive.org/download/RadioBroadcastingToday/RadioBroadcastingToday.mp4
+summary: "This is a film out of the Academic Film Archive of North America.  In this film we take a 1940s era look at radio broadcasting."
+description: "This is a film out of the Academic Film Archive of North America.  In this film we take a 1940s era look at radio broadcasting."
+duration: "18:33"
+length: "1113"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+This is a film out of the [Academic Film Archive of North America](http://www.afana.org/watchfilms.htm).  They work to snag films heading for destruction so that they can be preserved.  These aren't necessarily the same as the [Coronet and Centron films](https://www.rifftrax.com/catalog/product-type/shorts/collection/shorts) that the folks at [RiffTrax](https://www.rifftrax.com/) work with.
+
+<iframe src="https://archive.org/embed/RadioBroadcastingToday" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
