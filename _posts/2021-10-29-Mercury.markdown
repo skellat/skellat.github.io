@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Astronauts: United States Project Mercury, ca. 1960 "
+date: 2021-10-29 0001 -0400
+file: https://archive.org/download/gov.archives.arc.1151850/gov.archives.arc.1151850_512kb.mp4
+summary: "Part of NASA's history files, this film talks about the astronauts of the Mercury project."
+description: "Part of NASA's history files, this film talks about the astronauts of the Mercury project."
+duration: "27:04"
+length: "1624"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+This film is part of NASA's history files.  In it we learn about the astronauts of the Mercury project.  NASA made many, many films to document itself to share with the public.
+
+<iframe src="https://archive.org/embed/gov.archives.arc.1151850" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
