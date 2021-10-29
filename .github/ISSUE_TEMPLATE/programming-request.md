@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 **What do you propose?**
-A clear and concise description of the proposal.
+Provide a clear and concise description of the proposal.
 
 **Describe the copyright status of your requested program**
-Does there need to be a licensing search?  Is it public domain?
+Does there need to be a licensing search?  Is it public domain?  Is it Creative Commons licensed?
 
 **Describe alternatives you've considered**
 A clear and concise description of any alternatives you've considered.

@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Dedicating the Neil A. Armstrong Test Facility for An American Hero"
+date: 2021-10-28 2346 -0400
+file: https://images-assets.nasa.gov/video/Dedicating%20the%20Neil%20A.%20Armstrong%20Test%20Facility%20for%20An%20American%20Hero/Dedicating%20the%20Neil%20A.%20Armstrong%20Test%20Facility%20for%20An%20American%20Hero~large.mp4
+summary: "This is the re-dedication of the facility in Sandusky previously known as Plum Brook Station."
+description: "This is the re-dedication of the facility in Sandusky previously known as Plum Brook Station."
+duration: "3:18"
+length: "198"
+explicit: "no" 
+keywords: "NASA Image Exchange"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+NASA Image Exchange states:
+
+    NASA’s Glenn Research Center held a dedication ceremony for its Neil A. Armstrong Test Facility in Sandusky, Ohio, on Wednesday, Aug. 11. Formerly called Plum Brook Station, the facility is home to some of the world’s most powerful and capable space simulation chambers that support NASA’s Artemis program and commercial spaceflight testing. Located on 6,400 acres, the facility includes the Space Environments Complex, which houses innovative simulation technologies like vacuum and acoustic chambers and a spacecraft shaker system. Also on-site is the NASA Electric Aircraft Testbed, where engineers are ushering in the future of sustainable flight, and the In-Space Propulsion Facility, which performs complex testing of full-scale in-space vehicles and rocket engines. Neil Armstrong, the first man on the Moon, began his NASA career at Glenn Research Center (called the Lewis Flight Propulsion Laboratory at the time) as a test pilot in 1955. He flew aircraft like the F-82 Twin Mustang and C-47 Skytrain before eventually transitioning to the agency’s High Speed Flight Station in California and later becoming an astronaut.
+
+There is no embedded player available from NASA Image Exchange but [click here](https://images.nasa.gov/details-Dedicating%20the%20Neil%20A.%20Armstrong%20Test%20Facility%20for%20An%20American%20Hero) to watch the short film on their site.
