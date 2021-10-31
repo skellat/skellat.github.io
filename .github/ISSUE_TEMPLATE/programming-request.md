@@ -17,4 +17,4 @@ Does there need to be a licensing search?  Is it public domain?  Is it Creative 
 A clear and concise description of any alternatives you've considered.
 
 **Additional context**
-Add any other context here.
+Add any other context here.  Please don't make us chase after you for details but also do not be obtuse in your writing.

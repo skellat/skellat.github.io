@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>20,000 Leagues Under the Sea</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: 20,000 Leagues Under the Sea</itunes:subtitle>
+            <itunes:summary>For Halloween we have a silent film.  Yes, we turn to an early film by Universal that does a send-up of a Jules Verne story.  The story originally came out towards the end of the Second Empire in France and the launch of the Third Republic.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4" length="5922" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/Halloween2021.html</guid>
+            <pubDate>Sun, 31 Oct 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>1:38:42</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>For Halloween we have a silent film.  Yes, we turn to an early film by Universal that does a send-up of a Jules Verne story.  The story originally came out towards the end of the Second Empire in France and the launch of the Third Republic. 
+
+Show Notes Available at https://coyote.works/2021/Halloween2021.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Nancy Drew...Reporter</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Nancy Drew...Reporter</itunes:subtitle>
