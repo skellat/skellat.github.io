@@ -12,7 +12,7 @@ email: ashtabulaecv197@gmail.com
 lang: en-us
 author: Erie Looking Productions
 #description: "Lighting the way from Ashtabula to see television history when basic broadcast TV goes sour.  This is our very special 'Push VOD' proto-network."
-description: "The renegade television network for the Ashtabula area offering public domain and Creative Commons-licensed content from the Internet Archive in addition to locally produced fare."
+description: "The Ashtabula area renegade television network offering public domain and Creative Commons-licensed content from the Internet Archive in addition to locally produced fare."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://coyote.works" # the base hostname & protocol for your site
 twitter_username: writer_smk
@@ -20,12 +20,15 @@ github_username:  skellat
 
 permalink: /:year/:title.html
 
-# Timezone
-
-timezone: America/Detroit
+#Setup for Pages
+include: ['_pages']
 
 # Build settings
 markdown: kramdown
 
 #Exclude local build settings
-exclude: ['CNAME', 'README.md', 'docs', 'readme.md', 'Gemfile.lock', 'Gemfile']
+exclude: ['CNAME', 'README.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'docs', 'Gemfile.lock', 'Gemfile']
+
+# Timezone
+
+timezone: America/Detroit
