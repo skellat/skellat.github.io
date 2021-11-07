@@ -1,0 +1,19 @@
+---
+layout: post
+title: "First Spaceship on Venus"
+date: 2021-11-07 0001 -0400
+file: https://archive.org/download/FirstSpaceshipOnVenusMPEG/First_Spaceship_On_Venus.mp4
+summary: "A film from the wrong side of the Iron Curtain painting quite a view of space exploration."
+description: "A film from the wrong side of the Iron Curtain painting quite a view of space exploration."
+duration: "1:18:31"
+length: "4711"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+A film from the wrong side of the Iron Curtain painting quite a view of space exploration.  This is not the riffed version.
+
+<iframe src="https://archive.org/embed/FirstSpaceshipOnVenusMPEG" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>First Spaceship on Venus</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: First Spaceship on Venus</itunes:subtitle>
+            <itunes:summary>A film from the wrong side of the Iron Curtain painting quite a view of space exploration.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/FirstSpaceshipOnVenusMPEG/First_Spaceship_On_Venus.mp4" length="4711" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/Venus.html</guid>
+            <pubDate>Sun, 07 Nov 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>1:18:31</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A film from the wrong side of the Iron Curtain painting quite a view of space exploration. 
+
+Show Notes Available at https://coyote.works/2021/Venus.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Voyage To The Planet Of Prehistoric Women</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Voyage To The Planet Of Prehistoric Women</itunes:subtitle>
+            <itunes:summary>A reworking of the Soviet film Planeta Bur.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/VoyageToThePlanetOfPrehistoricWomen_20130813/Voyage%20to%20the%20Planet%20of%20Prehistoric%20Women.mp4" length="4791" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/Prehistoric.html</guid>
+            <pubDate>Sat, 06 Nov 2021 00:00:00 -0400</pubDate>
+            <itunes:duration>1:19:51</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A reworking of the Soviet film Planeta Bur. 
+
+Show Notes Available at https://coyote.works/2021/Prehistoric.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Using the Bank</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Using the Bank</itunes:subtitle>
