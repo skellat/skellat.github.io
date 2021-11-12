@@ -9,8 +9,8 @@
         <copyright>&#xA9; 2021 ELP Television</copyright>
 		<itunes:subtitle>Ashtabula-Area Media</itunes:subtitle>
         <itunes:author>Erie Looking Productions</itunes:author>
-		<itunes:summary>The Ashtabula area renegade television network offering public domain and Creative Commons-licensed content from the Internet Archive in addition to locally produced fare.</itunes:summary>
-        <description>The Ashtabula area renegade television network offering public domain and Creative Commons-licensed content from the Internet Archive in addition to locally produced fare.</description>
+		<itunes:summary>The renegade television network offering the Ashtabula area public domain and Creative Commons-licensed content from the Internet Archive in addition to locally produced shows.</itunes:summary>
+        <description>The renegade television network offering the Ashtabula area public domain and Creative Commons-licensed content from the Internet Archive in addition to locally produced shows.</description>
 		<webMaster>ashtabulaecv197@gmail.com (Erie Looking Productions)</webMaster>
         <itunes:owner>
 			<itunes:name>Erie Looking Productions</itunes:name>
@@ -22,6 +22,24 @@
     <itunes:keywords>video on demand, Ashtabula, special services</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
 		
+
+        <item>
+            <title>Making Films That Teach</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Making Films That Teach</itunes:subtitle>
+            <itunes:summary>An educational film about making educational films.  In an age where everybody can post video online there is a need for good instructional video content.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/MakingFi1954/MakingFi1954.mp4" length="1092" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/MakingFilms.html</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 -0500</pubDate>
+            <itunes:duration>18:12</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>An educational film about making educational films.  In an age where everybody can post video online there is a need for good instructional video content. 
+
+Show Notes Available at https://coyote.works/2021/MakingFilms.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
 
         <item>
             <title>African Americans in World War II: Legacy of Patriotism and Valor</title>
