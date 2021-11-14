@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>Phantom From Space</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Phantom From Space</itunes:subtitle>
+            <itunes:summary>A monster crashes from space in the Los Angeles area and a ragtag crew has to neutralize the threat.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Phantom_From_Space/Phantom_From_Space.mp4" length="4341" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/PhantomFromSpace.html</guid>
+            <pubDate>Sun, 14 Nov 2021 00:00:00 -0500</pubDate>
+            <itunes:duration>1:12:21</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A monster crashes from space in the Los Angeles area and a ragtag crew has to neutralize the threat. 
+
+Show Notes Available at https://coyote.works/2021/PhantomFromSpace.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Invasion of the Neptune Men</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Invasion of the Neptune Men</itunes:subtitle>
+            <itunes:summary>A jaunt into the realm of monochrome monsters invading Japan.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/InvasionOfTheNeptuneMen/Invasion%20Of%20The%20Neptune%20Men.mp4" length="4151" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/NeptuneMen.html</guid>
+            <pubDate>Sat, 13 Nov 2021 00:00:00 -0500</pubDate>
+            <itunes:duration>1:09:11</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A jaunt into the realm of monochrome monsters invading Japan. 
+
+Show Notes Available at https://coyote.works/2021/NeptuneMen.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Making Films That Teach</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Making Films That Teach</itunes:subtitle>
