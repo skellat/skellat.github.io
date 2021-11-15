@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>Trailer: Radar Men From The Moon</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Trailer: Radar Men From The Moon</itunes:subtitle>
+            <itunes:summary>This is the trailer to the multi-part serial that aired as part of the first season of Mystery Science Theater 3000.  We'll start with this before deciding upon showing the whole thing or not.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/RadarMenFromTheMoonTrailer/RadarMenFromTheMoonTrailer.mp4" length="113" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/Trailer-RadarMen.html</guid>
+            <pubDate>Mon, 15 Nov 2021 00:00:00 -0500</pubDate>
+            <itunes:duration>1:53</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>This is the trailer to the multi-part serial that aired as part of the first season of Mystery Science Theater 3000.  We'll start with this before deciding upon showing the whole thing or not. 
+
+Show Notes Available at https://coyote.works/2021/Trailer-RadarMen.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Phantom From Space</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Phantom From Space</itunes:subtitle>
