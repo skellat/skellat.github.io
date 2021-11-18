@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Power To Serve"
-date: 2021-11-01 1306 -0500
+date: 2021-11-17 0001 -0500
 file: https://archive.org/download/PowertoS1957/PowertoS1957.mp4
 summary: "The people at the Jam Handy Organization produced a film for the Illuminating Company extolling its virtues.  The old coal plant in Ashtabula is depicted in this film."
 description: "The people at the Jam Handy Organization produced a film for the Illuminating Company extolling its virtues.  The old coal plant in Ashtabula is depicted in this film."
