@@ -11,6 +11,7 @@ We gain strength from diversity, and actively seek participation from those who 
 The Code of Conduct governs how we behave in public or in private whenever the project will be judged by our actions. We expect it to be honoured by everyone who represents the project officially or informally, claims affiliation with the project, or participates directly.
 
 We strive to:
+
 #### Be considerate
 Our work will be used by other people, and we in turn will depend on the work of others. Any decision we take will affect users and colleagues, and we should consider them when making decisions.
 

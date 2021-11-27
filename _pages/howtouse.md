@@ -12,6 +12,6 @@ Links:
 
 * [Subscribe via Apple Podcasts](https://podcasts.apple.com/us/podcast/elp-television/id1589693984)
 * [Subscribe via AntennaPod](https://antennapod.org/deeplink/subscribe/?url={{ site.url }}{{ site.baseurl }}/podcast.xml)
-* [Mirror Apple device to Roku](https://www.businessinsider.com/roku-airplay?op=1)
-* [Mirror Android device to Roku](https://www.androidauthority.com/how-to-cast-to-roku-1171539/)
-* [RSS feed to subscribe in any podcast program]({{ site.url }}{{ site.baseurl }}/podcast.xml)
+* [Mirror an Apple device to watch via  Roku](https://www.businessinsider.com/roku-airplay?op=1)
+* [Mirror an Android device to watch via Roku](https://www.androidauthority.com/how-to-cast-to-roku-1171539/)
+* [RSS feed to subscribe in any podcast program you may have]({{ site.url }}{{ site.baseurl }}/podcast.xml)
