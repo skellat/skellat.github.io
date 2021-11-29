@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>Newspaper: Behind the Scenes</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Newspaper: Behind the Scenes</itunes:subtitle>
+            <itunes:summary>A look at how a newspaper was produced in California in the 1970s.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/NewspaperBehindtheScenes/NewspaperBehindtheScenes_512kb.mp4" length="903" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/MakingNewspapers.html</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 -0500</pubDate>
+            <itunes:duration>15:03</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look at how a newspaper was produced in California in the 1970s. 
+
+Show Notes Available at https://coyote.works/2021/MakingNewspapers.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>A Day of Thanksgiving</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: A Day of Thanksgiving</itunes:subtitle>
