@@ -1,0 +1,21 @@
+---
+layout: post
+title: "More Dangerous Than Dynamite"
+date: 2021-12-02 0001 -0500
+file: https://archive.org/download/2318_More_Dangerous_Than_Dynamite_02_21_05_00/2318_More_Dangerous_Than_Dynamite_02_21_05_00.m4v
+summary: "It was 1941.  It was over the top.  Yes, it is an educational short talking about the dangers of the misuse of gasoline.  This is an unriffed version."
+description: "It was 1941.  It was over the top.  Yes, it is an educational short talking about the dangers of the misuse of gasoline.  This is an unriffed version."
+duration: "9:44"
+length: "584"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+It was 1941.  It was over the top.  Yes, it is an educational short talking about the dangers of the misuse of gasoline.  This is an unriffed version.  
+
+A riffed version [can be found on YouTube](https://youtu.be/JirQCaZ_6Xg) courtesy the guys at [RiffTrax](https://rifftrax.com).  
+
+<iframe src="https://archive.org/embed/2318_More_Dangerous_Than_Dynamite_02_21_05_00" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
