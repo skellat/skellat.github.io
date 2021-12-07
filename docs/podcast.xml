@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>Santa Claus (Silent Movie From 1925)</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Santa Claus (Silent Movie From 1925)</itunes:subtitle>
+            <itunes:summary>A monochromatic silent film from 1925 that proudly proclaims that it was filmed in Alaska.  What could possibly go wrong?</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/silent-santa-claus/Santa%20Claus.mp4" length="1724" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/SilentSanta.html</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 -0500</pubDate>
+            <itunes:duration>28:44</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A monochromatic silent film from 1925 that proudly proclaims that it was filmed in Alaska.  What could possibly go wrong? 
+
+Show Notes Available at https://coyote.works/2021/SilentSanta.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Capitalism</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Capitalism</itunes:subtitle>
