@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>Rudolph, The Red-Nosed Reindeer</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Rudolph, The Red-Nosed Reindeer</itunes:subtitle>
+            <itunes:summary>Directed by Max Fleischer for the Jam Handy Organization, we hear a rendering of the story of Rudolph.  What could go wrong?</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/0542_Rudolph_The_Red-Nosed_Reindeer_06_21_17_28/0542_Rudolph_The_Red-Nosed_Reindeer_06_21_17_28.m4v" length="529" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/RudolphReindeer.html</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 -0500</pubDate>
+            <itunes:duration>8:49</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Directed by Max Fleischer for the Jam Handy Organization, we hear a rendering of the story of Rudolph.  What could go wrong? 
+
+Show Notes Available at https://coyote.works/2021/RudolphReindeer.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Son of the Navy</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Son of the Navy</itunes:subtitle>
