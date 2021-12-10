@@ -3,7 +3,7 @@ Coyote Works
 
 This is the Jekyll tooling for the video "podcast" site.  
 
-Eventually local productions from Ashtabula will be added.  A systems catastrophe on November 14th holds us back in that regard.  Alternative options are being explored to allow for recovery.  
+Eventually local productions from Ashtabula will be added.  A successful systems test for chroma key action on December 9th may allow us to begin production soon.  
   
 Financial contributions are always accepted.  They are not tax-deductible, though.  
 
