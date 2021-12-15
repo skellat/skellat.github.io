@@ -9,8 +9,8 @@
         <copyright>&#xA9; 2021 ELP Television</copyright>
 		<itunes:subtitle>Ashtabula-Area Media</itunes:subtitle>
         <itunes:author>Erie Looking Productions</itunes:author>
-		<itunes:summary>The online television network offering public domain and Creative Commons-licensed content from the Internet Archive in addition to Ashtabula-area produced shows.</itunes:summary>
-        <description>The online television network offering public domain and Creative Commons-licensed content from the Internet Archive in addition to Ashtabula-area produced shows.</description>
+		<itunes:summary>Online television network offering public domain and Creative Commons-licensed video content from the Internet Archive in addition to Ashtabula-area produced shows.</itunes:summary>
+        <description>Online television network offering public domain and Creative Commons-licensed video content from the Internet Archive in addition to Ashtabula-area produced shows.</description>
 		<webMaster>ashtabulaecv197@gmail.com (Erie Looking Productions)</webMaster>
         <itunes:owner>
 			<itunes:name>Erie Looking Productions</itunes:name>
@@ -22,6 +22,24 @@
     <itunes:keywords>video on demand, Ashtabula, special services</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
 		
+
+        <item>
+            <title>Santa and the Fairy Snow Queen</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Santa and the Fairy Snow Queen</itunes:subtitle>
+            <itunes:summary>Before today's cookie cutter holiday films from a certain television network named for a greeting card company it seems filmmakers of the past liked to indulge in making what can best be described as nightmare fuel.  This short comes from producer Sid Davis who is more well known for quite heavy-handed productions in the educational films realm.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/2357_Santa_and_the_Fairy_Snow_Queen_07_25_41_00/2357_Santa_and_the_Fairy_Snow_Queen_07_25_41_00.m4v" length="1569" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/FairySnowQueen.html</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 -0500</pubDate>
+            <itunes:duration>26:09</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Before today's cookie cutter holiday films from a certain television network named for a greeting card company it seems filmmakers of the past liked to indulge in making what can best be described as nightmare fuel.  This short comes from producer Sid Davis who is more well known for quite heavy-handed productions in the educational films realm. 
+
+Show Notes Available at https://coyote.works/2021/FairySnowQueen.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
 
         <item>
             <title>Rural Holidays</title>

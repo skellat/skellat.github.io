@@ -1,0 +1,3 @@
+# Force output of git changelog to be GNU style
+
+git log --pretty --numstat --summary | git2cl > ChangeLog
