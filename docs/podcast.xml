@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>Phantom of the Opera</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Phantom of the Opera</itunes:subtitle>
+            <itunes:summary>A silent film version.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4" length="6388" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/Phantom.html</guid>
+            <pubDate>Sat, 18 Dec 2021 00:00:00 -0500</pubDate>
+            <itunes:duration>1:46:28</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A silent film version. 
+
+Show Notes Available at https://coyote.works/2021/Phantom.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Santa and the Fairy Snow Queen</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Santa and the Fairy Snow Queen</itunes:subtitle>
