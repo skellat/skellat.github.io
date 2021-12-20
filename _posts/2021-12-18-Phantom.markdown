@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Phantom of the Opera"
+date: 2021-12-18 0001 -0500
+file: https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4
+summary: "A silent film version."
+description: "A silent film version."
+duration: "1:46:28"
+length: "6388"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+A silent film version.
+
+<iframe src="https://archive.org/embed/ThePhantomoftheOpera" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

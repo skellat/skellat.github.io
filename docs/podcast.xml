@@ -24,6 +24,7 @@
 		
 
         <item>
+<<<<<<< HEAD
             <title>I'll Be Seeing You</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: I'll Be Seeing You</itunes:subtitle>
@@ -37,6 +38,21 @@
             <description>A soldier suffering from combat fatigue meets a young woman on Christmas furlough from prison and their mutual loneliness blossoms into romance. 
 
 Show Notes Available at https://coyote.works/2021/BeSeeingYou.html.</description>
+=======
+            <title>Phantom of the Opera</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Phantom of the Opera</itunes:subtitle>
+            <itunes:summary>A silent film version.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4" length="6388" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/Phantom.html</guid>
+            <pubDate>Sat, 18 Dec 2021 00:00:00 -0500</pubDate>
+            <itunes:duration>1:46:28</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A silent film version. 
+
+Show Notes Available at https://coyote.works/2021/Phantom.html.</description>
+>>>>>>> a8887ce36d54e2b929dfacf4b634e9e83c7ead9a
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
