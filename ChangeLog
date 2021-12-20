@@ -1,3 +1,12 @@
+2021-12-15  Stephen Michael Kellat <smkellat@yahoo.com>
+
+	* ChangeLog, _config.yml,
+	_posts/2021-12-15-FairySnowQueen.markdown,
+	docs/2021/FairySnowQueen.html, docs/about.html, docs/howtouse.html,
+	docs/index.html, docs/podcast.xml, forceout, index.html: Corrected
+	fixed pages Fairy Snow Queen Added git2cl force script Added GNU
+	ChangeLog Signed-off-by: Stephen Michael Kellat <smkellat@yahoo.com>
+
 2021-12-09  Stephen Michael Kellat <smkellat@yahoo.com>
 
 	* README.md, _config.yml, _posts/2021-12-10-RuralHolidays.markdown,
