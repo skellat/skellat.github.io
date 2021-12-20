@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>I'll Be Seeing You</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: I'll Be Seeing You</itunes:subtitle>
+            <itunes:summary>A soldier suffering from combat fatigue meets a young woman on Christmas furlough from prison and their mutual loneliness blossoms into romance.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/IWillBeSeeingYou/IBSY.mp4" length="5098" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/BeSeeingYou.html</guid>
+            <pubDate>Mon, 20 Dec 2021 00:00:00 -0500</pubDate>
+            <itunes:duration>1:24:58</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A soldier suffering from combat fatigue meets a young woman on Christmas furlough from prison and their mutual loneliness blossoms into romance. 
+
+Show Notes Available at https://coyote.works/2021/BeSeeingYou.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Santa and the Fairy Snow Queen</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Santa and the Fairy Snow Queen</itunes:subtitle>
