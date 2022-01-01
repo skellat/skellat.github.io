@@ -14,4 +14,5 @@ Links:
 * [Subscribe via AntennaPod](https://antennapod.org/deeplink/subscribe/?url={{ site.url }}{{ site.baseurl }}/podcast.xml)
 * [Mirror an Apple device to watch via  Roku](https://www.businessinsider.com/roku-airplay?op=1)
 * [Mirror an Android device to watch via Roku](https://www.androidauthority.com/how-to-cast-to-roku-1171539/)
+* [Mirror a Windows computer's display to watch on a Roku](https://windowsreport.com/cast-windows-10-roku/)
 * [RSS feed to subscribe in any podcast program you may have]({{ site.url }}{{ site.baseurl }}/podcast.xml)

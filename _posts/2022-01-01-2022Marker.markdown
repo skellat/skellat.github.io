@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Starting 2022"
+date: 2022-01-01 0055 -0500
+file: https://archive.org/download/Exercise1949/Exercise1949.mp4
+summary: "Recorded in an undisclosed location, Mike Kellat of the production staff at Erie Looking Productions introduces the ELP TV video podcast channel to the world."
+description: "Recorded in an undisclosed location, Mike Kellat of the production staff at Erie Looking Productions introduces the ELP TV video podcast channel to the world."
+duration: "0:45"
+length: "45"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+Recorded in an undisclosed location, Mike Kellat of the production staff at Erie Looking Productions introduces the ELP TV video podcast channel to the world.
+
+<iframe src="https://archive.org/embed/ELPTV2022ChannelMarker" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
