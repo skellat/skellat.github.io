@@ -1,0 +1,19 @@
+---
+layout: post
+title: "The Goat"
+date: 2022-01-02 0010 -0500
+file: https://archive.org/download/TheGoat/The_Goat_512kb.mp4
+summary: "Buster Keaton versus a goat.  Yes, this is another silent film."
+description: "Buster Keaton versus a goat.  Yes, this is another silent film."
+duration: "22:54"
+length: "1374"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+Buster Keaton versus a goat.  Yes, this is another silent film.
+
+<iframe src="https://archive.org/embed/TheGoat" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

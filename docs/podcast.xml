@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>The Goat</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: The Goat</itunes:subtitle>
+            <itunes:summary>Buster Keaton versus a goat.  Yes, this is another silent film.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/TheGoat/The_Goat_512kb.mp4" length="1374" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/TheGoat.html</guid>
+            <pubDate>Sun, 02 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>22:54</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Buster Keaton versus a goat.  Yes, this is another silent film. 
+
+Show Notes Available at https://coyote.works/2022/TheGoat.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Lessons Learned from a Ransomware Attack</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Lessons Learned from a Ransomware Attack</itunes:subtitle>
