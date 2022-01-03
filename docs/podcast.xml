@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>Reefer Madness</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Reefer Madness</itunes:subtitle>
+            <itunes:summary>The classic shlock scare film.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4" length="4097" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/ReeferMadness.html</guid>
+            <pubDate>Mon, 03 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>1:08:17</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>The classic shlock scare film. 
+
+Show Notes Available at https://coyote.works/2022/ReeferMadness.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>REPEAT: Nancy Drew...Reporter</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: REPEAT: Nancy Drew...Reporter</itunes:subtitle>
+            <itunes:summary>REPEAT... A 1930s era film featuring Bonita Granville as Nancy Drew.  No, it is nothing like what is seen on the CW today.  Please bear in mind that it is also very much a product of the time when it was produced and may seem quite offensive at points today.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/NancyDrewReporter/Nancy_Drew_Reporter.mp4" length="4065" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/NancyDrew.html</guid>
+            <pubDate>Mon, 03 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>1:07:45</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>REPEAT... A 1930s era film featuring Bonita Granville as Nancy Drew.  No, it is nothing like what is seen on the CW today.  Please bear in mind that it is also very much a product of the time when it was produced and may seem quite offensive at points today. 
+
+Show Notes Available at https://coyote.works/2022/NancyDrew.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>The Goat</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: The Goat</itunes:subtitle>
@@ -37,24 +73,6 @@
             <description>Buster Keaton versus a goat.  Yes, this is another silent film. 
 
 Show Notes Available at https://coyote.works/2022/TheGoat.html.</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title></title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: </itunes:subtitle>
-            <itunes:summary>Write the summary here</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="Link to MP4 on Internet Archive" length="590" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/ReeferMadness.html</guid>
-            <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>9:50</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>Write the summary here 
-
-Show Notes Available at https://coyote.works/2022/ReeferMadness.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
