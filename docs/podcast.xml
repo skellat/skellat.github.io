@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>Le voyage dans la lune</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Le voyage dans la lune</itunes:subtitle>
+            <itunes:summary>Here we find a French silent film from 1902 about travel to the moon.  It is very emblematic of the sensibilities of when it was made.  Is it goofy?  You better believe it...</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Levoyagedanslalune/Le_voyage_dans_la_lune_A_trip_to_the_moon__Georges_Mlis_1902_512kb.mp4" length="708" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/VoyageToTheMoon.html</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>11:48</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Here we find a French silent film from 1902 about travel to the moon.  It is very emblematic of the sensibilities of when it was made.  Is it goofy?  You better believe it... 
+
+Show Notes Available at https://coyote.works/2022/VoyageToTheMoon.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Reefer Madness</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Reefer Madness</itunes:subtitle>
