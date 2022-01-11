@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>What Is Money?</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: What Is Money?</itunes:subtitle>
+            <itunes:summary>Well before the age of cryptocurrency we have this short educational film talking about what money happens to be...</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/WhatIsMo1947/WhatIsMo1947_edit.mp4" length="632" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/MovieSign.html</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>10:32</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Well before the age of cryptocurrency we have this short educational film talking about what money happens to be... 
+
+Show Notes Available at https://coyote.works/2022/MovieSign.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Banks and Credit</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Banks and Credit</itunes:subtitle>
