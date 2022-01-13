@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>Step Lightly</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Step Lightly</itunes:subtitle>
+            <itunes:summary>A public health film about being seen.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/StepLightly/StepLightly.m4v" length="871" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/StepLightly.html</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>14:31</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A public health film about being seen. 
+
+Show Notes Available at https://coyote.works/2022/StepLightly.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>It Must Be The Neighbors</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: It Must Be The Neighbors</itunes:subtitle>
+            <itunes:summary>A public health film that shows public health in a better light than we have seen it lately.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/ItMustBeTheNeighbors/ItMustBeTheNeighbors.m4v" length="798" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/MustBeNeighbors.html</guid>
+            <pubDate>Wed, 12 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>13:18</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A public health film that shows public health in a better light than we have seen it lately. 
+
+Show Notes Available at https://coyote.works/2022/MustBeNeighbors.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>What Is Money?</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: What Is Money?</itunes:subtitle>
