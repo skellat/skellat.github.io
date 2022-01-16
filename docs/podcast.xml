@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>Making Books</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Making Books</itunes:subtitle>
+            <itunes:summary>The life-cycle of making a book.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/MakingBo1947/MakingBo1947_edit.mp4" length="646" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/MakingBooks.html</guid>
+            <pubDate>Sun, 16 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>10:46</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>The life-cycle of making a book. 
+
+Show Notes Available at https://coyote.works/2022/MakingBooks.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>How Do You Know It's Love?</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: How Do You Know It's Love?</itunes:subtitle>
+            <itunes:summary>A heavy-handed look from the 1950s at interpreting young love.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/HowDoYou1950/HowDoYou1950_edit.mp4" length="777" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/Love.html</guid>
+            <pubDate>Sat, 15 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>12:57</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A heavy-handed look from the 1950s at interpreting young love. 
+
+Show Notes Available at https://coyote.works/2022/Love.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>How To Judge Facts</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: How To Judge Facts</itunes:subtitle>

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "How Do You Know It's Love?"
+date: 2022-01-15 2322 -0500
+file: https://archive.org/download/HowDoYou1950/HowDoYou1950_edit.mp4
+summary: "A heavy-handed look from the 1950s at interpreting young love."
+description: "A heavy-handed look from the 1950s at interpreting young love."
+duration: "12:57"
+length: "777"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+A heavy-handed look from the 1950s at interpreting young love.
+
+<iframe src="https://archive.org/embed/HowDoYou1950" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
