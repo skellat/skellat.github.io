@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>Blasting Cap: Danger</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Blasting Cap: Danger</itunes:subtitle>
+            <itunes:summary>An unriffed look at this educational short.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/0412_Blasting_Cap_Danger_12_37_48_00/0412_Blasting_Cap_Danger_12_37_48_00.m4v" length="885" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/BLAH.html</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>14:45</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>An unriffed look at this educational short. 
+
+Show Notes Available at https://coyote.works/2022/BLAH.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>The Yesterday Machine</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: The Yesterday Machine</itunes:subtitle>
+            <itunes:summary>Nazis and time travel: what could go wrong?  This is another Z-grade film.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/TheYesterdayMachine1963_201510/TheYesterdayMachine1963.mp4" length="4708" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/YesterdayMachine.html</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>1:18:28</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Nazis and time travel: what could go wrong?  This is another Z-grade film. 
+
+Show Notes Available at https://coyote.works/2022/YesterdayMachine.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Making Books</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Making Books</itunes:subtitle>

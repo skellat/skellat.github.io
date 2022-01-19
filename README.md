@@ -6,7 +6,7 @@ behind the curtain.
 
 Eventually local productions from Ashtabula will be added.  A successful 
 systems test for chroma key action on December 9th may allow us to begin 
-production soon.  Setbacks remain to be surmounted.
+production soon.  Setbacks continue to remain to be surmounted.
 
 What may local production include?  At this point it will involve 
 reading the weather report.  Data gathering code for that can be found 

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Blasting Cap: Danger"
+date: 2022-01-19 0001 -0500
+file: https://archive.org/download/0412_Blasting_Cap_Danger_12_37_48_00/0412_Blasting_Cap_Danger_12_37_48_00.m4v
+summary: "An unriffed look at this educational short."
+description: "An unriffed look at this educational short."
+duration: "14:45"
+length: "885"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+An unriffed look at this educational short.  A riffed look at it, rated R, can be found [on YouTube](https://youtu.be/U1NRvCqc5AE).
+
+<iframe src="https://archive.org/embed/0412_Blasting_Cap_Danger_12_37_48_00" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
