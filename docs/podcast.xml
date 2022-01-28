@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>The Phantom Creeps</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: The Phantom Creeps</itunes:subtitle>
+            <itunes:summary>Bela Lugosi as Dr. Zorka.  What could go wrong?</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/ThePhantomCreeps/ThePhantomCreeps.mp4" length="4700" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/PhantomCreeps.html</guid>
+            <pubDate>Fri, 28 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>1:18:20</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Bela Lugosi as Dr. Zorka.  What could go wrong? 
+
+Show Notes Available at https://coyote.works/2022/PhantomCreeps.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Episodes in the Life of a Gin Bottle</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Episodes in the Life of a Gin Bottle</itunes:subtitle>
+            <itunes:summary>A silent film about drinking</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/silent-episodes-in-the-life-of-a-gin-bottle/Episodes%20in%20the%20Life%20of%20a%20Gin%20Bottle.mp4" length="684" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/GinBottleLife.html</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>11:24</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A silent film about drinking 
+
+Show Notes Available at https://coyote.works/2022/GinBottleLife.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>On Guard! The Story of SAGE</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: On Guard! The Story of SAGE</itunes:subtitle>
