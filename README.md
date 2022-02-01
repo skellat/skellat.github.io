@@ -2,7 +2,7 @@ Coyote Works
 ============
 
 This is the Jekyll tooling for the video "podcast" site.  You're peeking 
-behind the curtain.
+behind the curtain.  This is made frequently using VS Code.
 
 Eventually local productions from Ashtabula will be added.  A successful 
 systems test for chroma key action on December 9th may allow us to begin 
