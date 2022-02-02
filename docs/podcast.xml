@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>A Case of Spring Fever</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: A Case of Spring Fever</itunes:subtitle>
+            <itunes:summary>An evil old-timey demon torments a man</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/CaseofSp1940/CaseofSp1940_edit.mp4" length="496" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/Coily.html</guid>
+            <pubDate>Wed, 02 Feb 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>8:16</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>An evil old-timey demon torments a man 
+
+Show Notes Available at https://coyote.works/2022/Coily.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Last Clear Chance</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Last Clear Chance</itunes:subtitle>
