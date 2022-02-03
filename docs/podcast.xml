@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>The Selling Wizard</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: The Selling Wizard</itunes:subtitle>
+            <itunes:summary>A quirky film short taking an obscure look at a narrow slice of industry.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/0396_Selling_Wizard_The_M03236_10_47_28_00/0396_Selling_Wizard_The_M03236_10_47_28_00_3mb.ogv" length="727" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/SaleWizard.html</guid>
+            <pubDate>Thu, 03 Feb 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>12:07</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A quirky film short taking an obscure look at a narrow slice of industry. 
+
+Show notes available online at https://coyote.works/2022/SaleWizard.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>A Case of Spring Fever</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: A Case of Spring Fever</itunes:subtitle>
@@ -36,7 +54,7 @@
             <itunes:explicit>no</itunes:explicit>
             <description>An evil old-timey demon torments a man 
 
-Show Notes Available at https://coyote.works/2022/Coily.html.</description>
+Show notes available online at https://coyote.works/2022/Coily.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -54,7 +72,7 @@ Show Notes Available at https://coyote.works/2022/Coily.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>This is a film about railroad safety in terms of automobile accidents. 
 
-Show Notes Available at https://coyote.works/2022/LastClearChance.html.</description>
+Show notes available online at https://coyote.works/2022/LastClearChance.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -72,7 +90,7 @@ Show Notes Available at https://coyote.works/2022/LastClearChance.html.</descrip
             <itunes:explicit>no</itunes:explicit>
             <description>An unclassified Army/Navy training film from 1962 about computer technology. 
 
-Show Notes Available at https://coyote.works/2022/DCT.html.</description>
+Show notes available online at https://coyote.works/2022/DCT.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -90,7 +108,7 @@ Show Notes Available at https://coyote.works/2022/DCT.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Bela Lugosi as Dr. Zorka.  What could go wrong? 
 
-Show Notes Available at https://coyote.works/2022/PhantomCreeps.html.</description>
+Show notes available online at https://coyote.works/2022/PhantomCreeps.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -108,7 +126,7 @@ Show Notes Available at https://coyote.works/2022/PhantomCreeps.html.</descripti
             <itunes:explicit>no</itunes:explicit>
             <description>A silent film about drinking 
 
-Show Notes Available at https://coyote.works/2022/GinBottleLife.html.</description>
+Show notes available online at https://coyote.works/2022/GinBottleLife.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -126,7 +144,7 @@ Show Notes Available at https://coyote.works/2022/GinBottleLife.html.</descripti
             <itunes:explicit>no</itunes:explicit>
             <description>Once upon a time computers filled entire floors of buildings.  This film tells us about the big iron that helped us track inbound missile threats to the United States and Canada. 
 
-Show Notes Available at https://coyote.works/2022/SAGE.html.</description>
+Show notes available online at https://coyote.works/2022/SAGE.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -144,7 +162,7 @@ Show Notes Available at https://coyote.works/2022/SAGE.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Coronet Films...wait, where did the title slate go?  This instructional film starts a bit abruptly but talks about how to handle the intersection of science and superstition.  This is a digitization of a print from the Prelinger Archive. 
 
-Show Notes Available at https://coyote.works/2022/Superstition.html.</description>
+Show notes available online at https://coyote.works/2022/Superstition.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -162,7 +180,7 @@ Show Notes Available at https://coyote.works/2022/Superstition.html.</descriptio
             <itunes:explicit>no</itunes:explicit>
             <description>An event that took place in California at the Internet Archive.  Sound recordings newly available in the public domain were celebrated in a public event with DJs and other attendees. 
 
-Show Notes Available at https://coyote.works/2022/PublicDomain.html.</description>
+Show notes available online at https://coyote.works/2022/PublicDomain.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -180,7 +198,7 @@ Show Notes Available at https://coyote.works/2022/PublicDomain.html.</descriptio
             <itunes:explicit>no</itunes:explicit>
             <description>A discussion of media resources in education. 
 
-Show Notes Available at https://coyote.works/2022/StreamingTransition.html.</description>
+Show notes available online at https://coyote.works/2022/StreamingTransition.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -198,7 +216,7 @@ Show Notes Available at https://coyote.works/2022/StreamingTransition.html.</des
             <itunes:explicit>no</itunes:explicit>
             <description>An unriffed look at this educational short. 
 
-Show Notes Available at https://coyote.works/2022/BLAH.html.</description>
+Show notes available online at https://coyote.works/2022/BLAH.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -216,7 +234,7 @@ Show Notes Available at https://coyote.works/2022/BLAH.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Nazis and time travel: what could go wrong?  This is another Z-grade film. 
 
-Show Notes Available at https://coyote.works/2022/YesterdayMachine.html.</description>
+Show notes available online at https://coyote.works/2022/YesterdayMachine.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -234,7 +252,7 @@ Show Notes Available at https://coyote.works/2022/YesterdayMachine.html.</descri
             <itunes:explicit>no</itunes:explicit>
             <description>The life-cycle of making a book. 
 
-Show Notes Available at https://coyote.works/2022/MakingBooks.html.</description>
+Show notes available online at https://coyote.works/2022/MakingBooks.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -252,7 +270,7 @@ Show Notes Available at https://coyote.works/2022/MakingBooks.html.</description
             <itunes:explicit>no</itunes:explicit>
             <description>A heavy-handed look from the 1950s at interpreting young love. 
 
-Show Notes Available at https://coyote.works/2022/Love.html.</description>
+Show notes available online at https://coyote.works/2022/Love.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -270,7 +288,7 @@ Show Notes Available at https://coyote.works/2022/Love.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>A look from the late 1940s in black and white at how to avoid sensationalism. 
 
-Show Notes Available at https://coyote.works/2022/HowToJudgeFacts.html.</description>
+Show notes available online at https://coyote.works/2022/HowToJudgeFacts.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -288,7 +306,7 @@ Show Notes Available at https://coyote.works/2022/HowToJudgeFacts.html.</descrip
             <itunes:explicit>no</itunes:explicit>
             <description>A public health film about being seen. 
 
-Show Notes Available at https://coyote.works/2022/StepLightly.html.</description>
+Show notes available online at https://coyote.works/2022/StepLightly.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -306,7 +324,7 @@ Show Notes Available at https://coyote.works/2022/StepLightly.html.</description
             <itunes:explicit>no</itunes:explicit>
             <description>A public health film that shows public health in a better light than we have seen it lately. 
 
-Show Notes Available at https://coyote.works/2022/MustBeNeighbors.html.</description>
+Show notes available online at https://coyote.works/2022/MustBeNeighbors.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -324,7 +342,7 @@ Show Notes Available at https://coyote.works/2022/MustBeNeighbors.html.</descrip
             <itunes:explicit>no</itunes:explicit>
             <description>Well before the age of cryptocurrency we have this short educational film talking about what money happens to be... 
 
-Show Notes Available at https://coyote.works/2022/MovieSign.html.</description>
+Show notes available online at https://coyote.works/2022/MovieSign.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -342,7 +360,7 @@ Show Notes Available at https://coyote.works/2022/MovieSign.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>A late 1940s at banks and credit.  The concept of Too Big To Fail most definitely did not exist then. 
 
-Show Notes Available at https://coyote.works/2022/BanksAndCredit.html.</description>
+Show notes available online at https://coyote.works/2022/BanksAndCredit.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -360,7 +378,7 @@ Show Notes Available at https://coyote.works/2022/BanksAndCredit.html.</descript
             <itunes:explicit>no</itunes:explicit>
             <description>A look from an inter-war period about how to be popular. 
 
-Show Notes Available at https://coyote.works/2022/AreYouPopular.html.</description>
+Show notes available online at https://coyote.works/2022/AreYouPopular.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -378,7 +396,7 @@ Show Notes Available at https://coyote.works/2022/AreYouPopular.html.</descripti
             <itunes:explicit>no</itunes:explicit>
             <description>A product of its time, this film from Centron/Young America Films tries to teach us about the terms used in cooking. 
 
-Show Notes Available at https://coyote.works/2022/CookingTerms.html.</description>
+Show notes available online at https://coyote.works/2022/CookingTerms.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -396,7 +414,7 @@ Show Notes Available at https://coyote.works/2022/CookingTerms.html.</descriptio
             <itunes:explicit>no</itunes:explicit>
             <description>This is the final film of the Star Man quartet. 
 
-Show Notes Available at https://coyote.works/2022/InvadersSpace.html.</description>
+Show notes available online at https://coyote.works/2022/InvadersSpace.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -414,7 +432,7 @@ Show Notes Available at https://coyote.works/2022/InvadersSpace.html.</descripti
             <itunes:explicit>no</itunes:explicit>
             <description>From the Star Man quartet of films 
 
-Show Notes Available at https://coyote.works/2022/EvilBrainRepeat.html.</description>
+Show notes available online at https://coyote.works/2022/EvilBrainRepeat.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -432,7 +450,7 @@ Show Notes Available at https://coyote.works/2022/EvilBrainRepeat.html.</descrip
             <itunes:explicit>no</itunes:explicit>
             <description>Science Fiction from Japan!  Walter Manley Enterprises!  The best that can be said is that this has been riffed by RiffTrax.  This is the unriffed version courtesy the Internet Archive. 
 
-Show Notes Available at https://coyote.works/2022/Attack-From-Space-REPEAT.html.</description>
+Show notes available online at https://coyote.works/2022/Attack-From-Space-REPEAT.html.</description>
             <itunes:keywords>Science Fiction, public domain, silly films, Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -450,7 +468,7 @@ Show Notes Available at https://coyote.works/2022/Attack-From-Space-REPEAT.html.
             <itunes:explicit>no</itunes:explicit>
             <description>This is another film of the Star Man quartet. 
 
-Show Notes Available at https://coyote.works/2022/AtomicRulers.html.</description>
+Show notes available online at https://coyote.works/2022/AtomicRulers.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -468,7 +486,7 @@ Show Notes Available at https://coyote.works/2022/AtomicRulers.html.</descriptio
             <itunes:explicit>no</itunes:explicit>
             <description>Here we find a French silent film from 1902 about travel to the moon.  It is very emblematic of the sensibilities of when it was made.  Is it goofy?  You better believe it... 
 
-Show Notes Available at https://coyote.works/2022/VoyageToTheMoon.html.</description>
+Show notes available online at https://coyote.works/2022/VoyageToTheMoon.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -486,7 +504,7 @@ Show Notes Available at https://coyote.works/2022/VoyageToTheMoon.html.</descrip
             <itunes:explicit>no</itunes:explicit>
             <description>The classic shlock scare film. 
 
-Show Notes Available at https://coyote.works/2022/ReeferMadness.html.</description>
+Show notes available online at https://coyote.works/2022/ReeferMadness.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -504,7 +522,7 @@ Show Notes Available at https://coyote.works/2022/ReeferMadness.html.</descripti
             <itunes:explicit>no</itunes:explicit>
             <description>REPEAT... A 1930s era film featuring Bonita Granville as Nancy Drew.  No, it is nothing like what is seen on the CW today.  Please bear in mind that it is also very much a product of the time when it was produced and may seem quite offensive at points today. 
 
-Show Notes Available at https://coyote.works/2022/NancyDrew.html.</description>
+Show notes available online at https://coyote.works/2022/NancyDrew.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -522,7 +540,7 @@ Show Notes Available at https://coyote.works/2022/NancyDrew.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Buster Keaton versus a goat.  Yes, this is another silent film. 
 
-Show Notes Available at https://coyote.works/2022/TheGoat.html.</description>
+Show notes available online at https://coyote.works/2022/TheGoat.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -540,7 +558,7 @@ Show Notes Available at https://coyote.works/2022/TheGoat.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Even though it was news recently with the Ashtabula County Medical Center and the City of Geneva it stands to reason that we can learn from how others handle ransomware attacks and learn from what lessons they learned.  This event from the Seattle GNU/Linux Conference in 2021 provides some background for us in that area. 
 
-Show Notes Available at https://coyote.works/2022/SeaGLRansomwareTalk.html.</description>
+Show notes available online at https://coyote.works/2022/SeaGLRansomwareTalk.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -558,7 +576,7 @@ Show Notes Available at https://coyote.works/2022/SeaGLRansomwareTalk.html.</des
             <itunes:explicit>no</itunes:explicit>
             <description>Recorded in an undisclosed location, Mike Kellat of the production staff at Erie Looking Productions introduces the ELP TV video podcast channel to the world.  Further local productions are expected to come in 2022. 
 
-Show Notes Available at https://coyote.works/2022/22MarkerB.html.</description>
+Show notes available online at https://coyote.works/2022/22MarkerB.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -576,7 +594,7 @@ Show Notes Available at https://coyote.works/2022/22MarkerB.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Recorded in an undisclosed location, Mike Kellat of the production staff at Erie Looking Productions introduces the ELP TV video podcast channel to the world. 
 
-Show Notes Available at https://coyote.works/2022/2022Marker.html.</description>
+Show notes available online at https://coyote.works/2022/2022Marker.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>yes</itunes:block>
 		</item>
@@ -594,7 +612,7 @@ Show Notes Available at https://coyote.works/2022/2022Marker.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>A documentary discussing a half-century of space walks. 
 
-Show Notes Available at https://coyote.works/2021/Spacewalks.html.</description>
+Show notes available online at https://coyote.works/2021/Spacewalks.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -612,7 +630,7 @@ Show Notes Available at https://coyote.works/2021/Spacewalks.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>A soldier suffering from combat fatigue meets a young woman on Christmas furlough from prison and their mutual loneliness blossoms into romance. 
 
-Show Notes Available at https://coyote.works/2021/BeSeeingYou.html.</description>
+Show notes available online at https://coyote.works/2021/BeSeeingYou.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -630,7 +648,7 @@ Show Notes Available at https://coyote.works/2021/BeSeeingYou.html.</description
             <itunes:explicit>no</itunes:explicit>
             <description>A silent film version. 
 
-Show Notes Available at https://coyote.works/2021/Phantom.html.</description>
+Show notes available online at https://coyote.works/2021/Phantom.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -648,7 +666,7 @@ Show Notes Available at https://coyote.works/2021/Phantom.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Before today's cookie cutter holiday films from a certain television network named for a greeting card company it seems filmmakers of the past liked to indulge in making what can best be described as nightmare fuel.  This short comes from producer Sid Davis who is more well known for quite heavy-handed productions in the educational films realm. 
 
-Show Notes Available at https://coyote.works/2021/FairySnowQueen.html.</description>
+Show notes available online at https://coyote.works/2021/FairySnowQueen.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -666,7 +684,7 @@ Show Notes Available at https://coyote.works/2021/FairySnowQueen.html.</descript
             <itunes:explicit>no</itunes:explicit>
             <description>A classic USDA film providing a look at rural life. 
 
-Show Notes Available at https://coyote.works/2021/RuralHolidays.html.</description>
+Show notes available online at https://coyote.works/2021/RuralHolidays.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -684,7 +702,7 @@ Show Notes Available at https://coyote.works/2021/RuralHolidays.html.</descripti
             <itunes:explicit>no</itunes:explicit>
             <description>Directed by Max Fleischer for the Jam Handy Organization, we hear a rendering of the story of Rudolph.  What could go wrong? 
 
-Show Notes Available at https://coyote.works/2021/RudolphReindeer.html.</description>
+Show notes available online at https://coyote.works/2021/RudolphReindeer.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -702,7 +720,7 @@ Show Notes Available at https://coyote.works/2021/RudolphReindeer.html.</descrip
             <itunes:explicit>no</itunes:explicit>
             <description>We're going to continue with our Christmas theme.  Although not overtly a Christmas film, this feature film gives us an orphan and a sailor building bonds on a cross-country road trip.  Is the kid actually the sailor's son?  Is something else going on?  Watch and see. 
 
-Show Notes Available at https://coyote.works/2021/Son-of-the-Navy.html.</description>
+Show notes available online at https://coyote.works/2021/Son-of-the-Navy.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -720,7 +738,7 @@ Show Notes Available at https://coyote.works/2021/Son-of-the-Navy.html.</descrip
             <itunes:explicit>no</itunes:explicit>
             <description>A monochromatic silent film from 1925 that proudly proclaims that it was filmed in Alaska.  What could possibly go wrong? 
 
-Show Notes Available at https://coyote.works/2021/SilentSanta.html.</description>
+Show notes available online at https://coyote.works/2021/SilentSanta.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -738,7 +756,7 @@ Show Notes Available at https://coyote.works/2021/SilentSanta.html.</description
             <itunes:explicit>no</itunes:explicit>
             <description>Coronet Films...gives us a look at what capitalism meant back in the monochromatic days of the 1950s. 
 
-Show Notes Available at https://coyote.works/2021/Capitalism.html.</description>
+Show notes available online at https://coyote.works/2021/Capitalism.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -756,7 +774,7 @@ Show Notes Available at https://coyote.works/2021/Capitalism.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>It was 1941.  It was over the top.  Yes, it is an educational short talking about the dangers of the misuse of gasoline.  This is an unriffed version. 
 
-Show Notes Available at https://coyote.works/2021/Gasoline.html.</description>
+Show notes available online at https://coyote.works/2021/Gasoline.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -774,7 +792,7 @@ Show Notes Available at https://coyote.works/2021/Gasoline.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Welcome to December!  This is one of the classic shorts riffed by the crew of the Satellite of Love on MST3K.  It was specifically riffed as part of Experiment 609 -- The Skydivers.  This rendition is not riffed, though. 
 
-Show Notes Available at https://coyote.works/2021/Why-Study-Industrial-Arts.html.</description>
+Show notes available online at https://coyote.works/2021/Why-Study-Industrial-Arts.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -792,7 +810,7 @@ Show Notes Available at https://coyote.works/2021/Why-Study-Industrial-Arts.html
             <itunes:explicit>no</itunes:explicit>
             <description>To wrap up November we turn to a wartime short about safety in offices.  What could possibly go wrong? 
 
-Show Notes Available at https://coyote.works/2021/OfficeSafety.html.</description>
+Show notes available online at https://coyote.works/2021/OfficeSafety.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -810,7 +828,7 @@ Show Notes Available at https://coyote.works/2021/OfficeSafety.html.</descriptio
             <itunes:explicit>no</itunes:explicit>
             <description>A look at how a newspaper was produced in California in the 1970s. 
 
-Show Notes Available at https://coyote.works/2021/MakingNewspapers.html.</description>
+Show notes available online at https://coyote.works/2021/MakingNewspapers.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -828,7 +846,7 @@ Show Notes Available at https://coyote.works/2021/MakingNewspapers.html.</descri
             <itunes:explicit>no</itunes:explicit>
             <description>Centron provides a look from the 1950s at Thanksgiving. 
 
-Show Notes Available at https://coyote.works/2021/Thanksgiving.html.</description>
+Show notes available online at https://coyote.works/2021/Thanksgiving.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -846,7 +864,7 @@ Show Notes Available at https://coyote.works/2021/Thanksgiving.html.</descriptio
             <itunes:explicit>no</itunes:explicit>
             <description>A piece of anti-communist propaganda produced by what was then Harding College in Arkansas.  Today it is known as Harding University.  The main campus is still in Searcy, Arkansas. 
 
-Show Notes Available at https://coyote.works/2021/MakeMineFreedom.html.</description>
+Show notes available online at https://coyote.works/2021/MakeMineFreedom.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -864,7 +882,7 @@ Show Notes Available at https://coyote.works/2021/MakeMineFreedom.html.</descrip
             <itunes:explicit>no</itunes:explicit>
             <description>This is not the riffed version from Mystery Science Theater 3000. 
 
-Show Notes Available at https://coyote.works/2021/Teenagers.html.</description>
+Show notes available online at https://coyote.works/2021/Teenagers.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -882,7 +900,7 @@ Show Notes Available at https://coyote.works/2021/Teenagers.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>The people at the Jam Handy Organization produced a film for the Illuminating Company extolling its virtues.  The old coal plant in Ashtabula is depicted in this film. 
 
-Show Notes Available at https://coyote.works/2021/JamHandy.html.</description>
+Show notes available online at https://coyote.works/2021/JamHandy.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -900,7 +918,7 @@ Show Notes Available at https://coyote.works/2021/JamHandy.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Dating to 1955, this film from Encyclopaedia Britannica talks about the miracles of vaccines and immunization.  Before we had mRNA technology this was how the magic happened. 
 
-Show Notes Available at https://coyote.works/2021/Vaccination.html.</description>
+Show notes available online at https://coyote.works/2021/Vaccination.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -918,7 +936,7 @@ Show Notes Available at https://coyote.works/2021/Vaccination.html.</description
             <itunes:explicit>no</itunes:explicit>
             <description>This is the trailer to the multi-part serial that aired as part of the first season of Mystery Science Theater 3000.  We'll start with this before deciding upon showing the whole thing or not. 
 
-Show Notes Available at https://coyote.works/2021/Trailer-RadarMen.html.</description>
+Show notes available online at https://coyote.works/2021/Trailer-RadarMen.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -936,7 +954,7 @@ Show Notes Available at https://coyote.works/2021/Trailer-RadarMen.html.</descri
             <itunes:explicit>no</itunes:explicit>
             <description>A monster crashes from space in the Los Angeles area and a ragtag crew has to neutralize the threat. 
 
-Show Notes Available at https://coyote.works/2021/PhantomFromSpace.html.</description>
+Show notes available online at https://coyote.works/2021/PhantomFromSpace.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -954,7 +972,7 @@ Show Notes Available at https://coyote.works/2021/PhantomFromSpace.html.</descri
             <itunes:explicit>no</itunes:explicit>
             <description>A jaunt into the realm of monochrome monsters invading Japan. 
 
-Show Notes Available at https://coyote.works/2021/NeptuneMen.html.</description>
+Show notes available online at https://coyote.works/2021/NeptuneMen.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -972,7 +990,7 @@ Show Notes Available at https://coyote.works/2021/NeptuneMen.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>An educational film about making educational films.  In an age where everybody can post video online there is a need for good instructional video content. 
 
-Show Notes Available at https://coyote.works/2021/MakingFilms.html.</description>
+Show notes available online at https://coyote.works/2021/MakingFilms.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -990,7 +1008,7 @@ Show Notes Available at https://coyote.works/2021/MakingFilms.html.</description
             <itunes:explicit>no</itunes:explicit>
             <description>NASA history file film about its Wallops Island launch facility. 
 
-Show Notes Available at https://coyote.works/2021/Wallops.html.</description>
+Show notes available online at https://coyote.works/2021/Wallops.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1008,7 +1026,7 @@ Show Notes Available at https://coyote.works/2021/Wallops.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>A film from the wrong side of the Iron Curtain painting quite a view of space exploration. 
 
-Show Notes Available at https://coyote.works/2021/Venus.html.</description>
+Show notes available online at https://coyote.works/2021/Venus.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1026,7 +1044,7 @@ Show Notes Available at https://coyote.works/2021/Venus.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>A reworking of the Soviet film Planeta Bur. 
 
-Show Notes Available at https://coyote.works/2021/Prehistoric.html.</description>
+Show notes available online at https://coyote.works/2021/Prehistoric.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1044,7 +1062,7 @@ Show Notes Available at https://coyote.works/2021/Prehistoric.html.</description
             <itunes:explicit>no</itunes:explicit>
             <description>A look at relatively ancient banking practices from the middle of the 20th century. 
 
-Show Notes Available at https://coyote.works/2021/Banking.html.</description>
+Show notes available online at https://coyote.works/2021/Banking.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1062,7 +1080,7 @@ Show Notes Available at https://coyote.works/2021/Banking.html.</description>
             <itunes:explicit>yes</itunes:explicit>
             <description>Marked EXPLICIT due to simulated construction site and workplace accidents and simulated gore.  This is a 1970s training film produced for Caterpillar Tractor Company with quite the guitar track showing what not to do on a job site. 
 
-Show Notes Available at https://coyote.works/2021/ShakeHands.html.</description>
+Show notes available online at https://coyote.works/2021/ShakeHands.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1080,7 +1098,7 @@ Show Notes Available at https://coyote.works/2021/ShakeHands.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>The nice people at Coronet Films teach us about Communism from a 1950s perspective 
 
-Show Notes Available at https://coyote.works/2021/Communism.html.</description>
+Show notes available online at https://coyote.works/2021/Communism.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1098,7 +1116,7 @@ Show Notes Available at https://coyote.works/2021/Communism.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>We sample Cold War propaganda. 
 
-Show Notes Available at https://coyote.works/2021/Responsibilities.html.</description>
+Show notes available online at https://coyote.works/2021/Responsibilities.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1116,7 +1134,7 @@ Show Notes Available at https://coyote.works/2021/Responsibilities.html.</descri
             <itunes:explicit>no</itunes:explicit>
             <description>We begin November by learning about despotism. 
 
-Show Notes Available at https://coyote.works/2021/StartNovember.html.</description>
+Show notes available online at https://coyote.works/2021/StartNovember.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1134,7 +1152,7 @@ Show Notes Available at https://coyote.works/2021/StartNovember.html.</descripti
             <itunes:explicit>no</itunes:explicit>
             <description>For Halloween we have a silent film.  Yes, we turn to an early film by Universal that does a send-up of a Jules Verne story.  The story originally came out towards the end of the Second Empire in France and the launch of the Third Republic. 
 
-Show Notes Available at https://coyote.works/2021/Halloween2021.html.</description>
+Show notes available online at https://coyote.works/2021/Halloween2021.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1152,7 +1170,7 @@ Show Notes Available at https://coyote.works/2021/Halloween2021.html.</descripti
             <itunes:explicit>no</itunes:explicit>
             <description>A 1930s era film featuring Bonita Granville as Nancy Drew.  No, it is nothing like what is seen on the CW today.  Please bear in mind that it is also very much a product of the time when it was produced and may seem quite offensive at points today. 
 
-Show Notes Available at https://coyote.works/2021/Drew.html.</description>
+Show notes available online at https://coyote.works/2021/Drew.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1170,7 +1188,7 @@ Show Notes Available at https://coyote.works/2021/Drew.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Part of NASA's history files, this film talks about the astronauts of the Mercury project. 
 
-Show Notes Available at https://coyote.works/2021/Mercury.html.</description>
+Show notes available online at https://coyote.works/2021/Mercury.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1188,7 +1206,7 @@ Show Notes Available at https://coyote.works/2021/Mercury.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>This is the re-dedication of the facility in Sandusky previously known as Plum Brook Station. 
 
-Show Notes Available at https://coyote.works/2021/NASA.html.</description>
+Show notes available online at https://coyote.works/2021/NASA.html.</description>
             <itunes:keywords>NASA Image Exchange</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1206,7 +1224,7 @@ Show Notes Available at https://coyote.works/2021/NASA.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>This is a film out of the Academic Film Archive of North America.  In this film we take a 1940s era look at radio broadcasting. 
 
-Show Notes Available at https://coyote.works/2021/radio.html.</description>
+Show notes available online at https://coyote.works/2021/radio.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1224,7 +1242,7 @@ Show Notes Available at https://coyote.works/2021/radio.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>This is another film from the Starman quartet.  There were some deep, deep issues playing out in these monochrome sci-fi/fantasy films coming out of Japan. 
 
-Show Notes Available at https://coyote.works/2021/start.html.</description>
+Show notes available online at https://coyote.works/2021/start.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1242,7 +1260,7 @@ Show Notes Available at https://coyote.works/2021/start.html.</description>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
 
-Show Notes Available at https://coyote.works/2021/BBS-8.html.</description>
+Show notes available online at https://coyote.works/2021/BBS-8.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1260,7 +1278,7 @@ Show Notes Available at https://coyote.works/2021/BBS-8.html.</description>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
 
-Show Notes Available at https://coyote.works/2021/BBS-7.html.</description>
+Show notes available online at https://coyote.works/2021/BBS-7.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1278,7 +1296,7 @@ Show Notes Available at https://coyote.works/2021/BBS-7.html.</description>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
 
-Show Notes Available at https://coyote.works/2021/BBS-6.html.</description>
+Show notes available online at https://coyote.works/2021/BBS-6.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1296,7 +1314,7 @@ Show Notes Available at https://coyote.works/2021/BBS-6.html.</description>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
 
-Show Notes Available at https://coyote.works/2021/BBS-5.html.</description>
+Show notes available online at https://coyote.works/2021/BBS-5.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1314,7 +1332,7 @@ Show Notes Available at https://coyote.works/2021/BBS-5.html.</description>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
 
-Show Notes Available at https://coyote.works/2021/BBS-4.html.</description>
+Show notes available online at https://coyote.works/2021/BBS-4.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1332,7 +1350,7 @@ Show Notes Available at https://coyote.works/2021/BBS-4.html.</description>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
 
-Show Notes Available at https://coyote.works/2021/BBS-3.html.</description>
+Show notes available online at https://coyote.works/2021/BBS-3.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1350,7 +1368,7 @@ Show Notes Available at https://coyote.works/2021/BBS-3.html.</description>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
 
-Show Notes Available at https://coyote.works/2021/BBS-2.html.</description>
+Show notes available online at https://coyote.works/2021/BBS-2.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1368,7 +1386,7 @@ Show Notes Available at https://coyote.works/2021/BBS-2.html.</description>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
 
-Show Notes Available at https://coyote.works/2021/BBS-1.html.</description>
+Show notes available online at https://coyote.works/2021/BBS-1.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1386,7 +1404,7 @@ Show Notes Available at https://coyote.works/2021/BBS-1.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Classic Madness 
 
-Show Notes Available at https://coyote.works/2021/new-post.html.</description>
+Show notes available online at https://coyote.works/2021/new-post.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1404,7 +1422,7 @@ Show Notes Available at https://coyote.works/2021/new-post.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Coronet Films...Counter-Propaganda... 
 
-Show Notes Available at https://coyote.works/2021/PropagandaTechniques.html.</description>
+Show notes available online at https://coyote.works/2021/PropagandaTechniques.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1422,7 +1440,7 @@ Show Notes Available at https://coyote.works/2021/PropagandaTechniques.html.</de
             <itunes:explicit>no</itunes:explicit>
             <description>Coronet Films looks at Marxist-Leninist Communism 
 
-Show Notes Available at https://coyote.works/2021/A.html.</description>
+Show notes available online at https://coyote.works/2021/A.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1440,7 +1458,7 @@ Show Notes Available at https://coyote.works/2021/A.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>A Korean monster movie. 
 
-Show Notes Available at https://coyote.works/2021/Yongary.html.</description>
+Show notes available online at https://coyote.works/2021/Yongary.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1458,7 +1476,7 @@ Show Notes Available at https://coyote.works/2021/Yongary.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Another installment from our friends at Coronet Films.  This short dates to 1949. 
 
-Show Notes Available at https://coyote.works/2021/B.html.</description>
+Show notes available online at https://coyote.works/2021/B.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1476,7 +1494,7 @@ Show Notes Available at https://coyote.works/2021/B.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>An unriffed Bella Lugosi film. 
 
-Show Notes Available at https://coyote.works/2021/PhantomCreeps.html.</description>
+Show notes available online at https://coyote.works/2021/PhantomCreeps.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1494,7 +1512,7 @@ Show Notes Available at https://coyote.works/2021/PhantomCreeps.html.</descripti
             <itunes:explicit>no</itunes:explicit>
             <description>From the Star Man quartet of films 
 
-Show Notes Available at https://coyote.works/2021/EvilBrain.html.</description>
+Show notes available online at https://coyote.works/2021/EvilBrain.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1512,7 +1530,7 @@ Show Notes Available at https://coyote.works/2021/EvilBrain.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>A travelogue about Puerto Rico. 
 
-Show Notes Available at https://coyote.works/2021/PR.html.</description>
+Show notes available online at https://coyote.works/2021/PR.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1530,7 +1548,7 @@ Show Notes Available at https://coyote.works/2021/PR.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>A cartoon made as a technical demonstration of an open source software project. 
 
-Show Notes Available at https://coyote.works/2021/BigBuckBunny.html.</description>
+Show notes available online at https://coyote.works/2021/BigBuckBunny.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1548,7 +1566,7 @@ Show Notes Available at https://coyote.works/2021/BigBuckBunny.html.</descriptio
             <itunes:explicit>no</itunes:explicit>
             <description>A B-grade monster movie in monochrome.  This is unriffed.  For a riffed version you should check out RiffTrax. 
 
-Show Notes Available at https://coyote.works/2021/Werewolf.html.</description>
+Show notes available online at https://coyote.works/2021/Werewolf.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1566,7 +1584,7 @@ Show Notes Available at https://coyote.works/2021/Werewolf.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Venturing back into the past through alternative technology arrangements. 
 
-Show Notes Available at https://coyote.works/2021/bbs.html.</description>
+Show notes available online at https://coyote.works/2021/bbs.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>yes</itunes:block>
 		</item>
@@ -1584,7 +1602,7 @@ Show Notes Available at https://coyote.works/2021/bbs.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>The Judicial Conference of the United States reenacts proceedings around this seminal case over state's rights. 
 
-Show Notes Available at https://coyote.works/2021/McCulloch.html.</description>
+Show notes available online at https://coyote.works/2021/McCulloch.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1602,7 +1620,7 @@ Show Notes Available at https://coyote.works/2021/McCulloch.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>The Judicial Conference of the United States reenacts proceedings around this seminal case over commerce regulation. 
 
-Show Notes Available at https://coyote.works/2021/Gibbons.html.</description>
+Show notes available online at https://coyote.works/2021/Gibbons.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1620,7 +1638,7 @@ Show Notes Available at https://coyote.works/2021/Gibbons.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>The Judicial Conference of the United States reenacts proceedings around this seminal case over treason. 
 
-Show Notes Available at https://coyote.works/2021/Burr.html.</description>
+Show notes available online at https://coyote.works/2021/Burr.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1638,7 +1656,7 @@ Show Notes Available at https://coyote.works/2021/Burr.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Science Fiction from Japan!  Walter Manley Enterprises!  The best that can be said is that this has been riffed by RiffTrax.  This is the unriffed version courtesy the Internet Archive. 
 
-Show Notes Available at https://coyote.works/2021/Attack-From-Space.html.</description>
+Show notes available online at https://coyote.works/2021/Attack-From-Space.html.</description>
             <itunes:keywords>Science Fiction, public domain, silly films, Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1656,7 +1674,7 @@ Show Notes Available at https://coyote.works/2021/Attack-From-Space.html.</descr
             <itunes:explicit>no</itunes:explicit>
             <description>A Shirley Temple comedy short. 
 
-Show Notes Available at https://coyote.works/2021/Donuts.html.</description>
+Show notes available online at https://coyote.works/2021/Donuts.html.</description>
             <itunes:keywords>silly films, Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1674,7 +1692,7 @@ Show Notes Available at https://coyote.works/2021/Donuts.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>A 1960s horror film is not really a horror film but rather a bikini girl flick with a monster on the side.  It is definitely a weird one.  Is the monster real or is something else happening? 
 
-Show Notes Available at https://coyote.works/2021/Beach-Girls.html.</description>
+Show notes available online at https://coyote.works/2021/Beach-Girls.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1692,7 +1710,7 @@ Show Notes Available at https://coyote.works/2021/Beach-Girls.html.</description
             <itunes:explicit>no</itunes:explicit>
             <description>Sid Davis...made interesting stuff... 
 
-Show Notes Available at https://coyote.works/2021/Sid.html.</description>
+Show notes available online at https://coyote.works/2021/Sid.html.</description>
             <itunes:keywords>Internet Archive, Sid Davis</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1710,7 +1728,7 @@ Show Notes Available at https://coyote.works/2021/Sid.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Coronet Films: How did this happen? 
 
-Show Notes Available at https://coyote.works/2021/Coronet.html.</description>
+Show notes available online at https://coyote.works/2021/Coronet.html.</description>
             <itunes:keywords>Internet Archive, Coronet Films</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1728,7 +1746,7 @@ Show Notes Available at https://coyote.works/2021/Coronet.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>A rogue planet menaces Earth and only scientists in Japan can save us all... 
 
-Show Notes Available at https://coyote.works/2021/Warning-Space.html.</description>
+Show notes available online at https://coyote.works/2021/Warning-Space.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1746,7 +1764,7 @@ Show Notes Available at https://coyote.works/2021/Warning-Space.html.</descripti
             <itunes:explicit>no</itunes:explicit>
             <description>A Spaghetti Space Opera.  If you try to play a drinking game with this you will need a liver transplant on standby... 
 
-Show Notes Available at https://coyote.works/2021/Cosmos-War.html.</description>
+Show notes available online at https://coyote.works/2021/Cosmos-War.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1764,7 +1782,7 @@ Show Notes Available at https://coyote.works/2021/Cosmos-War.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>The Judicial Conference of the United States reenacts proceedings around this seminal case. 
 
-Show Notes Available at https://coyote.works/2021/Marbury.html.</description>
+Show notes available online at https://coyote.works/2021/Marbury.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1782,7 +1800,7 @@ Show Notes Available at https://coyote.works/2021/Marbury.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Switching gears with this pick, we wind up turning to Rocky Jones.  This is a glimpse at a future that never was.  The concept of a Secretary of Space is kinda nice and perhaps we may end up adopting that some day in our own timeline.  This is a 1950s retro romp through the galaxy so prepare for blast off! 
 
-Show Notes Available at https://coyote.works/2021/RockyJones.html.</description>
+Show notes available online at https://coyote.works/2021/RockyJones.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1800,7 +1818,7 @@ Show Notes Available at https://coyote.works/2021/RockyJones.html.</description>
             <itunes:explicit>no</itunes:explicit>
             <description>Peter Graves and Coleman Francis?  This film approaches critical mass for craziness... 
 
-Show Notes Available at https://coyote.works/2021/KillersFromSpace.html.</description>
+Show notes available online at https://coyote.works/2021/KillersFromSpace.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1818,7 +1836,7 @@ Show Notes Available at https://coyote.works/2021/KillersFromSpace.html.</descri
             <itunes:explicit>yes</itunes:explicit>
             <description>Yes, we have to visit Manos. 
 
-Show Notes Available at https://coyote.works/2021/Manos.html.</description>
+Show notes available online at https://coyote.works/2021/Manos.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
