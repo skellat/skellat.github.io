@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Abbreviated Easter 2020 Service"
+date: 2022-02-04 0001 -0500
+file: https://archive.org/download/easter_20200412/Easter.mp4
+summary: "How did we celebrate Easter during lockdown?  Let us look back at how one religious type did that here in Ashtabula back in 2020."
+description: "How did we celebrate Easter during lockdown?  Let us look back at how one religious type did that here in Ashtabula back in 2020."
+duration: "16:35"
+length: "995"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+How did we celebrate Easter during lockdown?  Let us look back at how one religious type did that here in Ashtabula back in 2020.
+
+<iframe src="https://archive.org/embed/easter_20200412" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
