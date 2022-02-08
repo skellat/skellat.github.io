@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>Trail of the Rocket</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Trail of the Rocket</itunes:subtitle>
+            <itunes:summary>General Motors made a short film to promote a car engine.  What could go wrong?</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/0406_Trail_of_the_Rocket_00_09_29_00/0406_Trail_of_the_Rocket_00_09_29_00.m4v" length="1836" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/TrailRocket.html</guid>
+            <pubDate>Tue, 08 Feb 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>30:36</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>General Motors made a short film to promote a car engine.  What could go wrong? 
+
+Show notes available online at https://coyote.works/2022/TrailRocket.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>The Mighty Columbia River</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: The Mighty Columbia River</itunes:subtitle>
+            <itunes:summary>Coronet Films...takes a look at the Columbia River in the Pacific Northwest.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/MightyCo1947/MightyCo1947_edit.mp4" length="598" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/MightyColumbia.html</guid>
+            <pubDate>Tue, 08 Feb 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>09:58</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Coronet Films...takes a look at the Columbia River in the Pacific Northwest. 
+
+Show notes available online at https://coyote.works/2022/MightyColumbia.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Capitalism</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Capitalism</itunes:subtitle>
