@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>The Yesterday Machine</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: The Yesterday Machine</itunes:subtitle>
+            <itunes:summary>Lots and lots of exposition with a barely plausible time machine filmed out in 1960s Dallas.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/TheYesterdayMachine1963_201510/TheYesterdayMachine1963.mp4" length="4708" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/YesterdayMachine.html</guid>
+            <pubDate>Wed, 09 Feb 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>1:18:28</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Lots and lots of exposition with a barely plausible time machine filmed out in 1960s Dallas. 
+
+Show notes available online at https://coyote.works/2022/YesterdayMachine.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Trail of the Rocket</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Trail of the Rocket</itunes:subtitle>
