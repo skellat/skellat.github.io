@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>The Manster</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: The Manster</itunes:subtitle>
+            <itunes:summary>This is a creature feature mentioned in passing during the pre-roll trailers in the most recent edition of The Mads Are Back.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/TheManster_201701/The%20Manster.mp4" length="4377" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/Manster.html</guid>
+            <pubDate>Fri, 11 Feb 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>1:12:57</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>This is a creature feature mentioned in passing during the pre-roll trailers in the most recent edition of The Mads Are Back. 
+
+Show notes available online at https://coyote.works/2022/Manster.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>More Dangerous Than Dynamite</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: More Dangerous Than Dynamite</itunes:subtitle>
+            <itunes:summary>This is an unriffed version of this film.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/more_dangerous_then_dynamite/more_dangerous_then_dynamite.mp4" length="589" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/Dynamite.html</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>09:49</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>This is an unriffed version of this film. 
+
+Show notes available online at https://coyote.works/2022/Dynamite.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>The Yesterday Machine</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: The Yesterday Machine</itunes:subtitle>
