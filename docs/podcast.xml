@@ -9,8 +9,8 @@
         <copyright>&#xA9; 2022 ELP Television</copyright>
 		<itunes:subtitle>Ashtabula-Area Media</itunes:subtitle>
         <itunes:author>Erie Looking Productions</itunes:author>
-		<itunes:summary>A renegade online television network for the Ashtabula area.</itunes:summary>
-        <description>A renegade online television network for the Ashtabula area.</description>
+		<itunes:summary>Operationally suspended during the cyber operations of the Russia-Ukraine conflict.</itunes:summary>
+        <description>Operationally suspended during the cyber operations of the Russia-Ukraine conflict.</description>
 		<webMaster>ashtabulaecv197@gmail.com (Erie Looking Productions)</webMaster>
         <itunes:owner>
 			<itunes:name>Erie Looking Productions</itunes:name>
@@ -22,6 +22,24 @@
     <itunes:keywords>video on demand, Ashtabula, special services</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
 		
+
+        <item>
+            <title>Service Suspension</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Service Suspension</itunes:subtitle>
+            <itunes:summary>Due to the burdens of attempting to both mitigate the fallout of cyber operations from the Russia-Ukraine conflict as well as continue with updates to this service, we have chosen to suspend this service so that we can continue with handling security matters.  Too many strange things have been happening online and we need to continue our efforts in hardening systems.  The expected restoration of this service is post-conflict, we hope.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/elptvsuspensionmessage/MOV_1022.MP4" length="69" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/Hiatus.html</guid>
+            <pubDate>Fri, 18 Mar 2022 00:00:00 -0400</pubDate>
+            <itunes:duration>1:09</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Due to the burdens of attempting to both mitigate the fallout of cyber operations from the Russia-Ukraine conflict as well as continue with updates to this service, we have chosen to suspend this service so that we can continue with handling security matters.  Too many strange things have been happening online and we need to continue our efforts in hardening systems.  The expected restoration of this service is post-conflict, we hope. 
+
+Show notes available online at https://coyote.works/2022/Hiatus.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
 
         <item>
             <title>Let's Share With Others</title>

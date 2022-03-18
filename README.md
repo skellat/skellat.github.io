@@ -1,15 +1,8 @@
 The Coyote Works
 =================
 
-This is the Jekyll tooling for the video "podcast" site.  You're peeking behind the curtain.  This is made frequently using VS Code.
+This is the Jekyll tooling for the video "podcast" site.  You're peeking behind the curtain.  This is made normally using VS Code.
 
-Some day local productions from Ashtabula will be added.  A successful systems test for chroma key action on December 9th may allow us to begin production soon.  Unexpected difficulties are being faced without clear paths forward.
+Due to the [continuing situation in Ukraine](https://simple.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine) we are suspending operations for the time being.  It has become evident that cyber operations have been taking place.  Entities in the United States have been impacted indirectly as far as we have been able to observe.  We can either keep up with mitigations or we can keep up with running the site.  For now we're choosing to keep up with mitigations.
 
-What may local production include?  At this point it will involve reading the weather report.  Data gathering code for that can be found at <https://code.launchpad.net/~skellat/+git/nws-data-gathering>.  Then again, it might not 
-based upon some things said by a meteorologist down at WJW in Cleveland.
-  
-Financial contributions are always accepted.  They are definitely not tax-deductible, though.
-
-Consult <https://erielookingproductions.info> for details on how to contact us.
-
-Services are presently limited in the present circumstances.  This may result in our not posting episode updates on a sufficiently routine basis.
+Consult <https://erielookingproductions.info> for details on how to contact us.  We expect to resume operating after the conclusion of the conflict, *whenever that may be*.

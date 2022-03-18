@@ -10,4 +10,4 @@ We have an entire page dedicated to how [you can enjoy this service]({{ site.url
 
 Currently there is no advertising in our programming.  This work is not a tax-deductible effort but contributions are accepted to help fuel our growth.  Contact [Erie Looking Productions](https://erielookingproductions.info) for further details or utilize [PayPal](https://paypal.me/erielooking) to directly contribute.
 
-This remains an *experimental* offering and although we make our best efforts to provide regular updates there **will** be gaps in programming that cover extended periods.  We apologize in advance for those gaps.  Circumstances do get away from us in our very small operation as we end up tending to other matters.  
+Even though remains an *experimental* offering it is in suspension due to the present Russia-Ukraine conflict.  We're focusing on cyber-security concerns at this point and that is eating up a few too many resources.  We apologize for any difficulties caused.  We expect to resume operation of this service post-conflict.
