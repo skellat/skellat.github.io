@@ -1,0 +1,33 @@
+{
+   "author": {
+      "name": "Stephen Michael Kellat"
+   },
+   "description": "The Quiet Return To Blogging",
+   "feed_url": "https://coyote.works/blog/feed.json",
+   "home_page_url": "https://coyote.works/blog/",
+   "items": [
+      {
+         "content_html": "<article>\n<hr />\n<p>tags: [general]\n...</p>\n<h2>Magical Onion</h2>\n<p>Well, this was supposed to have been made an <a href=\"https://web.archive.org/web/20220522031808/https://community.torproject.org/onion-services/\">Onion Service</a> rather than a regular web site.  I didn't want to\nend up dealing with getting another domain name.  After we finished spending a few weeks watching <em><a href=\"https://en.wikipedia.org/w/index.php?title=Stitchers&amp;oldid=1082866118\">Stitchers</a></em> I was figuring sticking\nsomething on the &quot;dark web&quot; alone would be worth a laugh at this point.  With all the mess in Russia with a newspaper even <a href=\"https://web.archive.org/web/20220521012308/https://www.rferl.org/a/russia-press-freedom-day-samizdat-perm-zvezda/31832108.html\">resorting to making a <em>samizdat</em> edition to beat\ncensorship</a> it seems like a free and open web is on shaky ground.</p>\n<p>Other thoughts as to alternatives for electronic communications should occur.  Use of NNCP and UUCP probably should be planned for the future...</p>\n</article>\n",
+         "date_published": "2022-05-21T23:59:59-04:00",
+         "id": "https://coyote.works/blog/archive/2022/05/21.html",
+         "title": "Magical Onion",
+         "url": "https://coyote.works/blog/archive/2022/05/21.html"
+      },
+      {
+         "content_html": "<article>\n<hr />\n<p>tags: [general]\n...</p>\n<h2>And we're back</h2>\n<p>Am I going to regret resuming blogging?  I don't know.</p>\n<p>We shall see.</p>\n</article>\n<article>\n</article>\n",
+         "date_published": "2022-05-14T23:59:59-04:00",
+         "id": "https://coyote.works/blog/archive/2022/05/14.html",
+         "title": "And we're back",
+         "url": "https://coyote.works/blog/archive/2022/05/14.html"
+      },
+      {
+         "content_html": "<article>\n<h2>Dangerous Days</h2>\n<p>The seven day case count per one hundred thousand for Ashtabula County now exceeds 300.  We are entering dangerous trends again.  Hopefully we eventually get this under control.</p>\n<hr />\n<p>tags: [coronavirus]\n...</p>\n</article>\n",
+         "date_published": "2022-05-14T23:59:59-04:00",
+         "id": "https://coyote.works/blog/archive/2022/05/14.html",
+         "title": "Dangerous Days",
+         "url": "https://coyote.works/blog/archive/2022/05/14.html"
+      }
+   ],
+   "title": "The Semi-Secret Blog",
+   "version": "https://jsonfeed.org/version/1"
+}
