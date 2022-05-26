@@ -1,34 +1,22 @@
 2022-05-14 And we're back
 
----
-tags: [general]
-...
-
 ## And we're back
 
 Am I going to regret resuming blogging?  I don't know.  
 
-We shall see.
+We shall see.  
 
-%
 
 %
 2022-05-14 Dangerous Days
 
 ## Dangerous Days
 
-The seven day case count per one hundred thousand for Ashtabula County now exceeds 300.  We are entering dangerous trends again.  Hopefully we eventually get this under control.
+The seven day case count per one hundred thousand for Ashtabula County now exceeds 300.  We are entering dangerous trends again.  Hopefully we eventually get this under control.  
 
----
-tags: [coronavirus]
-...
 
 %
 2022-05-21 Magical Onion
-
----
-tags: [general]
-...
 
 ## Magical Onion
 
@@ -37,23 +25,21 @@ end up dealing with getting another domain name.  After we finished spending a f
 something on the "dark web" alone would be worth a laugh at this point.  With all the mess in Russia with a newspaper even [resorting to making a *samizdat* edition to beat 
 censorship](https://web.archive.org/web/20220521012308/https://www.rferl.org/a/russia-press-freedom-day-samizdat-perm-zvezda/31832108.html) it seems like a free and open web is on shaky ground.  
 
-Other thoughts as to alternatives for electronic communications should occur.  Use of NNCP and UUCP probably should be planned for the future...
+Other thoughts as to alternatives for electronic communications should occur.  Use of NNCP and UUCP probably should be planned for the future...  
+
 
 %
 2022-05-25 The Disappearance of ELP TV
 
----
-tags: [housekeeping]
-...
+## The Disappearance of ELP TV
 
-For the time being the previous online television effort known as ELP TV is on ice.  The git repository that it was run out of remains intact.  It may resume some day but today is not that day.
+For the time being the previous online television effort known as ELP TV is on ice.  The git repository that it was run out of remains intact.  It may resume some day but today is not that day.  
+
 
 %
-2022-05-25 Where The Wild Things Are Not
+2022-05-26 Where The Wild Things Are Not
 
----
-tags: [general]
-...
+## Where The Wild Things Are Not
 
 In no particular order:  
 
@@ -62,16 +48,23 @@ In no particular order:
 * Even though there was a power outage in Geneva on Sunday we still managed to [stream services at church](https://youtu.be/M1ex-LFcTb0).  Not all of it made it online.  
 * The church's [Twitter account](https://twitter.com/GCCGeneva/) is increasingly a better place to catch its live streams in place of YouTube, oddly enough.  
 * I survived [being back in the pulpit preaching](https://twitter.com/GCCGeneva/status/1525844449540165634).
-* Much remains on hold at the moment in life yet again.
+* Much remains on hold at the moment in life yet again.  
+
 
 %
-2022-05-25 The Hot Zone
+2022-05-26 The Hot Zone
 
----
-tags: [coronavirus]
-...
+## The Hot Zone 
 
-A more complete picture will come out on Thursday in the [CDC count dash](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=Ohio&data-type=Risk&list_select_county=39007) but presently Ashtabula County is one of two Ohio counties running high on CDC's *new* metrics for coronavirus spread.  The risk is pretty high here.  I'll be curious as to [Ohio wastewater levels](https://coronavirus.ohio.gov/dashboards/other-resources/wastewater) tomorrow too.
+A more complete picture will come out on Thursday in the [CDC count dash](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=Ohio&data-type=Risk&list_select_county=39007) but presently Ashtabula County is one of two Ohio counties running high on CDC's *new* metrics for coronavirus spread.  The risk is pretty high here.  I'll be curious as to [Ohio wastewater levels](https://coronavirus.ohio.gov/dashboards/other-resources/wastewater) tomorrow too.  
+
+
+%
+2022-05-27 Starting Releasing
+
+## Starting Releasing  
+
+It seems that I have this stabilized and can get it up and running.  It will be a challenge to keep all the plates spinning.  I like the format and the software.  We'll see what erupts, I suppose.
 
 %
 @about[about] 2022-05-14 About

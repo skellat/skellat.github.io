@@ -1,0 +1,1 @@
+./tumblelog.pl --output-dir docs/ --template-filename tumblelog.html --author 'Stephen Michael Kellat' --name 'The Odd Blog' --description 'An Even Odder Return To Blogging' --css vector.css --blog-url 'https://coyote.works/blog/' tagged.md
