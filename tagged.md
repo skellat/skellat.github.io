@@ -29,7 +29,7 @@ Other thoughts as to alternatives for electronic communications should occur.  U
 
 
 %
-2022-05-25 The Disappearance of ELP TV
+2022-05-24 The Disappearance of ELP TV
 
 ## The Disappearance of ELP TV
 
@@ -37,7 +37,7 @@ For the time being the previous online television effort known as ELP TV is on i
 
 
 %
-2022-05-26 Where The Wild Things Are Not
+2022-05-25 Where The Wild Things Are Not
 
 ## Where The Wild Things Are Not
 
@@ -56,15 +56,31 @@ In no particular order:
 
 ## The Hot Zone 
 
-A more complete picture will come out on Thursday in the [CDC count dash](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=Ohio&data-type=Risk&list_select_county=39007) but presently Ashtabula County is one of two Ohio counties running high on CDC's *new* metrics for coronavirus spread.  The risk is pretty high here.  I'll be curious as to [Ohio wastewater levels](https://coronavirus.ohio.gov/dashboards/other-resources/wastewater) tomorrow too.  
+A more complete picture will                                                                                                                                                                                                          [CDC count                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   dash](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=Ohio&data-type=Risk&list_select_county=39007) but presently Ashtabula County is one of two Ohio counties running high on CDC's *new* metrics for coronavirus spread.  The risk is pretty high here.  I'll be curious as to [Ohio wastewater levels](https://coronavirus.ohio.gov/dashboards/other-resources/wastewater) tomorrow too.  
 
 
 %
-2022-05-27 Starting Releasing
+2022-05-26 Starting Releasing
 
 ## Starting Releasing  
 
 It seems that I have this stabilized and can get it up and running.  It will be a challenge to keep all the plates spinning.  I like the format and the software.  We'll see what erupts, I suppose.
+
+%
+2022-05-27 Heading Into A Holiday
+
+## Heading Into A Holiday
+
+In no particular order:  
+
+* Thursday was a travel day that involved me visiting sites in Cuyahoga and Lake counties.
+* [Erie Looking Productions](https://erielookingproductions.info) now has a pass-through HDMI capture device on-hand which may well help with creating instructional content.
+* Mom's birthday is today.  I got her a large print Common English Bible hardcover as a birthday present.
+* I am working on finalizing some production ideas as we head towards the third quarter of the year.  
+* A feeling of being lost in the waves is developing again.  
+
+
+
 
 %
 @about[about] 2022-05-14 About
