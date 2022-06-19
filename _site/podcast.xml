@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>Partial Operations Resumption</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Partial Operations Resumption</itunes:subtitle>
+            <itunes:summary>As the war drags on in Ukraine we bring a partial resumption of operations along with a new video.  This is a training film from World War II about radio maintenance.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/77564VacuumTubes/77564%20Vacuum%20Tubes.mp4" length="806" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/Partial-Resumption.html</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 -0400</pubDate>
+            <itunes:duration>13:26</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>As the war drags on in Ukraine we bring a partial resumption of operations along with a new video.  This is a training film from World War II about radio maintenance. 
+
+Show notes available online at https://coyote.works/2022/Partial-Resumption.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Reference Point: Amateur Radio in the 21st Century</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Reference Point: Amateur Radio in the 21st Century</itunes:subtitle>
+            <itunes:summary>In this interview we learn about amateur radio in the United States.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/kmvt-Reference_Point_Amateur_Radio_in_the_21st_Century/Reference_Point_Amateur_Radio_in_the_21st_Century.mpeg4" length="806" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/HamRadioIntro.html</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 -0400</pubDate>
+            <itunes:duration>28:28</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>In this interview we learn about amateur radio in the United States. 
+
+Show notes available online at https://coyote.works/2022/HamRadioIntro.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Service Suspension</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Service Suspension</itunes:subtitle>
@@ -102,13 +138,13 @@ Show notes available online at https://coyote.works/2022/Dynamite.html.</descrip
             <itunes:summary>Lots and lots of exposition with a barely plausible time machine filmed out in 1960s Dallas.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/TheYesterdayMachine1963_201510/TheYesterdayMachine1963.mp4" length="4708" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/YesterdayMachine.html</guid>
+            <guid isPermaLink="true">https://coyote.works/2022/Yesterday-Machine.html</guid>
             <pubDate>Wed, 09 Feb 2022 00:00:00 -0500</pubDate>
             <itunes:duration>1:18:28</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Lots and lots of exposition with a barely plausible time machine filmed out in 1960s Dallas. 
 
-Show notes available online at https://coyote.works/2022/YesterdayMachine.html.</description>
+Show notes available online at https://coyote.works/2022/Yesterday-Machine.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
