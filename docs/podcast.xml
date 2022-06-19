@@ -9,8 +9,8 @@
         <copyright>&#xA9; 2022 ELP Television</copyright>
 		<itunes:subtitle>Ashtabula-Area Media</itunes:subtitle>
         <itunes:author>Erie Looking Productions</itunes:author>
-		<itunes:summary>Operationally suspended during the continuing Russia-Ukraine conflict.</itunes:summary>
-        <description>Operationally suspended during the continuing Russia-Ukraine conflict.</description>
+		<itunes:summary>Online television network offering public domain and Creative Commons-licensed video content from the Internet Archive in addition to Ashtabula-area produced shows.</itunes:summary>
+        <description>Online television network offering public domain and Creative Commons-licensed video content from the Internet Archive in addition to Ashtabula-area produced shows.</description>
 		<webMaster>ashtabulaecv197@gmail.com (Erie Looking Productions)</webMaster>
         <itunes:owner>
 			<itunes:name>Erie Looking Productions</itunes:name>
@@ -22,6 +22,24 @@
     <itunes:keywords>video on demand, Ashtabula, special services</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
 		
+
+        <item>
+            <title>One nation under God: religion, nation, and the drive for statehood in the post-Soviet world</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: One nation under God: religion, nation, and the drive for statehood in the post-Soviet world</itunes:subtitle>
+            <itunes:summary>A lecture at Middlebury College about Ukraine</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/mcdla_ChristopherMarsh42606/ChristopherMarsh42606.rm.mp4" length="8061" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/UkraineLecture.html</guid>
+            <pubDate>Sun, 19 Jun 2022 00:00:00 -0400</pubDate>
+            <itunes:duration>2:14:21</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A lecture at Middlebury College about Ukraine 
+
+Show notes available online at https://coyote.works/2022/UkraineLecture.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
 
         <item>
             <title>Partial Operations Resumption</title>
@@ -78,9 +96,9 @@ Show notes available online at https://coyote.works/2022/Hiatus.html.</descripti
 		</item>
 
         <item>
-            <title>Let's Share With Others</title>
+            <title>Let&apos;s Share With Others</title>
             <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Let's Share With Others</itunes:subtitle>
+            <itunes:subtitle>ELP Television: Let&apos;s Share With Others</itunes:subtitle>
             <itunes:summary>A kid-centered pitch for fair play and thoughtfulness.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/LetsShar1950/LetsShar1950.mp4" length="626" type="video/mp4"/>
@@ -456,9 +474,9 @@ Show notes available online at https://coyote.works/2022/MakingBooks.html.</desc
 		</item>
 
         <item>
-            <title>How Do You Know It's Love?</title>
+            <title>How Do You Know It&apos;s Love?</title>
             <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: How Do You Know It's Love?</itunes:subtitle>
+            <itunes:subtitle>ELP Television: How Do You Know It&apos;s Love?</itunes:subtitle>
             <itunes:summary>A heavy-handed look from the 1950s at interpreting young love.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/HowDoYou1950/HowDoYou1950_edit.mp4" length="777" type="video/mp4"/>
@@ -816,9 +834,9 @@ Show notes available online at https://coyote.works/2021/Spacewalks.html.</descr
 		</item>
 
         <item>
-            <title>I'll Be Seeing You</title>
+            <title>I&apos;ll Be Seeing You</title>
             <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: I'll Be Seeing You</itunes:subtitle>
+            <itunes:subtitle>ELP Television: I&apos;ll Be Seeing You</itunes:subtitle>
             <itunes:summary>A soldier suffering from combat fatigue meets a young woman on Christmas furlough from prison and their mutual loneliness blossoms into romance.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/IWillBeSeeingYou/IBSY.mp4" length="5098" type="video/mp4"/>
@@ -855,14 +873,14 @@ Show notes available online at https://coyote.works/2021/Phantom.html.</descript
             <title>Santa and the Fairy Snow Queen</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Santa and the Fairy Snow Queen</itunes:subtitle>
-            <itunes:summary>Before today's cookie cutter holiday films from a certain television network named for a greeting card company it seems filmmakers of the past liked to indulge in making what can best be described as nightmare fuel.  This short comes from producer Sid Davis who is more well known for quite heavy-handed productions in the educational films realm.</itunes:summary>
+            <itunes:summary>Before today&apos;s cookie cutter holiday films from a certain television network named for a greeting card company it seems filmmakers of the past liked to indulge in making what can best be described as nightmare fuel.  This short comes from producer Sid Davis who is more well known for quite heavy-handed productions in the educational films realm.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/2357_Santa_and_the_Fairy_Snow_Queen_07_25_41_00/2357_Santa_and_the_Fairy_Snow_Queen_07_25_41_00.m4v" length="1569" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/FairySnowQueen.html</guid>
             <pubDate>Wed, 15 Dec 2021 00:00:00 -0500</pubDate>
             <itunes:duration>26:09</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>Before today's cookie cutter holiday films from a certain television network named for a greeting card company it seems filmmakers of the past liked to indulge in making what can best be described as nightmare fuel.  This short comes from producer Sid Davis who is more well known for quite heavy-handed productions in the educational films realm. 
+            <description>Before today&apos;s cookie cutter holiday films from a certain television network named for a greeting card company it seems filmmakers of the past liked to indulge in making what can best be described as nightmare fuel.  This short comes from producer Sid Davis who is more well known for quite heavy-handed productions in the educational films realm. 
 
 Show notes available online at https://coyote.works/2021/FairySnowQueen.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
@@ -909,14 +927,14 @@ Show notes available online at https://coyote.works/2021/RudolphReindeer.html.</
             <title>Son of the Navy</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Son of the Navy</itunes:subtitle>
-            <itunes:summary>We're going to continue with our Christmas theme.  Although not overtly a Christmas film, this feature film gives us an orphan and a sailor building bonds on a cross-country road trip.  Is the kid actually the sailor's son?  Is something else going on?  Watch and see.</itunes:summary>
+            <itunes:summary>We&apos;re going to continue with our Christmas theme.  Although not overtly a Christmas film, this feature film gives us an orphan and a sailor building bonds on a cross-country road trip.  Is the kid actually the sailor&apos;s son?  Is something else going on?  Watch and see.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/son_of_the_navy/son_of_the_navy.mp4" length="4267" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Son-of-the-Navy.html</guid>
             <pubDate>Wed, 08 Dec 2021 00:00:00 -0500</pubDate>
             <itunes:duration>1:11:07</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>We're going to continue with our Christmas theme.  Although not overtly a Christmas film, this feature film gives us an orphan and a sailor building bonds on a cross-country road trip.  Is the kid actually the sailor's son?  Is something else going on?  Watch and see. 
+            <description>We&apos;re going to continue with our Christmas theme.  Although not overtly a Christmas film, this feature film gives us an orphan and a sailor building bonds on a cross-country road trip.  Is the kid actually the sailor&apos;s son?  Is something else going on?  Watch and see. 
 
 Show notes available online at https://coyote.works/2021/Son-of-the-Navy.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
@@ -1125,14 +1143,14 @@ Show notes available online at https://coyote.works/2021/Vaccination.html.</desc
             <title>Trailer: Radar Men From The Moon</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Trailer: Radar Men From The Moon</itunes:subtitle>
-            <itunes:summary>This is the trailer to the multi-part serial that aired as part of the first season of Mystery Science Theater 3000.  We'll start with this before deciding upon showing the whole thing or not.</itunes:summary>
+            <itunes:summary>This is the trailer to the multi-part serial that aired as part of the first season of Mystery Science Theater 3000.  We&apos;ll start with this before deciding upon showing the whole thing or not.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/RadarMenFromTheMoonTrailer/RadarMenFromTheMoonTrailer.mp4" length="113" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Trailer-RadarMen.html</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 -0500</pubDate>
             <itunes:duration>1:53</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>This is the trailer to the multi-part serial that aired as part of the first season of Mystery Science Theater 3000.  We'll start with this before deciding upon showing the whole thing or not. 
+            <description>This is the trailer to the multi-part serial that aired as part of the first season of Mystery Science Theater 3000.  We&apos;ll start with this before deciding upon showing the whole thing or not. 
 
 Show notes available online at https://coyote.works/2021/Trailer-RadarMen.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
@@ -1377,14 +1395,14 @@ Show notes available online at https://coyote.works/2021/Drew.html.</description
             <title>Astronauts: United States Project Mercury, ca. 1960 </title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Astronauts: United States Project Mercury, ca. 1960 </itunes:subtitle>
-            <itunes:summary>Part of NASA's history files, this film talks about the astronauts of the Mercury project.</itunes:summary>
+            <itunes:summary>Part of NASA&apos;s history files, this film talks about the astronauts of the Mercury project.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/gov.archives.arc.1151850/gov.archives.arc.1151850_512kb.mp4" length="1624" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Mercury.html</guid>
             <pubDate>Fri, 29 Oct 2021 00:00:00 -0400</pubDate>
             <itunes:duration>27:04</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>Part of NASA's history files, this film talks about the astronauts of the Mercury project. 
+            <description>Part of NASA&apos;s history files, this film talks about the astronauts of the Mercury project. 
 
 Show notes available online at https://coyote.works/2021/Mercury.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
@@ -1752,9 +1770,9 @@ Show notes available online at https://coyote.works/2021/BigBuckBunny.html.</des
 		</item>
 
         <item>
-            <title>Werewolf in a Girls' Dormitory</title>
+            <title>Werewolf in a Girls&apos; Dormitory</title>
             <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Werewolf in a Girls' Dormitory</itunes:subtitle>
+            <itunes:subtitle>ELP Television: Werewolf in a Girls&apos; Dormitory</itunes:subtitle>
             <itunes:summary>A B-grade monster movie in monochrome.  This is unriffed.  For a riffed version you should check out RiffTrax.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Werewolf_In_A_Girls_Dormitory/Werewolf_In_A_Girls_Dormitory_512kb.mp4" length="4989" type="video/mp4"/>
@@ -1770,9 +1788,9 @@ Show notes available online at https://coyote.works/2021/Werewolf.html.</descrip
 		</item>
 
         <item>
-            <title>Connecting To BBS's In 2017 With The WiFi232 Modem</title>
+            <title>Connecting To BBS&apos;s In 2017 With The WiFi232 Modem</title>
             <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Connecting To BBS's In 2017 With The WiFi232 Modem</itunes:subtitle>
+            <itunes:subtitle>ELP Television: Connecting To BBS&apos;s In 2017 With The WiFi232 Modem</itunes:subtitle>
             <itunes:summary>Venturing back into the past through alternative technology arrangements.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/2017-06-02-connecting-to-bbss-in-2017-with-the-wi-fi-232-modem/2017-06-02%20-%20Connecting%20to%20BBS%27s%20in%202017%20with%20the%20WiFi232%20Modem.mp4" length="652" type="video/mp4"/>
@@ -1791,14 +1809,14 @@ Show notes available online at https://coyote.works/2021/bbs.html.</description>
             <title>McCulloch v. Maryland</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: McCulloch v. Maryland</itunes:subtitle>
-            <itunes:summary>The Judicial Conference of the United States reenacts proceedings around this seminal case over state's rights.</itunes:summary>
+            <itunes:summary>The Judicial Conference of the United States reenacts proceedings around this seminal case over state&apos;s rights.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/gov.ntis.AV010227VM00/AV010227VM00_512kb.mp4" length="2128" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/McCulloch.html</guid>
             <pubDate>Sun, 10 Oct 2021 00:00:00 -0400</pubDate>
             <itunes:duration>35:28</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>The Judicial Conference of the United States reenacts proceedings around this seminal case over state's rights. 
+            <description>The Judicial Conference of the United States reenacts proceedings around this seminal case over state&apos;s rights. 
 
 Show notes available online at https://coyote.works/2021/McCulloch.html.</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
@@ -1860,9 +1878,9 @@ Show notes available online at https://coyote.works/2021/Attack-From-Space.html.
 		</item>
 
         <item>
-            <title>Dora's Dunking Donuts</title>
+            <title>Dora&apos;s Dunking Donuts</title>
             <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Dora's Dunking Donuts</itunes:subtitle>
+            <itunes:subtitle>ELP Television: Dora&apos;s Dunking Donuts</itunes:subtitle>
             <itunes:summary>A Shirley Temple comedy short.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/DorasDunkinDonuts/AVI_ST_Doras_Dunkin_Donuts.mp4" length="1182" type="video/mp4"/>
