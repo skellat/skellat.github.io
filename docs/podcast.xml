@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>MacBreak 64: Apple TV</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: MacBreak 64: Apple TV</itunes:subtitle>
+            <itunes:summary>A glimpse into the past from 2007 looking at what the Apple TV was like when it was new.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/macbreak-064-450p-h264/macbreak-064-450p-h264.mp4" length="817" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/When-ATV-Was-New.html</guid>
+            <pubDate>Sat, 25 Jun 2022 00:00:00 -0400</pubDate>
+            <itunes:duration>9:50</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A glimpse into the past from 2007 looking at what the Apple TV was like when it was new. 
+
+Show notes available online at https://coyote.works/2022/When-ATV-Was-New.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>War of the Robots</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: War of the Robots</itunes:subtitle>
