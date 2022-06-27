@@ -2,3 +2,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 ._*
+_site/index.html
+_site/podcast.xml
+_site/index.html
+_site/podcast.xml

@@ -1,3 +1,6 @@
+CODE OF CONDUCT
+================
+
 ## Ubuntu Code of Conduct v2.0
 
 ### Community
