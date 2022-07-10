@@ -21,8 +21,8 @@
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes.png" />
     <itunes:type>episodic</itunes:type>
-        <itunes:category text="Arts" />
-    <itunes:keywords>video on demand, Ashtabula, special services</itunes:keywords>
+        <itunes:category text="Leisure" />
+    <itunes:keywords>video on demand, Ashtabula, special services, Internet Archive</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts %}
@@ -39,7 +39,7 @@
             <itunes:explicit>{{ post.explicit }}</itunes:explicit>
             <description>{{ post.summary | xml_escape }} 
 
-Show notes available online at {{ site.url }}{{ site.baseurl }}{{ post.url }}.</description>
+Show notes available in the post at {{ site.url }}{{ site.baseurl }}{{ post.url }}.</description>
             <itunes:keywords>{{ post.keywords }}</itunes:keywords>
             <itunes:block>{{ post.block }}</itunes:block>
 		</item>
