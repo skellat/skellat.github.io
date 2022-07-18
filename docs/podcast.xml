@@ -18,10 +18,28 @@
 		</itunes:owner>
         <itunes:image href="https://coyote.works/images/itunes.png" />
     <itunes:type>episodic</itunes:type>
-        <itunes:category text="Leisure" />
+        <itunes:category text="Arts" />
     <itunes:keywords>video on demand, Ashtabula, special services, Internet Archive</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
 		
+
+        <item>
+            <title>Despotism</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Despotism</itunes:subtitle>
+            <itunes:summary>In this short from right after World War II we learn about despotism.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Despotis1946/Despotis1946.mp4" length="596" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/Despotism.html</guid>
+            <pubDate>Mon, 18 Jul 2022 00:00:00 -0400</pubDate>
+            <itunes:duration>9:56</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>In this short from right after World War II we learn about despotism. 
+
+Show notes available in the post at https://coyote.works/2022/Despotism.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
 
         <item>
             <title>Soviet Union: Changing Times</title>
