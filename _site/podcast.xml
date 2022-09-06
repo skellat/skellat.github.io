@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>Buster Keaton in Cops</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Buster Keaton in Cops</itunes:subtitle>
+            <itunes:summary>A silent film with Buster Keaton.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Cops1922/Cops-v2.mp4" length="1092" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/2022-09-06-NotDeadYet.html</guid>
+            <pubDate>Tue, 06 Sep 2022 00:00:00 -0400</pubDate>
+            <itunes:duration>18:12</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A silent film with Buster Keaton. 
+
+Show notes available in the post at https://coyote.works/2022/2022-09-06-NotDeadYet.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Despotism</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Despotism</itunes:subtitle>
