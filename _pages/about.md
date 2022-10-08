@@ -10,4 +10,4 @@ We have an entire page dedicated to how [you can enjoy this service]({{ site.url
 
 Currently there is no advertising in our programming.  This work is not a tax-deductible effort but contributions **are** accepted to help fuel our growth.  Contact [Erie Looking Productions](https://erielookingproductions.info) for further details or utilize [PayPal](https://paypal.me/erielooking) to directly contribute.  Even a [single greenback](https://paypal.me/erielooking/1) helps us move things forward.
 
-This site remains an *experimental* offering with an erratic posting schedule that we are trying to get hammered out.
+This site remains an *experimental* offering with an erratic posting schedule that we are trying to get hammered out.  As of October 8th this is being seen to be more of a *transitional* offering rather than a permanent one.  It is anticipated that efforts will shift toward creating a streaming television service.

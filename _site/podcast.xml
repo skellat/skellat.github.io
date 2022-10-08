@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>Utilizing the Capabilities of a Software-Defined Radio</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Utilizing the Capabilities of a Software-Defined Radio</itunes:subtitle>
+            <itunes:summary>An older film from the Internet Archive shot in 2017 that shows us what the state of SDR usage in the ham radio community looked like then.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/BoxboroSDR090917/Boxboro_SDR_090917.mp4" length="3401" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/SDR.html</guid>
+            <pubDate>Sat, 08 Oct 2022 00:00:00 -0400</pubDate>
+            <itunes:duration>56:41</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>An older film from the Internet Archive shot in 2017 that shows us what the state of SDR usage in the ham radio community looked like then. 
+
+Show notes available in the post at https://coyote.works/2022/SDR.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>33C3: How Do I Crack Satellite and Cable Pay TV?</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: 33C3: How Do I Crack Satellite and Cable Pay TV?</itunes:subtitle>
+            <itunes:summary>A mirror at the Internet Archive of a Chaos Communications Congress talk given in 2016 about defeating techical protection measures for pay television.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/33C3-How_Do_I_Crack_Satellite_and_Cable_Pay_TV/33C3-How_Do_I_Crack_Satellite_and_Cable_Pay_TV.mp4" length="3760" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/CrackTheory.html</guid>
+            <pubDate>Sat, 08 Oct 2022 00:00:00 -0400</pubDate>
+            <itunes:duration>1:02:40</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A mirror at the Internet Archive of a Chaos Communications Congress talk given in 2016 about defeating techical protection measures for pay television. 
+
+Show notes available in the post at https://coyote.works/2022/CrackTheory.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Super Mario Bros. (NES) - 0:05:00 - Andrew Gardikis</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Super Mario Bros. (NES) - 0:05:00 - Andrew Gardikis</itunes:subtitle>
