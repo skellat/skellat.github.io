@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Night Club Boom"
+date: 2022-11-22 0023 -0500
+file: https://archive.org/download/MarchofTimeNightClubBoom/MarchofTime_NightClubBoom.m4v
+summary: "A sociological look at night clubs"
+description: "A sociological look at night clubs"
+duration: "21:11"
+length: "1271"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+A sociological look at night clubs
+
+<iframe src="https://archive.org/embed/MarchofTimeNightClubBoom" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
