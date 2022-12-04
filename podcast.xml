@@ -22,7 +22,7 @@
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes.png" />
     <itunes:type>episodic</itunes:type>
         <itunes:category text="Arts" />
-    <itunes:keywords>video on demand, Ashtabula, special services, Internet Archive</itunes:keywords>
+    <itunes:keywords>Video Archives</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts %}

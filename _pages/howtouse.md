@@ -10,6 +10,8 @@ You can also watch shows via Apple devices (i.e. iPod Touch, iPhone, iPad, Mac, 
 
 Due to a lack of support on their part we are not listed in Google's podcast directory.  This is not expected to change at any time in the near term.  We are not listed in Spotify's directory either.  That is not expected to change in the near term as well.
 
+We continue to investigate how to watch directly on a Roku device.  Stay tuned for updates.
+
 Links:
 
 * [Subscribe via Apple Podcasts](https://podcasts.apple.com/us/podcast/elp-television/id1589693984)

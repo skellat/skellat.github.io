@@ -3,6 +3,6 @@ The Coyote Works
 
 This is the Jekyll tooling for the video "podcast" site.  You're peeking behind the curtain.  This is generally made using VS Code.
 
-The world is still mad and we are still not operating at full power.  We do what we can.  Presently this remains an *interim* step on the way to something else.  This **will** see intermittent periods of inaction arise more than I would generally prefer.
+This site sees frequent periods of inaction.  Until we can get to a point where we can properly do video streaming this shall remain an *interim* step.  Spinning up content production to post to the Internet Archive is the next phase after all the practice just pointing to things already there.
 
 Consult <https://erielookingproductions.info> for details on how to contact us.
