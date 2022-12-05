@@ -7,7 +7,7 @@
 		<link>https://coyote.works</link>
 		<language>en-us</language>
         <copyright>&#xA9; 2022 ELP Television</copyright>
-		<itunes:subtitle>Ashtabula-area TV</itunes:subtitle>
+		<itunes:subtitle>Ashtabula-area Shows</itunes:subtitle>
         <itunes:author>Erie Looking Productions</itunes:author>
 		<itunes:summary>Online television network offering public domain and Creative Commons-licensed video content from the Internet Archive in addition to Ashtabula-area produced shows.</itunes:summary>
         <description>Online television network offering public domain and Creative Commons-licensed video content from the Internet Archive in addition to Ashtabula-area produced shows.</description>
@@ -22,6 +22,24 @@
     <itunes:keywords>Video Archives</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
 		
+
+        <item>
+            <title>Santa and the Fairy Snow Queen</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Santa and the Fairy Snow Queen</itunes:subtitle>
+            <itunes:summary>Time for premium nightmare fuel...</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/santa_and_the_fairy_snow_queen/santa_and_the_fairy_snow_queen_512kb.mp4" length="1550" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/more-sid-davis.html</guid>
+            <pubDate>Mon, 05 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>25:50</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Time for premium nightmare fuel... 
+
+Show notes available in the post at https://coyote.works/2022/more-sid-davis.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
 
         <item>
             <title>A Trip To The Planets</title>
