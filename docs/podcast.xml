@@ -24,6 +24,42 @@
 		
 
         <item>
+            <title>PowerPC and PowerMac</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: PowerPC and PowerMac</itunes:subtitle>
+            <itunes:summary>A look in 1994 at the launch of the PowerPC architecture.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/PowerPC10.1/PowerPC10.1_512kb.mp4" length="1517" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-mac-two.html</guid>
+            <pubDate>Thu, 15 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>25:17</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look in 1994 at the launch of the PowerPC architecture. 
+
+Show notes available in the post at https://coyote.works/2022/computer-chronicles-mac-two.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>The Macintosh Computer  </title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: The Macintosh Computer  </itunes:subtitle>
+            <itunes:summary>An in-depth look at the early Apple Macintosh computer, available software and hardware add-ons. Originally broadcast in 1985.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/TheMacin1985/TheMacin1985_512kb.mp4" length="1733" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-mac-one.html</guid>
+            <pubDate>Thu, 15 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>29:33</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>An in-depth look at the early Apple Macintosh computer, available software and hardware add-ons. Originally broadcast in 1985. 
+
+Show notes available in the post at https://coyote.works/2022/computer-chronicles-mac-one.html.</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Computer Chronicles: Mainframes to Minis to Micros</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Computer Chronicles: Mainframes to Minis to Micros</itunes:subtitle>
