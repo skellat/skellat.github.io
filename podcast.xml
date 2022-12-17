@@ -39,7 +39,7 @@
             <itunes:explicit>{{ post.explicit }}</itunes:explicit>
             <description>{{ post.summary | xml_escape }} 
 
-Show notes available in the post at {{ site.url }}{{ site.baseurl }}{{ post.url }}.</description>
+Complete show post at {{ site.url }}{{ site.baseurl }}{{ post.url }}</description>
             <itunes:keywords>{{ post.keywords }}</itunes:keywords>
             <itunes:block>{{ post.block }}</itunes:block>
 		</item>

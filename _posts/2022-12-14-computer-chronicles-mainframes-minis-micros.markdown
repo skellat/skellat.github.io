@@ -16,4 +16,6 @@ voices: ""
 
 The post on IA states: "This was the very first episode of the Computer Chronicles, originally broadcast in September 1983, covering the history and ancestry of today's PC."
 
+Episodes of *Computer Chronicles* can be found at the Internet Archive at <https://archive.org/details/computerchronicles>.
+
 <iframe src="https://archive.org/embed/MainFram1984" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
