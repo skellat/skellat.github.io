@@ -24,6 +24,78 @@
 		
 
         <item>
+            <title>Web Radio</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Web Radio</itunes:subtitle>
+            <itunes:summary>Online radio circa 1999</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/WebRadio99/WebRadio99.mp4" length="1581" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-web-radio.html</guid>
+            <pubDate>Sun, 18 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>26:21</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Online radio circa 1999 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-web-radio.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: UNIX 2</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: UNIX 2</itunes:subtitle>
+            <itunes:summary>MS-DOS &amp; OS/2 versus UNIX in 1989</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/unix_2/unix_2_512kb.mp4" length="1765" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-unix-2.html</guid>
+            <pubDate>Sun, 18 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>29:25</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>MS-DOS &amp; OS/2 versus UNIX in 1989 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-unix-2.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: UNIX</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: UNIX</itunes:subtitle>
+            <itunes:summary>MS-DOS versus UNIX in 1985</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/UNIX1985/UNIX1985_512kb.mp4" length="1691" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-unix-1.html</guid>
+            <pubDate>Sun, 18 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>28:11</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>MS-DOS versus UNIX in 1985 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-unix-1.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: RISC</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: RISC</itunes:subtitle>
+            <itunes:summary>A 1986 look at the RISC architecture</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/RISC1986/RISC1986_512kb.mp4" length="1731" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-RISC.html</guid>
+            <pubDate>Sun, 18 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>28:51</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A 1986 look at the RISC architecture 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-RISC.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>The Internet (circa 1993)</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: The Internet (circa 1993)</itunes:subtitle>
