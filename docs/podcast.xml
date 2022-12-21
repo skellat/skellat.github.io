@@ -24,6 +24,60 @@
 		
 
         <item>
+            <title>Computer Chronicles: Low End Computers (1985)</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Low End Computers (1985)</itunes:subtitle>
+            <itunes:summary>From the days of the Atari ST we look at low end computers...</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/LowEndCo1985/LowEndCo1985_512kb.mp4" length="1776" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-low-end-computers.html</guid>
+            <pubDate>Wed, 21 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>29:36</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>From the days of the Atari ST we look at low end computers... 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-low-end-computers.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Computers and the Pentagon 2</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Computers and the Pentagon 2</itunes:subtitle>
+            <itunes:summary>Originally aired in 1986, a look at how the military uses computers</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/pentagon2/pentagon2_512kb.mp4" length="1738" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-computers-and-pentagon-2.html</guid>
+            <pubDate>Wed, 21 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>28:58</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Originally aired in 1986, a look at how the military uses computers 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-computers-and-pentagon-2.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Computers and the Pentagon 1</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Computers and the Pentagon 1</itunes:subtitle>
+            <itunes:summary>Originally aired in 1986, a look at how the military uses computers</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Computer2001_2/Computer2001_2_512kb.mp4" length="1729" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-computers-and-pentagon-1.html</guid>
+            <pubDate>Wed, 21 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>28:49</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Originally aired in 1986, a look at how the military uses computers 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-computers-and-pentagon-1.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Computer Networks (1985)</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Computer Networks (1985)</itunes:subtitle>
