@@ -24,6 +24,96 @@
 		
 
         <item>
+            <title>Computer Chronicles: Programming Languages</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Programming Languages</itunes:subtitle>
+            <itunes:summary>A look at programming languages from the simpler times of 1999.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Programm99/Programm99_512kb.mp4" length="1644" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-programming-languages.html</guid>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>27:25</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look at programming languages from the simpler times of 1999. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-programming-languages.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Low Cost LANs</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Low Cost LANs</itunes:subtitle>
+            <itunes:summary>A look at the LAN software of 1989.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/CC713_lans/CC713_lans_512kb.mp4" length="1659" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-low-cost-lans.html</guid>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>27:39</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look at the LAN software of 1989. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-low-cost-lans.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Electronic Publishing</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Electronic Publishing</itunes:subtitle>
+            <itunes:summary>History went in a different direction than many expected with electronic publishing.  In this instance we look back at what was then the state of the art in 1993.  Expectations were different then.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Electron/Electron_512kb.mp4" length="1550" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-electronic-publishing.html</guid>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>25:50</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>History went in a different direction than many expected with electronic publishing.  In this instance we look back at what was then the state of the art in 1993.  Expectations were different then. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-electronic-publishing.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Computers &amp; The Media</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Computers &amp; The Media</itunes:subtitle>
+            <itunes:summary>A look at the use of computers in the media sector from the simpler times of 1985.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Programm99/Programm99_512kb.mp4" length="1703" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-computers-and-the-media.html</guid>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>28:23</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look at the use of computers in the media sector from the simpler times of 1985. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-computers-and-the-media.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Handheld Computers</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Handheld Computers</itunes:subtitle>
+            <itunes:summary>A look in the 1990s at what were then called palmtop computers</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/palmtops/palmtops_512kb.mp4" length="1761" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-handheld-computers.html</guid>
+            <pubDate>Thu, 22 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>29:21</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look in the 1990s at what were then called palmtop computers 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-handheld-computers.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Computer Chronicles: Low End Computers (1985)</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Computer Chronicles: Low End Computers (1985)</itunes:subtitle>
