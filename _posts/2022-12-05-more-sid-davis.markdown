@@ -14,6 +14,6 @@ categories: vodcast
 voices: ""
 ---
 
-Time for premium nightmare fuel...
+Time for premium nightmare fuel with Sid Davis rendering the story of Santa and the Fairy Snow Queen...
 
 <iframe src="https://archive.org/embed/santa_and_the_fairy_snow_queen" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
