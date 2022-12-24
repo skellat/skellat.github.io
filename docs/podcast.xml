@@ -24,6 +24,60 @@
 		
 
         <item>
+            <title>Computer Chronicles: Laptops and Handhelds</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Laptops and Handhelds</itunes:subtitle>
+            <itunes:summary>A look at the portable computing from 1991.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/episode_929/episode_929_512kb.mp4" length="1726" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-laptops-and-handhelds.html</guid>
+            <pubDate>Sat, 24 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>28:46</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look at the portable computing from 1991. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-laptops-and-handhelds.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Groupware 1994</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Groupware 1994</itunes:subtitle>
+            <itunes:summary>A look at groupware in 1994.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/1125/1125_512kb.mp4" length="1547" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-groupware-1994.html</guid>
+            <pubDate>Sat, 24 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>25:47</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look at groupware in 1994. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-groupware-1994.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Creative Writing Software</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Creative Writing Software</itunes:subtitle>
+            <itunes:summary>A 1993 review of software for writers.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/episode_1046/episode_1046_512kb.mp4" length="1612" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-creative-writing-software.html</guid>
+            <pubDate>Sat, 24 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>26:52</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A 1993 review of software for writers. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-creative-writing-software.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Computer Chronicles: Programming Languages</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Computer Chronicles: Programming Languages</itunes:subtitle>

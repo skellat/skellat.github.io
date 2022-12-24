@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="post-list">
-    {% for post in site.posts limit:15 %}
+    {% for post in site.posts limit:40 %}
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
         </h2>
