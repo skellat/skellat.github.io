@@ -16,4 +16,6 @@ voices: ""
 
 "A look in 1988 at the Amiga 3000 and its multimedia applications."
 
+Episodes of *Computer Chronicles* can be found at the Internet Archive at <https://archive.org/details/computerchronicles>.
+
 <iframe src="https://archive.org/embed/amiga3000" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

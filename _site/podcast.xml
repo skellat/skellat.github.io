@@ -24,6 +24,60 @@
 		
 
         <item>
+            <title>Computer Chronicles: Commodore 64</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Commodore 64</itunes:subtitle>
+            <itunes:summary>A look in 1988 at the Commodore 64.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/CC517_commodore_64/CC517_commodore_64_512kb.mp4" length="1711" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-commodore-64.html</guid>
+            <pubDate>Sun, 25 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>28:31</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look in 1988 at the Commodore 64. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-commodore-64.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Amiga 3000</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Amiga 3000</itunes:subtitle>
+            <itunes:summary>A look in 1988 at the Amiga 3000 and its multimedia applications.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/amiga3000/amiga3000_512kb.mp4" length="1749" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-amiga-3000.html</guid>
+            <pubDate>Sun, 25 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>29:09</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look in 1988 at the Amiga 3000 and its multimedia applications. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-amiga-3000.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Amiga 2500</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Amiga 2500</itunes:subtitle>
+            <itunes:summary>A look in 1989 at the Amiga 2500.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/amiga_3/amiga_3_512kb.mp4" length="1738" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-amiga-2500.html</guid>
+            <pubDate>Sun, 25 Dec 2022 00:00:00 -0500</pubDate>
+            <itunes:duration>28:58</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look in 1989 at the Amiga 2500. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-amiga-2500.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Computer Chronicles: Laptops and Handhelds</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Computer Chronicles: Laptops and Handhelds</itunes:subtitle>
