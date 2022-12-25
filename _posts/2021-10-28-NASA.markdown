@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dedicating the Neil A. Armstrong Test Facility for An American Hero"
-date: 2021-10-28 2346 -0400
+date: 2021-10-28 23:46:00 -0400
 file: https://images-assets.nasa.gov/video/Dedicating%20the%20Neil%20A.%20Armstrong%20Test%20Facility%20for%20An%20American%20Hero/Dedicating%20the%20Neil%20A.%20Armstrong%20Test%20Facility%20for%20An%20American%20Hero~large.mp4
 summary: "This is the re-dedication of the facility in Sandusky previously known as Plum Brook Station."
 description: "This is the re-dedication of the facility in Sandusky previously known as Plum Brook Station."

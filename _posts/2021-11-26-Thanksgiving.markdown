@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Day of Thanksgiving"
-date: 2021-11-26 1901 -0500
+date: 2021-11-26 19:01:00 -0500
 file: https://archive.org/download/DayofTha1951/DayofTha1951.mp4
 summary: "Centron provides a look from the 1950s at Thanksgiving."
 description: "Centron provides a look from the 1950s at Thanksgiving."

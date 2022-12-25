@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episodes in the Life of a Gin Bottle"
-date: 2022-01-27 2359 -0500
+date: 2022-01-27 23:59:59 -0500
 file: https://archive.org/download/silent-episodes-in-the-life-of-a-gin-bottle/Episodes%20in%20the%20Life%20of%20a%20Gin%20Bottle.mp4
 summary: "A silent film about drinking"
 description: "A silent film about drinking"

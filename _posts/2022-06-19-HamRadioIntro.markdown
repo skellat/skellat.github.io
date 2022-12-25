@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reference Point: Amateur Radio in the 21st Century"
-date: 2022-06-19 0059 -0400
+date: 2022-06-19 00:59:01 -0400
 file: https://archive.org/download/kmvt-Reference_Point_Amateur_Radio_in_the_21st_Century/Reference_Point_Amateur_Radio_in_the_21st_Century.mpeg4
 summary: "In this interview we learn about amateur radio in the United States."
 description: "In this interview we learn about amateur radio in the United States."

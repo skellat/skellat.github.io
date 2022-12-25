@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Do You Know It's Love?"
-date: 2022-01-15 2322 -0500
+date: 2022-01-15 23:22:21 -0500
 file: https://archive.org/download/HowDoYou1950/HowDoYou1950_edit.mp4
 summary: "A heavy-handed look from the 1950s at interpreting young love."
 description: "A heavy-handed look from the 1950s at interpreting young love."

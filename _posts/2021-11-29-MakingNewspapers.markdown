@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newspaper: Behind the Scenes"
-date: 2021-11-29 0017 -0500
+date: 2021-11-29 00:17:00 -0500
 file: https://archive.org/download/NewspaperBehindtheScenes/NewspaperBehindtheScenes_512kb.mp4
 summary: "A look at how a newspaper was produced in California in the 1970s."
 description: "A look at how a newspaper was produced in California in the 1970s."

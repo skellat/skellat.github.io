@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Phantom Creeps"
-date: 2021-10-19 0001 -0400
+date: 2021-10-19 00:01:10 -0400
 file: https://archive.org/download/ThePhantomCreeps/ThePhantomCreeps_512kb.mp4
 summary: "An unriffed Bella Lugosi film."
 description: "An unriffed Bella Lugosi film."

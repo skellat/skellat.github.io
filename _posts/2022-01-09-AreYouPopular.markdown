@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are You Popular?"
-date: 2022-01-09 2332 -0500
+date: 2022-01-09 23:32:00 -0500
 file: https://archive.org/download/0248_Are_You_Popular_E00020_19_00_34_00/0248_Are_You_Popular_E00020_19_00_34_00.m4v
 summary: "A look from an inter-war period about how to be popular."
 description: "A look from an inter-war period about how to be popular."

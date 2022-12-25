@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Big Buck Bunny"
-date: 2021-10-12 1913 -0400
+date: 2021-10-12 19:13:00 -0400
 file: https://archive.org/download/BigBuckBunny_310/big_buck_bunny_640.mp4
 summary: "A cartoon made as a technical demonstration of an open source software project."
 description: "A cartoon made as a technical demonstration of an open source software project."

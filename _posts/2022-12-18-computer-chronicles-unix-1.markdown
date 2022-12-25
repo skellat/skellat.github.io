@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: UNIX"
-date: 2022-12-18 2115 -0500
+date: 2022-12-18 21:15:00 -0500
 file: https://archive.org/download/UNIX1985/UNIX1985_512kb.mp4
 summary: "MS-DOS versus UNIX in 1985"
 description: "MS-DOS versus UNIX in 1985"

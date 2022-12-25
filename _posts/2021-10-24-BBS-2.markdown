@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BBS: The Documentary -- Episode 2"
-date: 2021-10-24 0001 -0400
+date: 2021-10-24 00:01:02 -0400
 file: https://archive.org/download/BBS.The.Documentary/BBS.The.Documentary.ep2_512kb.mp4
 summary: "Produced by Jason Scott, this presents history of computer culture"
 description: "Produced by Jason Scott, this presents history of computer culture"

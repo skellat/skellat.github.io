@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Partial Operations Resumption"
-date: 2022-06-19 0053 -0400
+date: 2022-06-19 00:53:01 -0400
 file: https://archive.org/download/77564VacuumTubes/77564%20Vacuum%20Tubes.mp4
 summary: "As the war drags on in Ukraine we bring a partial resumption of operations along with a new video.  This is a training film from World War II about radio maintenance."
 description: "As the war drags on in Ukraine we bring a partial resumption of operations along with a new video.  This is a training film from World War II about radio maintenance."

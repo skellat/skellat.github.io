@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It Must Be The Neighbors"
-date: 2022-01-12 2325 -0500
+date: 2022-01-12 23:25:00 -0500
 file: https://archive.org/download/ItMustBeTheNeighbors/ItMustBeTheNeighbors.m4v
 summary: "A public health film that shows public health in a better light than we have seen it lately."
 description: "A public health film that shows public health in a better light than we have seen it lately."

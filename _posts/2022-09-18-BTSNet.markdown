@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Your Roadmap to the Internet via the Bureau of Transportation Statistics"
-date: 2022-09-18 0026 -0400
+date: 2022-09-18 00:26:00 -0400
 file: https://archive.org/download/gov.dot.fhwa.ttp.vh-315/gov.dot.fhwa.ttp.vh-315_512kb.mp4
 summary: "A very 1990s look at the Internet courtesy the Bureau of Transportation Statistics"
 description: "A very 1990s look at the Internet courtesy the Bureau of Transportation Statistics"

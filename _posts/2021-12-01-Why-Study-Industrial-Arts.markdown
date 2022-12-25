@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Study Industrial Arts?"
-date: 2021-12-01 0014 -0500
+date: 2021-12-01 00:14:00 -0500
 file: https://archive.org/download/0345_Why_Study_Industrial_Arts_22_35_38_00/0345_Why_Study_Industrial_Arts_22_35_38_00.m4v
 summary: "Welcome to December!  This is one of the classic shorts riffed by the crew of the Satellite of Love on MST3K.  It was specifically riffed as part of Experiment 609 -- The Skydivers.  This rendition is not riffed, though."
 description: "Welcome to December!  This is one of the classic shorts riffed by the crew of the Satellite of Love on MST3K.  It was specifically riffed as part of Experiment 609 -- The Skydivers.  This rendition is not riffed, though."

@@ -24,6 +24,24 @@
 		
 
         <item>
+            <title>A Brief Introduction To The Fediverse</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: A Brief Introduction To The Fediverse</itunes:subtitle>
+            <itunes:summary>A look at the recent SeaGL event in 2022 at the Fediverse.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/SeaGL2022-Bob_Murphy-A_brief_introduction_to_the_Fediverse/SeaGL2022-Bob_Murphy-A_brief_introduction_to_the_Fediverse.mp4" length="1687" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/a-brief-introduction-to-the-fediverse.html</guid>
+            <pubDate>Sun, 25 Dec 2022 15:09:00 -0500</pubDate>
+            <itunes:duration>28:07</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look at the recent SeaGL event in 2022 at the Fediverse. 
+
+Complete show post at https://coyote.works/2022/a-brief-introduction-to-the-fediverse.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
             <title>Computer Chronicles: Commodore 64</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: Computer Chronicles: Commodore 64</itunes:subtitle>
@@ -31,7 +49,7 @@
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/CC517_commodore_64/CC517_commodore_64_512kb.mp4" length="1711" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-commodore-64.html</guid>
-            <pubDate>Sun, 25 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 25 Dec 2022 13:36:00 -0500</pubDate>
             <itunes:duration>28:31</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look in 1988 at the Commodore 64. 
@@ -49,7 +67,7 @@ Complete show post at https://coyote.works/2022/computer-chronicles-commodore-64
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/amiga3000/amiga3000_512kb.mp4" length="1749" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-amiga-3000.html</guid>
-            <pubDate>Sun, 25 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 25 Dec 2022 00:05:00 -0500</pubDate>
             <itunes:duration>29:09</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look in 1988 at the Amiga 3000 and its multimedia applications. 
@@ -67,30 +85,12 @@ Complete show post at https://coyote.works/2022/computer-chronicles-amiga-3000.h
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/amiga_3/amiga_3_512kb.mp4" length="1738" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-amiga-2500.html</guid>
-            <pubDate>Sun, 25 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 25 Dec 2022 00:05:00 -0500</pubDate>
             <itunes:duration>28:58</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look in 1989 at the Amiga 2500. 
 
 Complete show post at https://coyote.works/2022/computer-chronicles-amiga-2500.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Computer Chronicles: Laptops and Handhelds</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Computer Chronicles: Laptops and Handhelds</itunes:subtitle>
-            <itunes:summary>A look at the portable computing from 1991.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/episode_929/episode_929_512kb.mp4" length="1726" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-laptops-and-handhelds.html</guid>
-            <pubDate>Sat, 24 Dec 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>28:46</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>A look at the portable computing from 1991. 
-
-Complete show post at https://coyote.works/2022/computer-chronicles-laptops-and-handhelds.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -103,7 +103,7 @@ Complete show post at https://coyote.works/2022/computer-chronicles-laptops-and-
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/1125/1125_512kb.mp4" length="1547" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-groupware-1994.html</guid>
-            <pubDate>Sat, 24 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sat, 24 Dec 2022 10:20:00 -0500</pubDate>
             <itunes:duration>25:47</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look at groupware in 1994. 
@@ -121,7 +121,7 @@ Complete show post at https://coyote.works/2022/computer-chronicles-groupware-19
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/episode_1046/episode_1046_512kb.mp4" length="1612" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-creative-writing-software.html</guid>
-            <pubDate>Sat, 24 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sat, 24 Dec 2022 10:17:00 -0500</pubDate>
             <itunes:duration>26:52</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A 1993 review of software for writers. 
@@ -132,37 +132,19 @@ Complete show post at https://coyote.works/2022/computer-chronicles-creative-wri
 		</item>
 
         <item>
-            <title>Computer Chronicles: Programming Languages</title>
+            <title>Computer Chronicles: Laptops and Handhelds</title>
             <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Computer Chronicles: Programming Languages</itunes:subtitle>
-            <itunes:summary>A look at programming languages from the simpler times of 1999.</itunes:summary>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Laptops and Handhelds</itunes:subtitle>
+            <itunes:summary>A look at the portable computing from 1991.</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/Programm99/Programm99_512kb.mp4" length="1644" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-programming-languages.html</guid>
-            <pubDate>Fri, 23 Dec 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>27:25</itunes:duration>
+            <enclosure url="https://archive.org/download/episode_929/episode_929_512kb.mp4" length="1726" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-laptops-and-handhelds.html</guid>
+            <pubDate>Sat, 24 Dec 2022 10:15:00 -0500</pubDate>
+            <itunes:duration>28:46</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>A look at programming languages from the simpler times of 1999. 
+            <description>A look at the portable computing from 1991. 
 
-Complete show post at https://coyote.works/2022/computer-chronicles-programming-languages.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Computer Chronicles: Low Cost LANs</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Computer Chronicles: Low Cost LANs</itunes:subtitle>
-            <itunes:summary>A look at the LAN software of 1989.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/CC713_lans/CC713_lans_512kb.mp4" length="1659" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-low-cost-lans.html</guid>
-            <pubDate>Fri, 23 Dec 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>27:39</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>A look at the LAN software of 1989. 
-
-Complete show post at https://coyote.works/2022/computer-chronicles-low-cost-lans.html</description>
+Complete show post at https://coyote.works/2022/computer-chronicles-laptops-and-handhelds.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -175,7 +157,7 @@ Complete show post at https://coyote.works/2022/computer-chronicles-low-cost-lan
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Electron/Electron_512kb.mp4" length="1550" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-electronic-publishing.html</guid>
-            <pubDate>Fri, 23 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Fri, 23 Dec 2022 12:30:00 -0500</pubDate>
             <itunes:duration>25:50</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>History went in a different direction than many expected with electronic publishing.  In this instance we look back at what was then the state of the art in 1993.  Expectations were different then. 
@@ -193,12 +175,48 @@ Complete show post at https://coyote.works/2022/computer-chronicles-electronic-p
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Programm99/Programm99_512kb.mp4" length="1703" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-computers-and-the-media.html</guid>
-            <pubDate>Fri, 23 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Fri, 23 Dec 2022 12:25:00 -0500</pubDate>
             <itunes:duration>28:23</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look at the use of computers in the media sector from the simpler times of 1985. 
 
 Complete show post at https://coyote.works/2022/computer-chronicles-computers-and-the-media.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Low Cost LANs</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Low Cost LANs</itunes:subtitle>
+            <itunes:summary>A look at the LAN software of 1989.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/CC713_lans/CC713_lans_512kb.mp4" length="1659" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-low-cost-lans.html</guid>
+            <pubDate>Fri, 23 Dec 2022 12:13:00 -0500</pubDate>
+            <itunes:duration>27:39</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look at the LAN software of 1989. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-low-cost-lans.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Programming Languages</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Programming Languages</itunes:subtitle>
+            <itunes:summary>A look at programming languages from the simpler times of 1999.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Programm99/Programm99_512kb.mp4" length="1644" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-programming-languages.html</guid>
+            <pubDate>Fri, 23 Dec 2022 12:00:22 -0500</pubDate>
+            <itunes:duration>27:25</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A look at programming languages from the simpler times of 1999. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-programming-languages.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -211,30 +229,12 @@ Complete show post at https://coyote.works/2022/computer-chronicles-computers-an
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/palmtops/palmtops_512kb.mp4" length="1761" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-handheld-computers.html</guid>
-            <pubDate>Thu, 22 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 22 Dec 2022 00:48:00 -0500</pubDate>
             <itunes:duration>29:21</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look in the 1990s at what were then called palmtop computers 
 
 Complete show post at https://coyote.works/2022/computer-chronicles-handheld-computers.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Computer Chronicles: Low End Computers (1985)</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Computer Chronicles: Low End Computers (1985)</itunes:subtitle>
-            <itunes:summary>From the days of the Atari ST we look at low end computers...</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/LowEndCo1985/LowEndCo1985_512kb.mp4" length="1776" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-low-end-computers.html</guid>
-            <pubDate>Wed, 21 Dec 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>29:36</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>From the days of the Atari ST we look at low end computers... 
-
-Complete show post at https://coyote.works/2022/computer-chronicles-low-end-computers.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -247,7 +247,7 @@ Complete show post at https://coyote.works/2022/computer-chronicles-low-end-comp
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/pentagon2/pentagon2_512kb.mp4" length="1738" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-computers-and-pentagon-2.html</guid>
-            <pubDate>Wed, 21 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 21 Dec 2022 15:04:02 -0500</pubDate>
             <itunes:duration>28:58</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Originally aired in 1986, a look at how the military uses computers 
@@ -265,12 +265,30 @@ Complete show post at https://coyote.works/2022/computer-chronicles-computers-an
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Computer2001_2/Computer2001_2_512kb.mp4" length="1729" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-computers-and-pentagon-1.html</guid>
-            <pubDate>Wed, 21 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 21 Dec 2022 15:03:01 -0500</pubDate>
             <itunes:duration>28:49</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Originally aired in 1986, a look at how the military uses computers 
 
 Complete show post at https://coyote.works/2022/computer-chronicles-computers-and-pentagon-1.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Computer Chronicles: Low End Computers (1985)</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Computer Chronicles: Low End Computers (1985)</itunes:subtitle>
+            <itunes:summary>From the days of the Atari ST we look at low end computers...</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/LowEndCo1985/LowEndCo1985_512kb.mp4" length="1776" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-low-end-computers.html</guid>
+            <pubDate>Wed, 21 Dec 2022 15:02:00 -0500</pubDate>
+            <itunes:duration>29:36</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>From the days of the Atari ST we look at low end computers... 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-low-end-computers.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -283,7 +301,7 @@ Complete show post at https://coyote.works/2022/computer-chronicles-computers-an
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Computer1985_3/Computer1985_3_512kb.mp4" length="1741" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-networks-in-1985.html</guid>
-            <pubDate>Tue, 20 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Tue, 20 Dec 2022 16:59:00 -0500</pubDate>
             <itunes:duration>29:01</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look in 1985 at computer networking 
@@ -294,19 +312,19 @@ Complete show post at https://coyote.works/2022/computer-networks-in-1985.html</
 		</item>
 
         <item>
-            <title>Web Radio</title>
+            <title>Computer Chronicles: RISC</title>
             <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Web Radio</itunes:subtitle>
-            <itunes:summary>Online radio circa 1999</itunes:summary>
+            <itunes:subtitle>ELP Television: Computer Chronicles: RISC</itunes:subtitle>
+            <itunes:summary>A 1986 look at the RISC architecture</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/WebRadio99/WebRadio99.mp4" length="1581" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-web-radio.html</guid>
-            <pubDate>Sun, 18 Dec 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>26:21</itunes:duration>
+            <enclosure url="https://archive.org/download/RISC1986/RISC1986_512kb.mp4" length="1731" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-RISC.html</guid>
+            <pubDate>Sun, 18 Dec 2022 21:18:00 -0500</pubDate>
+            <itunes:duration>28:51</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>Online radio circa 1999 
+            <description>A 1986 look at the RISC architecture 
 
-Complete show post at https://coyote.works/2022/computer-chronicles-web-radio.html</description>
+Complete show post at https://coyote.works/2022/computer-chronicles-RISC.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -319,7 +337,7 @@ Complete show post at https://coyote.works/2022/computer-chronicles-web-radio.ht
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/unix_2/unix_2_512kb.mp4" length="1765" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-unix-2.html</guid>
-            <pubDate>Sun, 18 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 18 Dec 2022 21:16:00 -0500</pubDate>
             <itunes:duration>29:25</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>MS-DOS &amp; OS/2 versus UNIX in 1989 
@@ -337,7 +355,7 @@ Complete show post at https://coyote.works/2022/computer-chronicles-unix-2.html<
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/UNIX1985/UNIX1985_512kb.mp4" length="1691" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-unix-1.html</guid>
-            <pubDate>Sun, 18 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 18 Dec 2022 21:15:00 -0500</pubDate>
             <itunes:duration>28:11</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>MS-DOS versus UNIX in 1985 
@@ -348,19 +366,55 @@ Complete show post at https://coyote.works/2022/computer-chronicles-unix-1.html<
 		</item>
 
         <item>
-            <title>Computer Chronicles: RISC</title>
+            <title>Web Radio</title>
             <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Computer Chronicles: RISC</itunes:subtitle>
-            <itunes:summary>A 1986 look at the RISC architecture</itunes:summary>
+            <itunes:subtitle>ELP Television: Web Radio</itunes:subtitle>
+            <itunes:summary>Online radio circa 1999</itunes:summary>
             <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/RISC1986/RISC1986_512kb.mp4" length="1731" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-RISC.html</guid>
-            <pubDate>Sun, 18 Dec 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>28:51</itunes:duration>
+            <enclosure url="https://archive.org/download/WebRadio99/WebRadio99.mp4" length="1581" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-web-radio.html</guid>
+            <pubDate>Sun, 18 Dec 2022 21:14:00 -0500</pubDate>
+            <itunes:duration>26:21</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
-            <description>A 1986 look at the RISC architecture 
+            <description>Online radio circa 1999 
 
-Complete show post at https://coyote.works/2022/computer-chronicles-RISC.html</description>
+Complete show post at https://coyote.works/2022/computer-chronicles-web-radio.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Desktop Presentation Graphics - Part Two</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Desktop Presentation Graphics - Part Two</itunes:subtitle>
+            <itunes:summary>The second part of coverage of how we got things like PowerPoint.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/CC707_desktop_presentation_graphics_2/CC707_desktop_presentation_graphics_2.mp4" length="1733" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-presentation-graphics-part-two.html</guid>
+            <pubDate>Sat, 17 Dec 2022 15:47:02 -0500</pubDate>
+            <itunes:duration>28:53</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>The second part of coverage of how we got things like PowerPoint. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-presentation-graphics-part-two.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Desktop Presentation Graphics - Part One</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Desktop Presentation Graphics - Part One</itunes:subtitle>
+            <itunes:summary>The first part of coverage of how we got things like PowerPoint.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/CC707_desktop_presentation_graphics_1/CC707_desktop_presentation_graphics_1.mp4" length="1715" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-presentation-graphics-part-one.html</guid>
+            <pubDate>Sat, 17 Dec 2022 15:46:01 -0500</pubDate>
+            <itunes:duration>28:35</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>The first part of coverage of how we got things like PowerPoint. 
+
+Complete show post at https://coyote.works/2022/computer-chronicles-presentation-graphics-part-one.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -384,42 +438,6 @@ Complete show post at https://coyote.works/2022/the-internet-circa-1993.html</de
 		</item>
 
         <item>
-            <title>Desktop Presentation Graphics - Part Two</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Desktop Presentation Graphics - Part Two</itunes:subtitle>
-            <itunes:summary>The second part of coverage of how we got things like PowerPoint.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/CC707_desktop_presentation_graphics_2/CC707_desktop_presentation_graphics_2.mp4" length="1733" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-presentation-graphics-part-two.html</guid>
-            <pubDate>Sat, 17 Dec 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>28:53</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>The second part of coverage of how we got things like PowerPoint. 
-
-Complete show post at https://coyote.works/2022/computer-chronicles-presentation-graphics-part-two.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Desktop Presentation Graphics - Part One</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Desktop Presentation Graphics - Part One</itunes:subtitle>
-            <itunes:summary>The first part of coverage of how we got things like PowerPoint.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/CC707_desktop_presentation_graphics_1/CC707_desktop_presentation_graphics_1.mp4" length="1715" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-presentation-graphics-part-one.html</guid>
-            <pubDate>Sat, 17 Dec 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>28:35</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>The first part of coverage of how we got things like PowerPoint. 
-
-Complete show post at https://coyote.works/2022/computer-chronicles-presentation-graphics-part-one.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
             <title>PowerPC and PowerMac</title>
             <itunes:author>Erie Looking Productions</itunes:author>
             <itunes:subtitle>ELP Television: PowerPC and PowerMac</itunes:subtitle>
@@ -427,7 +445,7 @@ Complete show post at https://coyote.works/2022/computer-chronicles-presentation
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/PowerPC10.1/PowerPC10.1_512kb.mp4" length="1517" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-mac-two.html</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 15 Dec 2022 00:58:00 -0500</pubDate>
             <itunes:duration>25:17</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look in 1994 at the launch of the PowerPC architecture. 
@@ -445,7 +463,7 @@ Complete show post at https://coyote.works/2022/computer-chronicles-mac-two.html
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/TheMacin1985/TheMacin1985_512kb.mp4" length="1733" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-mac-one.html</guid>
-            <pubDate>Thu, 15 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 15 Dec 2022 00:56:00 -0500</pubDate>
             <itunes:duration>29:33</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>An in-depth look at the early Apple Macintosh computer, available software and hardware add-ons. Originally broadcast in 1985. 
@@ -463,7 +481,7 @@ Complete show post at https://coyote.works/2022/computer-chronicles-mac-one.html
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/MainFram1984/MainFram1984_512kb.mp4" length="1405" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/computer-chronicles-mainframes-minis-micros.html</guid>
-            <pubDate>Wed, 14 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 14 Dec 2022 20:26:00 -0500</pubDate>
             <itunes:duration>23:25</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>The post on IA states: This was the very first episode of the Computer Chronicles, originally broadcast in September 1983, covering the history and ancestry of today&apos;s PC. 
@@ -481,30 +499,12 @@ Complete show post at https://coyote.works/2022/computer-chronicles-mainframes-m
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/santa_and_the_fairy_snow_queen/santa_and_the_fairy_snow_queen_512kb.mp4" length="1550" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/more-sid-davis.html</guid>
-            <pubDate>Mon, 05 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 05 Dec 2022 00:36:00 -0500</pubDate>
             <itunes:duration>25:50</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Time for premium nightmare fuel... 
 
 Complete show post at https://coyote.works/2022/more-sid-davis.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>A Trip To The Planets</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: A Trip To The Planets</itunes:subtitle>
-            <itunes:summary>A silent film about providing through a fictionalized lens a view of our local star system.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/ATripToThePlanets-SilentWithAddedSound/ATripToThePlanets-desktop_512kb.mp4" length="995" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/silent-sci-fi.html</guid>
-            <pubDate>Sun, 04 Dec 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>16:35</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>A silent film about providing through a fictionalized lens a view of our local star system. 
-
-Complete show post at https://coyote.works/2022/silent-sci-fi.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -517,12 +517,30 @@ Complete show post at https://coyote.works/2022/silent-sci-fi.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Cinderella1911/Cinderella%201911.mp4" length="418" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/cinderella.html</guid>
-            <pubDate>Sun, 04 Dec 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 04 Dec 2022 14:10:00 -0500</pubDate>
             <itunes:duration>6:58</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A short yet silent take on the Cinderella story. 
 
 Complete show post at https://coyote.works/2022/cinderella.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>A Trip To The Planets</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: A Trip To The Planets</itunes:subtitle>
+            <itunes:summary>A silent film about providing through a fictionalized lens a view of our local star system.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/ATripToThePlanets-SilentWithAddedSound/ATripToThePlanets-desktop_512kb.mp4" length="995" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/silent-sci-fi.html</guid>
+            <pubDate>Sun, 04 Dec 2022 14:06:00 -0500</pubDate>
+            <itunes:duration>16:35</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A silent film about providing through a fictionalized lens a view of our local star system. 
+
+Complete show post at https://coyote.works/2022/silent-sci-fi.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -535,7 +553,7 @@ Complete show post at https://coyote.works/2022/cinderella.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/MarchofTimeNightClubBoom/MarchofTime_NightClubBoom.m4v" length="1271" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/boom.html</guid>
-            <pubDate>Tue, 22 Nov 2022 00:00:00 -0500</pubDate>
+            <pubDate>Tue, 22 Nov 2022 00:23:00 -0500</pubDate>
             <itunes:duration>21:11</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A sociological look at night clubs 
@@ -553,7 +571,7 @@ Complete show post at https://coyote.works/2022/boom.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/DiscoveringAmericanFolkMusic1982/DiscoveringAmericanFolkMusic1982.m4v" length="1290" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/AmericanFolkMusic.html</guid>
-            <pubDate>Tue, 25 Oct 2022 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 25 Oct 2022 00:43:00 -0400</pubDate>
             <itunes:duration>21:30</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>An academic film about folk music 
@@ -571,7 +589,7 @@ Complete show post at https://coyote.works/2022/AmericanFolkMusic.html</descript
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Mario1_500/Mario1_500_HQ.mp4" length="337" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/SpeedRun.html</guid>
-            <pubDate>Tue, 20 Sep 2022 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 20 Sep 2022 23:31:32 -0400</pubDate>
             <itunes:duration>5:37</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look at how the original Super Mario Brother console game is beaten in just five minutes. 
@@ -589,7 +607,7 @@ Complete show post at https://coyote.works/2022/SpeedRun.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/gov.dot.fhwa.ttp.vh-315/gov.dot.fhwa.ttp.vh-315_512kb.mp4" length="1088" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/BTSNet.html</guid>
-            <pubDate>Sun, 18 Sep 2022 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 18 Sep 2022 00:26:00 -0400</pubDate>
             <itunes:duration>18:08</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A very 1990s look at the Internet courtesy the Bureau of Transportation Statistics 
@@ -607,7 +625,7 @@ Complete show post at https://coyote.works/2022/BTSNet.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Cops1922/Cops-v2.mp4" length="1092" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/2022-09-06-NotDeadYet.html</guid>
-            <pubDate>Tue, 06 Sep 2022 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 06 Sep 2022 00:37:00 -0400</pubDate>
             <itunes:duration>18:12</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A silent film with Buster Keaton. 
@@ -625,7 +643,7 @@ Complete show post at https://coyote.works/2022/2022-09-06-NotDeadYet.html</desc
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Despotis1946/Despotis1946.mp4" length="596" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Despotism.html</guid>
-            <pubDate>Mon, 18 Jul 2022 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 18 Jul 2022 00:23:00 -0400</pubDate>
             <itunes:duration>9:56</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>In this short from right after World War II we learn about despotism. 
@@ -643,7 +661,7 @@ Complete show post at https://coyote.works/2022/Despotism.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/SovietUnionChangingTimes/SovietUnionChangingTimes.mp4" length="1350" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/SovietUnionChangingTimes.html</guid>
-            <pubDate>Mon, 11 Jul 2022 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 11 Jul 2022 00:31:00 -0400</pubDate>
             <itunes:duration>22:30</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>An academic/cultural film looking at the Soviet Union shortly before its collapse.  Look and learn from this as we face treacherous times in the United States of America. 
@@ -661,7 +679,7 @@ Complete show post at https://coyote.works/2022/SovietUnionChangingTimes.html</d
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/0762_Spinning_Levers_04_45_20_00/0762_Spinning_Levers_04_45_20_00_3mb.m4v" length="585" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Transmission.html</guid>
-            <pubDate>Sun, 10 Jul 2022 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 10 Jul 2022 00:49:00 -0400</pubDate>
             <itunes:duration>9:45</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>This short film by the Jam Handy Organization released during the Great Depression provides some educational material about levers, car transmissions, and how that all works for us. 
@@ -679,7 +697,7 @@ Complete show post at https://coyote.works/2022/Transmission.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/2358_Dead_Right_10_21_21_00/2358_Dead_Right_10_21_21_00.m4v" length="611" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/DeadRight.html</guid>
-            <pubDate>Sun, 26 Jun 2022 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 26 Jun 2022 23:23:00 -0400</pubDate>
             <itunes:duration>10:11</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>The Prelinger Archives brings us an amazing film from the infamous director Sid Davis about traffic safety. 
@@ -697,7 +715,7 @@ Complete show post at https://coyote.works/2022/DeadRight.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/macbreak-064-450p-h264/macbreak-064-450p-h264.mp4" length="817" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/When-ATV-Was-New.html</guid>
-            <pubDate>Sat, 25 Jun 2022 00:00:00 -0400</pubDate>
+            <pubDate>Sat, 25 Jun 2022 00:20:00 -0400</pubDate>
             <itunes:duration>9:50</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A glimpse into the past from 2007 looking at what the Apple TV was like when it was new. 
@@ -715,7 +733,7 @@ Complete show post at https://coyote.works/2022/When-ATV-Was-New.html</descripti
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/WarOfTheRobots/WarOfTheRobots1978.mp4" length="5999" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/WarOfTheRobots.html</guid>
-            <pubDate>Wed, 22 Jun 2022 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 22 Jun 2022 00:19:00 -0400</pubDate>
             <itunes:duration>1:39:59</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
             <description>More spaghetti sci-fi from the director of Ator and War of the Planets 
@@ -733,30 +751,12 @@ Complete show post at https://coyote.works/2022/WarOfTheRobots.html</description
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/56704ClassicMotionPictureTechnique/56704%20Classic%20Motion%20Picture%20Technique.mp4" length="1860" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Cinematography.html</guid>
-            <pubDate>Tue, 21 Jun 2022 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 21 Jun 2022 00:42:01 -0400</pubDate>
             <itunes:duration>31:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A training film about making training flms 
 
 Complete show post at https://coyote.works/2022/Cinematography.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Partial Operations Resumption</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Partial Operations Resumption</itunes:subtitle>
-            <itunes:summary>As the war drags on in Ukraine we bring a partial resumption of operations along with a new video.  This is a training film from World War II about radio maintenance.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/77564VacuumTubes/77564%20Vacuum%20Tubes.mp4" length="806" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/Partial-Resumption.html</guid>
-            <pubDate>Sun, 19 Jun 2022 00:00:00 -0400</pubDate>
-            <itunes:duration>13:26</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>As the war drags on in Ukraine we bring a partial resumption of operations along with a new video.  This is a training film from World War II about radio maintenance. 
-
-Complete show post at https://coyote.works/2022/Partial-Resumption.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -769,12 +769,30 @@ Complete show post at https://coyote.works/2022/Partial-Resumption.html</descrip
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/kmvt-Reference_Point_Amateur_Radio_in_the_21st_Century/Reference_Point_Amateur_Radio_in_the_21st_Century.mpeg4" length="806" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/HamRadioIntro.html</guid>
-            <pubDate>Sun, 19 Jun 2022 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 19 Jun 2022 00:59:01 -0400</pubDate>
             <itunes:duration>28:28</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>In this interview we learn about amateur radio in the United States. 
 
 Complete show post at https://coyote.works/2022/HamRadioIntro.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Partial Operations Resumption</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Partial Operations Resumption</itunes:subtitle>
+            <itunes:summary>As the war drags on in Ukraine we bring a partial resumption of operations along with a new video.  This is a training film from World War II about radio maintenance.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/77564VacuumTubes/77564%20Vacuum%20Tubes.mp4" length="806" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/Partial-Resumption.html</guid>
+            <pubDate>Sun, 19 Jun 2022 00:53:01 -0400</pubDate>
+            <itunes:duration>13:26</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>As the war drags on in Ukraine we bring a partial resumption of operations along with a new video.  This is a training film from World War II about radio maintenance. 
+
+Complete show post at https://coyote.works/2022/Partial-Resumption.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -787,7 +805,7 @@ Complete show post at https://coyote.works/2022/HamRadioIntro.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/elptvsuspensionmessage/MOV_1022.MP4" length="69" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Hiatus.html</guid>
-            <pubDate>Fri, 18 Mar 2022 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 18 Mar 2022 15:15:15 -0400</pubDate>
             <itunes:duration>1:09</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Due to the burdens of attempting to both mitigate the fallout of cyber operations from the Russia-Ukraine conflict as well as continue with updates to this service, we have chosen to suspend this service so that we can continue with handling security matters.  Too many strange things have been happening online and we need to continue our efforts in hardening systems.  The expected restoration of this service is post-conflict, we hope. 
@@ -805,7 +823,7 @@ Complete show post at https://coyote.works/2022/Hiatus.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/LetsShar1950/LetsShar1950.mp4" length="626" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Sharing.html</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 28 Feb 2022 19:13:00 -0500</pubDate>
             <itunes:duration>10:26</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A kid-centered pitch for fair play and thoughtfulness. 
@@ -823,7 +841,7 @@ Complete show post at https://coyote.works/2022/Sharing.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/TheManster_201701/The%20Manster.mp4" length="4377" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Manster.html</guid>
-            <pubDate>Fri, 11 Feb 2022 00:00:00 -0500</pubDate>
+            <pubDate>Fri, 11 Feb 2022 00:01:10 -0500</pubDate>
             <itunes:duration>1:12:57</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>This is a creature feature mentioned in passing during the pre-roll trailers in the most recent edition of The Mads Are Back. 
@@ -841,7 +859,7 @@ Complete show post at https://coyote.works/2022/Manster.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/more_dangerous_then_dynamite/more_dangerous_then_dynamite.mp4" length="589" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Dynamite.html</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 10 Feb 2022 23:59:59 -0500</pubDate>
             <itunes:duration>09:49</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>This is an unriffed version of this film. 
@@ -859,30 +877,12 @@ Complete show post at https://coyote.works/2022/Dynamite.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/TheYesterdayMachine1963_201510/TheYesterdayMachine1963.mp4" length="4708" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Yesterday-Machine.html</guid>
-            <pubDate>Wed, 09 Feb 2022 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 09 Feb 2022 00:01:10 -0500</pubDate>
             <itunes:duration>1:18:28</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Lots and lots of exposition with a barely plausible time machine filmed out in 1960s Dallas. 
 
 Complete show post at https://coyote.works/2022/Yesterday-Machine.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Trail of the Rocket</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Trail of the Rocket</itunes:subtitle>
-            <itunes:summary>General Motors made a short film to promote a car engine.  What could go wrong?</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/0406_Trail_of_the_Rocket_00_09_29_00/0406_Trail_of_the_Rocket_00_09_29_00.m4v" length="1836" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/TrailRocket.html</guid>
-            <pubDate>Tue, 08 Feb 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>30:36</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>General Motors made a short film to promote a car engine.  What could go wrong? 
-
-Complete show post at https://coyote.works/2022/TrailRocket.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -895,12 +895,30 @@ Complete show post at https://coyote.works/2022/TrailRocket.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/MightyCo1947/MightyCo1947_edit.mp4" length="598" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/MightyColumbia.html</guid>
-            <pubDate>Tue, 08 Feb 2022 00:00:00 -0500</pubDate>
+            <pubDate>Tue, 08 Feb 2022 00:02:00 -0500</pubDate>
             <itunes:duration>09:58</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Coronet Films...takes a look at the Columbia River in the Pacific Northwest. 
 
 Complete show post at https://coyote.works/2022/MightyColumbia.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Trail of the Rocket</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Trail of the Rocket</itunes:subtitle>
+            <itunes:summary>General Motors made a short film to promote a car engine.  What could go wrong?</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/0406_Trail_of_the_Rocket_00_09_29_00/0406_Trail_of_the_Rocket_00_09_29_00.m4v" length="1836" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/TrailRocket.html</guid>
+            <pubDate>Tue, 08 Feb 2022 00:01:10 -0500</pubDate>
+            <itunes:duration>30:36</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>General Motors made a short film to promote a car engine.  What could go wrong? 
+
+Complete show post at https://coyote.works/2022/TrailRocket.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -913,7 +931,7 @@ Complete show post at https://coyote.works/2022/MightyColumbia.html</description
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Capitali1948/Capitali1948.mp4" length="631" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/HSCap.html</guid>
-            <pubDate>Sat, 05 Feb 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sat, 05 Feb 2022 00:01:00 -0500</pubDate>
             <itunes:duration>10:31</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Adventuring bravely into the realm of economics, we take a look at how some 1940s high school students might explain capitalism. 
@@ -931,7 +949,7 @@ Complete show post at https://coyote.works/2022/HSCap.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/easter_20200412/Easter.mp4" length="995" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Easter.html</guid>
-            <pubDate>Fri, 04 Feb 2022 00:00:00 -0500</pubDate>
+            <pubDate>Fri, 04 Feb 2022 00:01:00 -0500</pubDate>
             <itunes:duration>16:35</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>How did we celebrate Easter during lockdown?  Let us look back at how one religious type did that here in Ashtabula back in 2020. 
@@ -949,7 +967,7 @@ Complete show post at https://coyote.works/2022/Easter.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/0396_Selling_Wizard_The_M03236_10_47_28_00/0396_Selling_Wizard_The_M03236_10_47_28_00_3mb.ogv" length="727" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/SaleWizard.html</guid>
-            <pubDate>Thu, 03 Feb 2022 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 03 Feb 2022 00:01:00 -0500</pubDate>
             <itunes:duration>12:07</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A quirky film short taking an obscure look at a narrow slice of industry. 
@@ -967,7 +985,7 @@ Complete show post at https://coyote.works/2022/SaleWizard.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/CaseofSp1940/CaseofSp1940_edit.mp4" length="496" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Coily.html</guid>
-            <pubDate>Wed, 02 Feb 2022 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 02 Feb 2022 00:01:00 -0500</pubDate>
             <itunes:duration>8:16</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>An evil old-timey demon torments a man 
@@ -985,7 +1003,7 @@ Complete show post at https://coyote.works/2022/Coily.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/rplastclearchance001/RP-Last_Clear_Chance_001.mp4" length="1484" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/LastClearChance.html</guid>
-            <pubDate>Tue, 01 Feb 2022 00:00:00 -0500</pubDate>
+            <pubDate>Tue, 01 Feb 2022 00:01:00 -0500</pubDate>
             <itunes:duration>24:44</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>This is a film about railroad safety in terms of automobile accidents. 
@@ -1003,7 +1021,7 @@ Complete show post at https://coyote.works/2022/LastClearChance.html</descriptio
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/90714-us-navy-digital-computer-techniques-vwr/90714%20US%20Navy%20Digital%20Computer%20Techniques_vwr.mp4" length="1014" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/DCT.html</guid>
-            <pubDate>Mon, 31 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 31 Jan 2022 00:01:00 -0500</pubDate>
             <itunes:duration>16:54</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>An unclassified Army/Navy training film from 1962 about computer technology. 
@@ -1021,7 +1039,7 @@ Complete show post at https://coyote.works/2022/DCT.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/ThePhantomCreeps/ThePhantomCreeps.mp4" length="4700" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/PhantomCreeps.html</guid>
-            <pubDate>Fri, 28 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Fri, 28 Jan 2022 00:01:00 -0500</pubDate>
             <itunes:duration>1:18:20</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Bela Lugosi as Dr. Zorka.  What could go wrong? 
@@ -1039,7 +1057,7 @@ Complete show post at https://coyote.works/2022/PhantomCreeps.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/silent-episodes-in-the-life-of-a-gin-bottle/Episodes%20in%20the%20Life%20of%20a%20Gin%20Bottle.mp4" length="684" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/GinBottleLife.html</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 27 Jan 2022 23:59:59 -0500</pubDate>
             <itunes:duration>11:24</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A silent film about drinking 
@@ -1057,7 +1075,7 @@ Complete show post at https://coyote.works/2022/GinBottleLife.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/0772_On_Guard_The_Story_of_SAGE_18_48_05_00/0772_On_Guard_The_Story_of_SAGE_18_48_05_00.m4v" length="738" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/SAGE.html</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 26 Jan 2022 00:01:00 -0500</pubDate>
             <itunes:duration>12:18</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Once upon a time computers filled entire floors of buildings.  This film tells us about the big iron that helped us track inbound missile threats to the United States and Canada. 
@@ -1075,7 +1093,7 @@ Complete show post at https://coyote.works/2022/SAGE.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/6021_Science_and_Superstition_00_45_46_21/6021_Science_and_Superstition_00_45_46_21.m4v" length="495" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Superstition.html</guid>
-            <pubDate>Tue, 25 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Tue, 25 Jan 2022 00:01:00 -0500</pubDate>
             <itunes:duration>8:15</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Coronet Films...wait, where did the title slate go?  This instructional film starts a bit abruptly but talks about how to handle the intersection of science and superstition.  This is a digitization of a print from the Prelinger Archive. 
@@ -1093,7 +1111,7 @@ Complete show post at https://coyote.works/2022/Superstition.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/a-celebration-of-sound-public-domain-day-2022/A%20Celebration%20of%20Sound%20Public%20Domain%20Day%202022.mp4" length="4476" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/PublicDomain.html</guid>
-            <pubDate>Mon, 24 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 24 Jan 2022 00:01:00 -0500</pubDate>
             <itunes:duration>1:14:36</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>An event that took place in California at the Internet Archive.  Sound recordings newly available in the public domain were celebrated in a public event with DJs and other attendees. 
@@ -1111,7 +1129,7 @@ Complete show post at https://coyote.works/2022/PublicDomain.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/from-owning-to-streaming/From%20Owning%20to%20Streaming.mp4" length="4624" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/StreamingTransition.html</guid>
-            <pubDate>Sun, 23 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 23 Jan 2022 22:52:00 -0500</pubDate>
             <itunes:duration>1:17:04</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A discussion of media resources in education. 
@@ -1129,7 +1147,7 @@ Complete show post at https://coyote.works/2022/StreamingTransition.html</descri
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/0412_Blasting_Cap_Danger_12_37_48_00/0412_Blasting_Cap_Danger_12_37_48_00.m4v" length="885" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/BLAH.html</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 19 Jan 2022 00:01:02 -0500</pubDate>
             <itunes:duration>14:45</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>An unriffed look at this educational short. 
@@ -1147,7 +1165,7 @@ Complete show post at https://coyote.works/2022/BLAH.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/TheYesterdayMachine1963_201510/TheYesterdayMachine1963.mp4" length="4708" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/YesterdayMachine.html</guid>
-            <pubDate>Tue, 18 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Tue, 18 Jan 2022 23:59:59 -0500</pubDate>
             <itunes:duration>1:18:28</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Nazis and time travel: what could go wrong?  This is another Z-grade film. 
@@ -1165,7 +1183,7 @@ Complete show post at https://coyote.works/2022/YesterdayMachine.html</descripti
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/MakingBo1947/MakingBo1947_edit.mp4" length="646" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/MakingBooks.html</guid>
-            <pubDate>Sun, 16 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 16 Jan 2022 00:01:02 -0500</pubDate>
             <itunes:duration>10:46</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>The life-cycle of making a book. 
@@ -1183,7 +1201,7 @@ Complete show post at https://coyote.works/2022/MakingBooks.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/HowDoYou1950/HowDoYou1950_edit.mp4" length="777" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Love.html</guid>
-            <pubDate>Sat, 15 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sat, 15 Jan 2022 23:22:21 -0500</pubDate>
             <itunes:duration>12:57</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A heavy-handed look from the 1950s at interpreting young love. 
@@ -1201,7 +1219,7 @@ Complete show post at https://coyote.works/2022/Love.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/HowToJudgeFacts/HowToJudgeFacts.m4v" length="586" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/HowToJudgeFacts.html</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Fri, 14 Jan 2022 00:01:00 -0500</pubDate>
             <itunes:duration>9:46</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look from the late 1940s in black and white at how to avoid sensationalism. 
@@ -1219,7 +1237,7 @@ Complete show post at https://coyote.works/2022/HowToJudgeFacts.html</descriptio
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/StepLightly/StepLightly.m4v" length="871" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/StepLightly.html</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 13 Jan 2022 00:02:00 -0500</pubDate>
             <itunes:duration>14:31</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A public health film about being seen. 
@@ -1237,7 +1255,7 @@ Complete show post at https://coyote.works/2022/StepLightly.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/ItMustBeTheNeighbors/ItMustBeTheNeighbors.m4v" length="798" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/MustBeNeighbors.html</guid>
-            <pubDate>Wed, 12 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 12 Jan 2022 23:25:00 -0500</pubDate>
             <itunes:duration>13:18</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A public health film that shows public health in a better light than we have seen it lately. 
@@ -1255,7 +1273,7 @@ Complete show post at https://coyote.works/2022/MustBeNeighbors.html</descriptio
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/WhatIsMo1947/WhatIsMo1947_edit.mp4" length="632" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/MovieSign.html</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Tue, 11 Jan 2022 00:01:00 -0500</pubDate>
             <itunes:duration>10:32</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Well before the age of cryptocurrency we have this short educational film talking about what money happens to be... 
@@ -1273,7 +1291,7 @@ Complete show post at https://coyote.works/2022/MovieSign.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/0537_Banks_and_Credit_19_41_46_04/0537_Banks_and_Credit_19_41_46_04.m4v" length="641" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/BanksAndCredit.html</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 10 Jan 2022 00:01:00 -0500</pubDate>
             <itunes:duration>10:41</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A late 1940s at banks and credit.  The concept of Too Big To Fail most definitely did not exist then. 
@@ -1291,7 +1309,7 @@ Complete show post at https://coyote.works/2022/BanksAndCredit.html</description
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/0248_Are_You_Popular_E00020_19_00_34_00/0248_Are_You_Popular_E00020_19_00_34_00.m4v" length="598" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/AreYouPopular.html</guid>
-            <pubDate>Sun, 09 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 09 Jan 2022 23:32:00 -0500</pubDate>
             <itunes:duration>9:58</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look from an inter-war period about how to be popular. 
@@ -1309,48 +1327,12 @@ Complete show post at https://coyote.works/2022/AreYouPopular.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/0150_Cooking_Terms_and_What_They_Mean/0150_Cooking_Terms_and_What_They_Mean_E00167_16_44_17_00_3mb.mp4" length="661" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/CookingTerms.html</guid>
-            <pubDate>Thu, 06 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 06 Jan 2022 00:01:00 -0500</pubDate>
             <itunes:duration>11:01</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A product of its time, this film from Centron/Young America Films tries to teach us about the terms used in cooking. 
 
 Complete show post at https://coyote.works/2022/CookingTerms.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Invaders From Space</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Invaders From Space</itunes:subtitle>
-            <itunes:summary>This is the final film of the Star Man quartet.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/InvadersFromSpace1965/InvadersFromSpace.mp4" length="4653" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/InvadersSpace.html</guid>
-            <pubDate>Wed, 05 Jan 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>1:17:33</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>This is the final film of the Star Man quartet. 
-
-Complete show post at https://coyote.works/2022/InvadersSpace.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>REPEAT: Evil Brain From Outer Space</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: REPEAT: Evil Brain From Outer Space</itunes:subtitle>
-            <itunes:summary>From the Star Man quartet of films</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/EvilBrainFromOuterSpace/EvilBrainFromOuterSpace_512kb.mp4" length="4689" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/EvilBrainRepeat.html</guid>
-            <pubDate>Wed, 05 Jan 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>1:18:09</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>From the Star Man quartet of films 
-
-Complete show post at https://coyote.works/2022/EvilBrainRepeat.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1363,13 +1345,49 @@ Complete show post at https://coyote.works/2022/EvilBrainRepeat.html</descriptio
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Attack_From_Space/Attack_From_Space_512kb.mp4" length="3932" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/Attack-From-Space-REPEAT.html</guid>
-            <pubDate>Wed, 05 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 05 Jan 2022 00:31:00 -0500</pubDate>
             <itunes:duration>1:15:32</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Science Fiction from Japan!  Walter Manley Enterprises!  The best that can be said is that this has been riffed by RiffTrax.  This is the unriffed version courtesy the Internet Archive. 
 
 Complete show post at https://coyote.works/2022/Attack-From-Space-REPEAT.html</description>
             <itunes:keywords>Science Fiction, public domain, silly films, Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>REPEAT: Evil Brain From Outer Space</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: REPEAT: Evil Brain From Outer Space</itunes:subtitle>
+            <itunes:summary>From the Star Man quartet of films</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/EvilBrainFromOuterSpace/EvilBrainFromOuterSpace_512kb.mp4" length="4689" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/EvilBrainRepeat.html</guid>
+            <pubDate>Wed, 05 Jan 2022 00:29:00 -0500</pubDate>
+            <itunes:duration>1:18:09</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>From the Star Man quartet of films 
+
+Complete show post at https://coyote.works/2022/EvilBrainRepeat.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Invaders From Space</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Invaders From Space</itunes:subtitle>
+            <itunes:summary>This is the final film of the Star Man quartet.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/InvadersFromSpace1965/InvadersFromSpace.mp4" length="4653" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/InvadersSpace.html</guid>
+            <pubDate>Wed, 05 Jan 2022 00:18:00 -0500</pubDate>
+            <itunes:duration>1:17:33</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>This is the final film of the Star Man quartet. 
+
+Complete show post at https://coyote.works/2022/InvadersSpace.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
 
@@ -1381,7 +1399,7 @@ Complete show post at https://coyote.works/2022/Attack-From-Space-REPEAT.html</d
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/AtomicRulersOfTheWorld/AtomicRulersOfTheWorld.mp4" length="4456" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/AtomicRulers.html</guid>
-            <pubDate>Wed, 05 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 05 Jan 2022 00:18:00 -0500</pubDate>
             <itunes:duration>1:14:16</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>This is another film of the Star Man quartet. 
@@ -1399,30 +1417,12 @@ Complete show post at https://coyote.works/2022/AtomicRulers.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Levoyagedanslalune/Le_voyage_dans_la_lune_A_trip_to_the_moon__Georges_Mlis_1902_512kb.mp4" length="708" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/VoyageToTheMoon.html</guid>
-            <pubDate>Tue, 04 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Tue, 04 Jan 2022 00:02:00 -0500</pubDate>
             <itunes:duration>11:48</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Here we find a French silent film from 1902 about travel to the moon.  It is very emblematic of the sensibilities of when it was made.  Is it goofy?  You better believe it... 
 
 Complete show post at https://coyote.works/2022/VoyageToTheMoon.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Reefer Madness</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Reefer Madness</itunes:subtitle>
-            <itunes:summary>The classic shlock scare film.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4" length="4097" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2022/ReeferMadness.html</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 -0500</pubDate>
-            <itunes:duration>1:08:17</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>The classic shlock scare film. 
-
-Complete show post at https://coyote.works/2022/ReeferMadness.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1435,12 +1435,30 @@ Complete show post at https://coyote.works/2022/ReeferMadness.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/NancyDrewReporter/Nancy_Drew_Reporter.mp4" length="4065" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/NancyDrew.html</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 03 Jan 2022 13:32:00 -0500</pubDate>
             <itunes:duration>1:07:45</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>REPEAT... A 1930s era film featuring Bonita Granville as Nancy Drew.  No, it is nothing like what is seen on the CW today.  Please bear in mind that it is also very much a product of the time when it was produced and may seem quite offensive at points today. 
 
 Complete show post at https://coyote.works/2022/NancyDrew.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Reefer Madness</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Reefer Madness</itunes:subtitle>
+            <itunes:summary>The classic shlock scare film.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4" length="4097" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2022/ReeferMadness.html</guid>
+            <pubDate>Mon, 03 Jan 2022 10:42:00 -0500</pubDate>
+            <itunes:duration>1:08:17</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>The classic shlock scare film. 
+
+Complete show post at https://coyote.works/2022/ReeferMadness.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -1453,7 +1471,7 @@ Complete show post at https://coyote.works/2022/NancyDrew.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/TheGoat/The_Goat_512kb.mp4" length="1374" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/TheGoat.html</guid>
-            <pubDate>Sun, 02 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 02 Jan 2022 00:10:00 -0500</pubDate>
             <itunes:duration>22:54</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Buster Keaton versus a goat.  Yes, this is another silent film. 
@@ -1471,7 +1489,7 @@ Complete show post at https://coyote.works/2022/TheGoat.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/SeaGL2021-Ski-Lessons_Learned_from_a_Ransomware_Attack/SeaGL2021-Ski-Lessons_Learned_from_a_Ransomware_Attack.mp4" length="2103" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/SeaGLRansomwareTalk.html</guid>
-            <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sat, 01 Jan 2022 12:08:00 -0500</pubDate>
             <itunes:duration>35:03</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Even though it was news recently with the Ashtabula County Medical Center and the City of Geneva it stands to reason that we can learn from how others handle ransomware attacks and learn from what lessons they learned.  This event from the Seattle GNU/Linux Conference in 2021 provides some background for us in that area. 
@@ -1489,7 +1507,7 @@ Complete show post at https://coyote.works/2022/SeaGLRansomwareTalk.html</descri
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/ELPTV2022ChannelMarker/2021-12-31_21-03-05.mp4" length="45" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/22MarkerB.html</guid>
-            <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sat, 01 Jan 2022 11:56:00 -0500</pubDate>
             <itunes:duration>0:45</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Recorded in an undisclosed location, Mike Kellat of the production staff at Erie Looking Productions introduces the ELP TV video podcast channel to the world.  Further local productions are expected to come in 2022. 
@@ -1507,7 +1525,7 @@ Complete show post at https://coyote.works/2022/22MarkerB.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/ELPTV2022ChannelMarker/2021-12-31_21-03-05.mp4" length="45" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2022/2022Marker.html</guid>
-            <pubDate>Sat, 01 Jan 2022 00:00:00 -0500</pubDate>
+            <pubDate>Sat, 01 Jan 2022 11:50:00 -0500</pubDate>
             <itunes:duration>0:45</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Recorded in an undisclosed location, Mike Kellat of the production staff at Erie Looking Productions introduces the ELP TV video podcast channel to the world. 
@@ -1525,7 +1543,7 @@ Complete show post at https://coyote.works/2022/2022Marker.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Suit-Up_50-Years-of-Spacewalks/EVA%2050%20Suit%20Up.mp4" length="1953" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Spacewalks.html</guid>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 20 Dec 2021 00:25:00 -0500</pubDate>
             <itunes:duration>32:33</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A documentary discussing a half-century of space walks. 
@@ -1543,7 +1561,7 @@ Complete show post at https://coyote.works/2021/Spacewalks.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/IWillBeSeeingYou/IBSY.mp4" length="5098" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/BeSeeingYou.html</guid>
-            <pubDate>Mon, 20 Dec 2021 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 20 Dec 2021 00:09:00 -0500</pubDate>
             <itunes:duration>1:24:58</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A soldier suffering from combat fatigue meets a young woman on Christmas furlough from prison and their mutual loneliness blossoms into romance. 
@@ -1561,7 +1579,7 @@ Complete show post at https://coyote.works/2021/BeSeeingYou.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4" length="6388" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Phantom.html</guid>
-            <pubDate>Sat, 18 Dec 2021 00:00:00 -0500</pubDate>
+            <pubDate>Sat, 18 Dec 2021 00:01:00 -0500</pubDate>
             <itunes:duration>1:46:28</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A silent film version. 
@@ -1579,7 +1597,7 @@ Complete show post at https://coyote.works/2021/Phantom.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/2357_Santa_and_the_Fairy_Snow_Queen_07_25_41_00/2357_Santa_and_the_Fairy_Snow_Queen_07_25_41_00.m4v" length="1569" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/FairySnowQueen.html</guid>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 15 Dec 2021 00:01:00 -0500</pubDate>
             <itunes:duration>26:09</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Before today&apos;s cookie cutter holiday films from a certain television network named for a greeting card company it seems filmmakers of the past liked to indulge in making what can best be described as nightmare fuel.  This short comes from producer Sid Davis who is more well known for quite heavy-handed productions in the educational films realm. 
@@ -1597,7 +1615,7 @@ Complete show post at https://coyote.works/2021/FairySnowQueen.html</description
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/rural_holidays/rural_holidays.mp4" length="1460" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/RuralHolidays.html</guid>
-            <pubDate>Fri, 10 Dec 2021 00:00:00 -0500</pubDate>
+            <pubDate>Fri, 10 Dec 2021 00:01:00 -0500</pubDate>
             <itunes:duration>24:20</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A classic USDA film providing a look at rural life. 
@@ -1615,7 +1633,7 @@ Complete show post at https://coyote.works/2021/RuralHolidays.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/0542_Rudolph_The_Red-Nosed_Reindeer_06_21_17_28/0542_Rudolph_The_Red-Nosed_Reindeer_06_21_17_28.m4v" length="529" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/RudolphReindeer.html</guid>
-            <pubDate>Thu, 09 Dec 2021 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 09 Dec 2021 00:13:00 -0500</pubDate>
             <itunes:duration>8:49</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Directed by Max Fleischer for the Jam Handy Organization, we hear a rendering of the story of Rudolph.  What could go wrong? 
@@ -1633,7 +1651,7 @@ Complete show post at https://coyote.works/2021/RudolphReindeer.html</descriptio
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/son_of_the_navy/son_of_the_navy.mp4" length="4267" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Son-of-the-Navy.html</guid>
-            <pubDate>Wed, 08 Dec 2021 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 08 Dec 2021 13:06:00 -0500</pubDate>
             <itunes:duration>1:11:07</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>We&apos;re going to continue with our Christmas theme.  Although not overtly a Christmas film, this feature film gives us an orphan and a sailor building bonds on a cross-country road trip.  Is the kid actually the sailor&apos;s son?  Is something else going on?  Watch and see. 
@@ -1651,7 +1669,7 @@ Complete show post at https://coyote.works/2021/Son-of-the-Navy.html</descriptio
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/silent-santa-claus/Santa%20Claus.mp4" length="1724" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/SilentSanta.html</guid>
-            <pubDate>Tue, 07 Dec 2021 00:00:00 -0500</pubDate>
+            <pubDate>Tue, 07 Dec 2021 00:06:00 -0500</pubDate>
             <itunes:duration>28:44</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A monochromatic silent film from 1925 that proudly proclaims that it was filmed in Alaska.  What could possibly go wrong? 
@@ -1669,7 +1687,7 @@ Complete show post at https://coyote.works/2021/SilentSanta.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Capitali1948/Capitali1948.mp4" length="631" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Capitalism.html</guid>
-            <pubDate>Sat, 04 Dec 2021 00:00:00 -0500</pubDate>
+            <pubDate>Sat, 04 Dec 2021 00:22:00 -0500</pubDate>
             <itunes:duration>10:31</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Coronet Films...gives us a look at what capitalism meant back in the monochromatic days of the 1950s. 
@@ -1687,7 +1705,7 @@ Complete show post at https://coyote.works/2021/Capitalism.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/2318_More_Dangerous_Than_Dynamite_02_21_05_00/2318_More_Dangerous_Than_Dynamite_02_21_05_00.m4v" length="584" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Gasoline.html</guid>
-            <pubDate>Thu, 02 Dec 2021 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 02 Dec 2021 00:01:00 -0500</pubDate>
             <itunes:duration>9:44</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>It was 1941.  It was over the top.  Yes, it is an educational short talking about the dangers of the misuse of gasoline.  This is an unriffed version. 
@@ -1705,7 +1723,7 @@ Complete show post at https://coyote.works/2021/Gasoline.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/0345_Why_Study_Industrial_Arts_22_35_38_00/0345_Why_Study_Industrial_Arts_22_35_38_00.m4v" length="576" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Why-Study-Industrial-Arts.html</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 01 Dec 2021 00:14:00 -0500</pubDate>
             <itunes:duration>9:36</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Welcome to December!  This is one of the classic shorts riffed by the crew of the Satellite of Love on MST3K.  It was specifically riffed as part of Experiment 609 -- The Skydivers.  This rendition is not riffed, though. 
@@ -1723,7 +1741,7 @@ Complete show post at https://coyote.works/2021/Why-Study-Industrial-Arts.html</
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/safety_in_offices/safety_in_offices.mp4" length="585" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/OfficeSafety.html</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Tue, 30 Nov 2021 00:21:00 -0500</pubDate>
             <itunes:duration>9:45</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>To wrap up November we turn to a wartime short about safety in offices.  What could possibly go wrong? 
@@ -1741,7 +1759,7 @@ Complete show post at https://coyote.works/2021/OfficeSafety.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/NewspaperBehindtheScenes/NewspaperBehindtheScenes_512kb.mp4" length="903" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/MakingNewspapers.html</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 29 Nov 2021 00:17:00 -0500</pubDate>
             <itunes:duration>15:03</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look at how a newspaper was produced in California in the 1970s. 
@@ -1759,7 +1777,7 @@ Complete show post at https://coyote.works/2021/MakingNewspapers.html</descripti
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/DayofTha1951/DayofTha1951.mp4" length="748" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Thanksgiving.html</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Fri, 26 Nov 2021 19:01:00 -0500</pubDate>
             <itunes:duration>12:28</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Centron provides a look from the 1950s at Thanksgiving. 
@@ -1777,7 +1795,7 @@ Complete show post at https://coyote.works/2021/Thanksgiving.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/MakeMine1948/MakeMine1948_edit.mp4" length="570" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/MakeMineFreedom.html</guid>
-            <pubDate>Fri, 19 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Fri, 19 Nov 2021 00:27:00 -0500</pubDate>
             <itunes:duration>9:30</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A piece of anti-communist propaganda produced by what was then Harding College in Arkansas.  Today it is known as Harding University.  The main campus is still in Searcy, Arkansas. 
@@ -1795,7 +1813,7 @@ Complete show post at https://coyote.works/2021/MakeMineFreedom.html</descriptio
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Exercise1949/Exercise1949.mp4" length="5128" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Teenagers.html</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 18 Nov 2021 01:01:01 -0500</pubDate>
             <itunes:duration>1:25:28</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>This is not the riffed version from Mystery Science Theater 3000. 
@@ -1813,7 +1831,7 @@ Complete show post at https://coyote.works/2021/Teenagers.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/PowertoS1957/PowertoS1957.mp4" length="1257" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/JamHandy.html</guid>
-            <pubDate>Wed, 17 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 17 Nov 2021 00:01:00 -0500</pubDate>
             <itunes:duration>20:57</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>The people at the Jam Handy Organization produced a film for the Illuminating Company extolling its virtues.  The old coal plant in Ashtabula is depicted in this film. 
@@ -1831,7 +1849,7 @@ Complete show post at https://coyote.works/2021/JamHandy.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/0675_Immunization_Second_edition_05_51_11_00/0675_Immunization_Second_edition_05_51_11_00.m4v" length="570" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Vaccination.html</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Tue, 16 Nov 2021 00:27:00 -0500</pubDate>
             <itunes:duration>9:30</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Dating to 1955, this film from Encyclopaedia Britannica talks about the miracles of vaccines and immunization.  Before we had mRNA technology this was how the magic happened. 
@@ -1849,7 +1867,7 @@ Complete show post at https://coyote.works/2021/Vaccination.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/RadarMenFromTheMoonTrailer/RadarMenFromTheMoonTrailer.mp4" length="113" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Trailer-RadarMen.html</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 15 Nov 2021 00:01:10 -0500</pubDate>
             <itunes:duration>1:53</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>This is the trailer to the multi-part serial that aired as part of the first season of Mystery Science Theater 3000.  We&apos;ll start with this before deciding upon showing the whole thing or not. 
@@ -1867,7 +1885,7 @@ Complete show post at https://coyote.works/2021/Trailer-RadarMen.html</descripti
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Phantom_From_Space/Phantom_From_Space.mp4" length="4341" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/PhantomFromSpace.html</guid>
-            <pubDate>Sun, 14 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 14 Nov 2021 02:02:02 -0500</pubDate>
             <itunes:duration>1:12:21</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A monster crashes from space in the Los Angeles area and a ragtag crew has to neutralize the threat. 
@@ -1885,7 +1903,7 @@ Complete show post at https://coyote.works/2021/PhantomFromSpace.html</descripti
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/InvasionOfTheNeptuneMen/Invasion%20Of%20The%20Neptune%20Men.mp4" length="4151" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/NeptuneMen.html</guid>
-            <pubDate>Sat, 13 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Sat, 13 Nov 2021 23:08:00 -0500</pubDate>
             <itunes:duration>1:09:11</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A jaunt into the realm of monochrome monsters invading Japan. 
@@ -1903,7 +1921,7 @@ Complete show post at https://coyote.works/2021/NeptuneMen.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/MakingFi1954/MakingFi1954.mp4" length="1092" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/MakingFilms.html</guid>
-            <pubDate>Fri, 12 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Fri, 12 Nov 2021 00:01:00 -0500</pubDate>
             <itunes:duration>18:12</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>An educational film about making educational films.  In an age where everybody can post video online there is a need for good instructional video content. 
@@ -1921,7 +1939,7 @@ Complete show post at https://coyote.works/2021/MakingFilms.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/gov.archives.arc.1257126/gov.archives.arc.1257126_512kb.mp4p4" length="907" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Wallops.html</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 10 Nov 2021 01:04:00 -0500</pubDate>
             <itunes:duration>15:07</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>NASA history file film about its Wallops Island launch facility. 
@@ -1939,7 +1957,7 @@ Complete show post at https://coyote.works/2021/Wallops.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/FirstSpaceshipOnVenusMPEG/First_Spaceship_On_Venus.mp4" length="4711" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Venus.html</guid>
-            <pubDate>Sun, 07 Nov 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 07 Nov 2021 00:01:00 -0400</pubDate>
             <itunes:duration>1:18:31</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A film from the wrong side of the Iron Curtain painting quite a view of space exploration. 
@@ -1957,7 +1975,7 @@ Complete show post at https://coyote.works/2021/Venus.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/VoyageToThePlanetOfPrehistoricWomen_20130813/Voyage%20to%20the%20Planet%20of%20Prehistoric%20Women.mp4" length="4791" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Prehistoric.html</guid>
-            <pubDate>Sat, 06 Nov 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sat, 06 Nov 2021 23:27:00 -0400</pubDate>
             <itunes:duration>1:19:51</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A reworking of the Soviet film Planeta Bur. 
@@ -1975,7 +1993,7 @@ Complete show post at https://coyote.works/2021/Prehistoric.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Usingthe1947/Usingthe1947_edit.mp4" length="624" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Banking.html</guid>
-            <pubDate>Fri, 05 Nov 2021 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 05 Nov 2021 00:02:00 -0400</pubDate>
             <itunes:duration>10:24</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A look at relatively ancient banking practices from the middle of the 20th century. 
@@ -1993,7 +2011,7 @@ Complete show post at https://coyote.works/2021/Banking.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/ShakeHan1970/ShakeHan1970_edit.mp4" length="1387" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/ShakeHands.html</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 04 Nov 2021 00:01:00 -0400</pubDate>
             <itunes:duration>23:07</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
             <description>Marked EXPLICIT due to simulated construction site and workplace accidents and simulated gore.  This is a 1970s training film produced for Caterpillar Tractor Company with quite the guitar track showing what not to do on a job site. 
@@ -2011,7 +2029,7 @@ Complete show post at https://coyote.works/2021/ShakeHands.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Communis1952/Communis1952.mp4" length="640" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Communism.html</guid>
-            <pubDate>Wed, 03 Nov 2021 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 03 Nov 2021 23:54:00 -0400</pubDate>
             <itunes:duration>10:40</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>The nice people at Coronet Films teach us about Communism from a 1950s perspective 
@@ -2029,7 +2047,7 @@ Complete show post at https://coyote.works/2021/Communism.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Responsi1955/Responsi1955_edit.mp4" length="682" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Responsibilities.html</guid>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 02 Nov 2021 00:05:00 -0400</pubDate>
             <itunes:duration>11:22</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>We sample Cold War propaganda. 
@@ -2047,7 +2065,7 @@ Complete show post at https://coyote.works/2021/Responsibilities.html</descripti
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Despotis1946/Despotis1946_512kb.mp4" length="596" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/StartNovember.html</guid>
-            <pubDate>Mon, 01 Nov 2021 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 01 Nov 2021 23:59:00 -0400</pubDate>
             <itunes:duration>9:56</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>We begin November by learning about despotism. 
@@ -2065,7 +2083,7 @@ Complete show post at https://coyote.works/2021/StartNovember.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4" length="5922" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Halloween2021.html</guid>
-            <pubDate>Sun, 31 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 31 Oct 2021 00:02:00 -0400</pubDate>
             <itunes:duration>1:38:42</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>For Halloween we have a silent film.  Yes, we turn to an early film by Universal that does a send-up of a Jules Verne story.  The story originally came out towards the end of the Second Empire in France and the launch of the Third Republic. 
@@ -2083,7 +2101,7 @@ Complete show post at https://coyote.works/2021/Halloween2021.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/NancyDrewReporter/Nancy_Drew_Reporter.mp4" length="4065" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Drew.html</guid>
-            <pubDate>Sat, 30 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sat, 30 Oct 2021 00:01:00 -0400</pubDate>
             <itunes:duration>1:07:45</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A 1930s era film featuring Bonita Granville as Nancy Drew.  No, it is nothing like what is seen on the CW today.  Please bear in mind that it is also very much a product of the time when it was produced and may seem quite offensive at points today. 
@@ -2101,7 +2119,7 @@ Complete show post at https://coyote.works/2021/Drew.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/gov.archives.arc.1151850/gov.archives.arc.1151850_512kb.mp4" length="1624" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Mercury.html</guid>
-            <pubDate>Fri, 29 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 29 Oct 2021 00:01:00 -0400</pubDate>
             <itunes:duration>27:04</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Part of NASA&apos;s history files, this film talks about the astronauts of the Mercury project. 
@@ -2119,7 +2137,7 @@ Complete show post at https://coyote.works/2021/Mercury.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://images-assets.nasa.gov/video/Dedicating%20the%20Neil%20A.%20Armstrong%20Test%20Facility%20for%20An%20American%20Hero/Dedicating%20the%20Neil%20A.%20Armstrong%20Test%20Facility%20for%20An%20American%20Hero~large.mp4" length="198" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/NASA.html</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 28 Oct 2021 23:46:00 -0400</pubDate>
             <itunes:duration>3:18</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>This is the re-dedication of the facility in Sandusky previously known as Plum Brook Station. 
@@ -2137,7 +2155,7 @@ Complete show post at https://coyote.works/2021/NASA.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/RadioBroadcastingToday/RadioBroadcastingToday.mp4" length="1113" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/radio.html</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 26 Oct 2021 00:01:00 -0400</pubDate>
             <itunes:duration>18:33</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>This is a film out of the Academic Film Archive of North America.  In this film we take a 1940s era look at radio broadcasting. 
@@ -2155,7 +2173,7 @@ Complete show post at https://coyote.works/2021/radio.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/AtomicRulersOfTheWorld/AtomicRulersOfTheWorld_512kb.mp4" length="4456" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/start.html</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 25 Oct 2021 00:01:00 -0400</pubDate>
             <itunes:duration>1:14:16</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>This is another film from the Starman quartet.  There were some deep, deep issues playing out in these monochrome sci-fi/fantasy films coming out of Japan. 
@@ -2173,7 +2191,7 @@ Complete show post at https://coyote.works/2021/start.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/BBS.The.Documentary/BBS.The.Documentary.ep8_512kb.mp4" length="1247" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/BBS-8.html</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 24 Oct 2021 00:01:08 -0400</pubDate>
             <itunes:duration>20:47</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
@@ -2191,7 +2209,7 @@ Complete show post at https://coyote.works/2021/BBS-8.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/BBS.The.Documentary/BBS.The.Documentary.ep7_512kb.mp4" length="1296" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/BBS-7.html</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 24 Oct 2021 00:01:07 -0400</pubDate>
             <itunes:duration>21:36</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
@@ -2209,7 +2227,7 @@ Complete show post at https://coyote.works/2021/BBS-7.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/BBS.The.Documentary/BBS.The.Documentary.ep6_512kb.mp4" length="2308" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/BBS-6.html</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 24 Oct 2021 00:01:06 -0400</pubDate>
             <itunes:duration>38:28</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
@@ -2227,7 +2245,7 @@ Complete show post at https://coyote.works/2021/BBS-6.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/BBS.The.Documentary/BBS.The.Documentary.ep5_512kb.mp4" length="2565" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/BBS-5.html</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 24 Oct 2021 00:01:05 -0400</pubDate>
             <itunes:duration>42:45</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
@@ -2245,7 +2263,7 @@ Complete show post at https://coyote.works/2021/BBS-5.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/BBS.The.Documentary/BBS.The.Documentary.ep4_512kb.mp4" length="2640" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/BBS-4.html</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 24 Oct 2021 00:01:04 -0400</pubDate>
             <itunes:duration>44:00</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
@@ -2263,7 +2281,7 @@ Complete show post at https://coyote.works/2021/BBS-4.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/BBS.The.Documentary/BBS.The.Documentary.ep3_512kb.mp4" length="2815" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/BBS-3.html</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 24 Oct 2021 00:01:03 -0400</pubDate>
             <itunes:duration>46:55</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
@@ -2281,7 +2299,7 @@ Complete show post at https://coyote.works/2021/BBS-3.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/BBS.The.Documentary/BBS.The.Documentary.ep2_512kb.mp4" length="2688" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/BBS-2.html</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 24 Oct 2021 00:01:02 -0400</pubDate>
             <itunes:duration>44:48</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
@@ -2299,7 +2317,7 @@ Complete show post at https://coyote.works/2021/BBS-2.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/BBS.The.Documentary/BBS.The.Documentary.ep1_512kb.mp4" length="2360" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/BBS-1.html</guid>
-            <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 24 Oct 2021 00:01:01 -0400</pubDate>
             <itunes:duration>39:20</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
             <description>Produced by Jason Scott, this presents history of computer culture 
@@ -2317,7 +2335,7 @@ Complete show post at https://coyote.works/2021/BBS-1.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/teenagers_from_outerspace/Teenagers_from_Outer_Space_512kb.mp4" length="4528" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/new-post.html</guid>
-            <pubDate>Sat, 23 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sat, 23 Oct 2021 23:09:00 -0400</pubDate>
             <itunes:duration>1:25:28</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Classic Madness 
@@ -2335,7 +2353,7 @@ Complete show post at https://coyote.works/2021/new-post.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/PropagandaTechniques/PropagandaTechniques.m4v" length="591" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/PropagandaTechniques.html</guid>
-            <pubDate>Fri, 22 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 22 Oct 2021 00:07:00 -0400</pubDate>
             <itunes:duration>9:51</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Coronet Films...Counter-Propaganda... 
@@ -2353,30 +2371,12 @@ Complete show post at https://coyote.works/2021/PropagandaTechniques.html</descr
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Communis1952/Communis1952.mp4" length="640" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/A.html</guid>
-            <pubDate>Thu, 21 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 21 Oct 2021 15:07:00 -0400</pubDate>
             <itunes:duration>10:40</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Coronet Films looks at Marxist-Leninist Communism 
 
 Complete show post at https://coyote.works/2021/A.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Yongary</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Yongary</itunes:subtitle>
-            <itunes:summary>A Korean monster movie.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/Yongary-MonsterFromTheDeep/Yongara_512kb.mp4" length="4659" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2021/Yongary.html</guid>
-            <pubDate>Wed, 20 Oct 2021 00:00:00 -0400</pubDate>
-            <itunes:duration>1:17:39</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>A Korean monster movie. 
-
-Complete show post at https://coyote.works/2021/Yongary.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -2389,12 +2389,30 @@ Complete show post at https://coyote.works/2021/Yongary.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Exercise1949/Exercise1949.mp4" length="590" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/B.html</guid>
-            <pubDate>Wed, 20 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 20 Oct 2021 13:06:00 -0400</pubDate>
             <itunes:duration>9:50</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Another installment from our friends at Coronet Films.  This short dates to 1949. 
 
 Complete show post at https://coyote.works/2021/B.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Yongary</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Yongary</itunes:subtitle>
+            <itunes:summary>A Korean monster movie.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/Yongary-MonsterFromTheDeep/Yongara_512kb.mp4" length="4659" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/Yongary.html</guid>
+            <pubDate>Wed, 20 Oct 2021 00:25:00 -0400</pubDate>
+            <itunes:duration>1:17:39</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A Korean monster movie. 
+
+Complete show post at https://coyote.works/2021/Yongary.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -2407,7 +2425,7 @@ Complete show post at https://coyote.works/2021/B.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/ThePhantomCreeps/ThePhantomCreeps_512kb.mp4" length="4700" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/PhantomCreeps.html</guid>
-            <pubDate>Tue, 19 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 19 Oct 2021 00:01:10 -0400</pubDate>
             <itunes:duration>1:18:20</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>An unriffed Bella Lugosi film. 
@@ -2425,7 +2443,7 @@ Complete show post at https://coyote.works/2021/PhantomCreeps.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/EvilBrainFromOuterSpace/EvilBrainFromOuterSpace_512kb.mp4" length="4689" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/EvilBrain.html</guid>
-            <pubDate>Tue, 19 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 19 Oct 2021 00:01:10 -0400</pubDate>
             <itunes:duration>1:18:09</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>From the Star Man quartet of films 
@@ -2443,7 +2461,7 @@ Complete show post at https://coyote.works/2021/EvilBrain.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/puerto-rico-acolony-the-american-way/PuertoRico_AColonyTheAmericanWay.mp4" length="1681" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/PR.html</guid>
-            <pubDate>Mon, 18 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 18 Oct 2021 00:22:00 -0400</pubDate>
             <itunes:duration>27:41</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A travelogue about Puerto Rico. 
@@ -2461,7 +2479,7 @@ Complete show post at https://coyote.works/2021/PR.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/BigBuckBunny_310/big_buck_bunny_640.mp4" length="596" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/BigBuckBunny.html</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 12 Oct 2021 19:13:00 -0400</pubDate>
             <itunes:duration>9:56</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A cartoon made as a technical demonstration of an open source software project. 
@@ -2479,48 +2497,12 @@ Complete show post at https://coyote.works/2021/BigBuckBunny.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Werewolf_In_A_Girls_Dormitory/Werewolf_In_A_Girls_Dormitory_512kb.mp4" length="4989" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Werewolf.html</guid>
-            <pubDate>Mon, 11 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 11 Oct 2021 23:26:00 -0400</pubDate>
             <itunes:duration>1:23:09</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A B-grade monster movie in monochrome.  This is unriffed.  For a riffed version you should check out RiffTrax. 
 
 Complete show post at https://coyote.works/2021/Werewolf.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Connecting To BBS&apos;s In 2017 With The WiFi232 Modem</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Connecting To BBS&apos;s In 2017 With The WiFi232 Modem</itunes:subtitle>
-            <itunes:summary>Venturing back into the past through alternative technology arrangements.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/2017-06-02-connecting-to-bbss-in-2017-with-the-wi-fi-232-modem/2017-06-02%20-%20Connecting%20to%20BBS%27s%20in%202017%20with%20the%20WiFi232%20Modem.mp4" length="652" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2021/bbs.html</guid>
-            <pubDate>Sun, 10 Oct 2021 00:00:00 -0400</pubDate>
-            <itunes:duration>10:52</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>Venturing back into the past through alternative technology arrangements. 
-
-Complete show post at https://coyote.works/2021/bbs.html</description>
-            <itunes:keywords>Internet Archive</itunes:keywords>
-            <itunes:block>yes</itunes:block>
-		</item>
-
-        <item>
-            <title>McCulloch v. Maryland</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: McCulloch v. Maryland</itunes:subtitle>
-            <itunes:summary>The Judicial Conference of the United States reenacts proceedings around this seminal case over state&apos;s rights.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/gov.ntis.AV010227VM00/AV010227VM00_512kb.mp4" length="2128" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2021/McCulloch.html</guid>
-            <pubDate>Sun, 10 Oct 2021 00:00:00 -0400</pubDate>
-            <itunes:duration>35:28</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>The Judicial Conference of the United States reenacts proceedings around this seminal case over state&apos;s rights. 
-
-Complete show post at https://coyote.works/2021/McCulloch.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
@@ -2533,7 +2515,7 @@ Complete show post at https://coyote.works/2021/McCulloch.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/gov.ntis.AV010230VM00/ava010230VM00_512kb.mp4" length="2135" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Gibbons.html</guid>
-            <pubDate>Sun, 10 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 10 Oct 2021 23:35:00 -0400</pubDate>
             <itunes:duration>35:35</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>The Judicial Conference of the United States reenacts proceedings around this seminal case over commerce regulation. 
@@ -2551,13 +2533,67 @@ Complete show post at https://coyote.works/2021/Gibbons.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/gov.ntis.AV010227VM00/AV010227VM00_512kb.mp4" length="4396" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Burr.html</guid>
-            <pubDate>Sun, 10 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 10 Oct 2021 23:33:32 -0400</pubDate>
             <itunes:duration>1:13:16</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>The Judicial Conference of the United States reenacts proceedings around this seminal case over treason. 
 
 Complete show post at https://coyote.works/2021/Burr.html</description>
             <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>McCulloch v. Maryland</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: McCulloch v. Maryland</itunes:subtitle>
+            <itunes:summary>The Judicial Conference of the United States reenacts proceedings around this seminal case over state&apos;s rights.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/gov.ntis.AV010227VM00/AV010227VM00_512kb.mp4" length="2128" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/McCulloch.html</guid>
+            <pubDate>Sun, 10 Oct 2021 23:30:00 -0400</pubDate>
+            <itunes:duration>35:28</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>The Judicial Conference of the United States reenacts proceedings around this seminal case over state&apos;s rights. 
+
+Complete show post at https://coyote.works/2021/McCulloch.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>no</itunes:block>
+		</item>
+
+        <item>
+            <title>Connecting To BBS&apos;s In 2017 With The WiFi232 Modem</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Connecting To BBS&apos;s In 2017 With The WiFi232 Modem</itunes:subtitle>
+            <itunes:summary>Venturing back into the past through alternative technology arrangements.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/2017-06-02-connecting-to-bbss-in-2017-with-the-wi-fi-232-modem/2017-06-02%20-%20Connecting%20to%20BBS%27s%20in%202017%20with%20the%20WiFi232%20Modem.mp4" length="652" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/bbs.html</guid>
+            <pubDate>Sun, 10 Oct 2021 00:07:00 -0400</pubDate>
+            <itunes:duration>10:52</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>Venturing back into the past through alternative technology arrangements. 
+
+Complete show post at https://coyote.works/2021/bbs.html</description>
+            <itunes:keywords>Internet Archive</itunes:keywords>
+            <itunes:block>yes</itunes:block>
+		</item>
+
+        <item>
+            <title>Dora&apos;s Dunking Donuts</title>
+            <itunes:author>Erie Looking Productions</itunes:author>
+            <itunes:subtitle>ELP Television: Dora&apos;s Dunking Donuts</itunes:subtitle>
+            <itunes:summary>A Shirley Temple comedy short.</itunes:summary>
+            <itunes:image href="https://coyote.works/images/itunes.png" />
+            <enclosure url="https://archive.org/download/DorasDunkinDonuts/AVI_ST_Doras_Dunkin_Donuts.mp4" length="1182" type="video/mp4"/>
+            <guid isPermaLink="true">https://coyote.works/2021/Donuts.html</guid>
+            <pubDate>Sat, 09 Oct 2021 20:47:00 -0400</pubDate>
+            <itunes:duration>19:42</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <description>A Shirley Temple comedy short. 
+
+Complete show post at https://coyote.works/2021/Donuts.html</description>
+            <itunes:keywords>silly films, Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
 
@@ -2576,24 +2612,6 @@ Complete show post at https://coyote.works/2021/Burr.html</description>
 
 Complete show post at https://coyote.works/2021/Attack-From-Space.html</description>
             <itunes:keywords>Science Fiction, public domain, silly films, Internet Archive</itunes:keywords>
-            <itunes:block>no</itunes:block>
-		</item>
-
-        <item>
-            <title>Dora&apos;s Dunking Donuts</title>
-            <itunes:author>Erie Looking Productions</itunes:author>
-            <itunes:subtitle>ELP Television: Dora&apos;s Dunking Donuts</itunes:subtitle>
-            <itunes:summary>A Shirley Temple comedy short.</itunes:summary>
-            <itunes:image href="https://coyote.works/images/itunes.png" />
-            <enclosure url="https://archive.org/download/DorasDunkinDonuts/AVI_ST_Doras_Dunkin_Donuts.mp4" length="1182" type="video/mp4"/>
-            <guid isPermaLink="true">https://coyote.works/2021/Donuts.html</guid>
-            <pubDate>Sat, 09 Oct 2021 00:00:00 -0400</pubDate>
-            <itunes:duration>19:42</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <description>A Shirley Temple comedy short. 
-
-Complete show post at https://coyote.works/2021/Donuts.html</description>
-            <itunes:keywords>silly films, Internet Archive</itunes:keywords>
             <itunes:block>no</itunes:block>
 		</item>
 
@@ -2623,7 +2641,7 @@ Complete show post at https://coyote.works/2021/Beach-Girls.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/0992_Bottle_and_the_Throttle_The_E00776_01_50_27_08/0992_Bottle_and_the_Throttle_The_E00776_01_50_27_08.m4v" length="609" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Sid.html</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 07 Oct 2021 00:59:00 -0400</pubDate>
             <itunes:duration>10:09</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Sid Davis...made interesting stuff... 
@@ -2641,7 +2659,7 @@ Complete show post at https://coyote.works/2021/Sid.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/GettingR1951/GettingR1951_512kb.mp4" length="626" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Coronet.html</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Thu, 07 Oct 2021 00:54:00 -0400</pubDate>
             <itunes:duration>10:26</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Coronet Films: How did this happen? 
@@ -2659,7 +2677,7 @@ Complete show post at https://coyote.works/2021/Coronet.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/WarningFromSpaceImproved1/Warning%20from%20Space%20Improved_1.mp4" length="5272" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Warning-Space.html</guid>
-            <pubDate>Wed, 06 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 06 Oct 2021 12:34:00 -0400</pubDate>
             <itunes:duration>1:27:52</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A rogue planet menaces Earth and only scientists in Japan can save us all... 
@@ -2677,7 +2695,7 @@ Complete show post at https://coyote.works/2021/Warning-Space.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Cosmos_War_of_the_Planets/Cosmos_War_of_the_Planets.mp4" length="5343" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Cosmos-War.html</guid>
-            <pubDate>Tue, 05 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 05 Oct 2021 23:45:00 -0400</pubDate>
             <itunes:duration>1:29:03</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>A Spaghetti Space Opera.  If you try to play a drinking game with this you will need a liver transplant on standby... 
@@ -2695,7 +2713,7 @@ Complete show post at https://coyote.works/2021/Cosmos-War.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/gov.ntis.AVA02153VNB1/AVA02153VNB1_512kb.mp4" length="2011" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Marbury.html</guid>
-            <pubDate>Mon, 04 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 04 Oct 2021 00:14:00 -0400</pubDate>
             <itunes:duration>33:31</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>The Judicial Conference of the United States reenacts proceedings around this seminal case. 
@@ -2713,7 +2731,7 @@ Complete show post at https://coyote.works/2021/Marbury.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/CrashoftheMoons/CrashoftheMoons_512kb.mp4" length="4321" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/RockyJones.html</guid>
-            <pubDate>Sun, 03 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sun, 03 Oct 2021 00:01:00 -0400</pubDate>
             <itunes:duration>1:12:01</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Switching gears with this pick, we wind up turning to Rocky Jones.  This is a glimpse at a future that never was.  The concept of a Secretary of Space is kinda nice and perhaps we may end up adopting that some day in our own timeline.  This is a 1950s retro romp through the galaxy so prepare for blast off! 
@@ -2731,7 +2749,7 @@ Complete show post at https://coyote.works/2021/RockyJones.html</description>
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/Killers_from_Space_1954/Killers_from_Space_1954.mp4" length="4422" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/KillersFromSpace.html</guid>
-            <pubDate>Sat, 02 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Sat, 02 Oct 2021 00:35:00 -0400</pubDate>
             <itunes:duration>1:13:42</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
             <description>Peter Graves and Coleman Francis?  This film approaches critical mass for craziness... 
@@ -2749,7 +2767,7 @@ Complete show post at https://coyote.works/2021/KillersFromSpace.html</descripti
             <itunes:image href="https://coyote.works/images/itunes.png" />
             <enclosure url="https://archive.org/download/manos_the_hands_of_fate/Manos-The.Hands.of.Fate.mp4" length="4120" type="video/mp4"/>
             <guid isPermaLink="true">https://coyote.works/2021/Manos.html</guid>
-            <pubDate>Fri, 01 Oct 2021 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 01 Oct 2021 00:20:00 -0400</pubDate>
             <itunes:duration>1:08:40</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
             <description>Yes, we have to visit Manos. 

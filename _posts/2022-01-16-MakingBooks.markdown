@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making Books"
-date: 2022-01-16 0001 -0500
+date: 2022-01-16 00:01:02 -0500
 file: https://archive.org/download/MakingBo1947/MakingBo1947_edit.mp4
 summary: "The life-cycle of making a book."
 description: "The life-cycle of making a book."

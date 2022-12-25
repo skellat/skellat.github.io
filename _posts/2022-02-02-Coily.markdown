@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Case of Spring Fever"
-date: 2022-02-02 0001 -0500
+date: 2022-02-02 00:01:00 -0500
 file: https://archive.org/download/CaseofSp1940/CaseofSp1940_edit.mp4
 summary: "An evil old-timey demon torments a man"
 description: "An evil old-timey demon torments a man"

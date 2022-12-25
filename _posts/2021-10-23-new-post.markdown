@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teenagers From Outer Space"
-date: 2021-10-23 2309 -0400
+date: 2021-10-23 23:09:00 -0400
 file: https://archive.org/download/teenagers_from_outerspace/Teenagers_from_Outer_Space_512kb.mp4
 summary: "Classic Madness"
 description: "Classic Madness"

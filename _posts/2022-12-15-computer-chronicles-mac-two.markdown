@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PowerPC and PowerMac"
-date: 2022-12-15 0058 -0500
+date: 2022-12-15 00:58:00 -0500
 file: https://archive.org/download/PowerPC10.1/PowerPC10.1_512kb.mp4
 summary: "A look in 1994 at the launch of the PowerPC architecture."
 description: "A look in 1994 at the launch of the PowerPC architecture."

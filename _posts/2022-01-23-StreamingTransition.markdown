@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Owning to Streaming: The Transition to Digital Media in Education"
-date: 2022-01-23 2252 -0500
+date: 2022-01-23 22:52:00 -0500
 file: https://archive.org/download/from-owning-to-streaming/From%20Owning%20to%20Streaming.mp4
 summary: "A discussion of media resources in education."
 description: "A discussion of media resources in education"

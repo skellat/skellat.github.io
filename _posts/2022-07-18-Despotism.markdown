@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Despotism"
-date: 2022-07-18 0023 -0400
+date: 2022-07-18 00:23:00 -0400
 file: https://archive.org/download/Despotis1946/Despotis1946.mp4
 summary: "In this short from right after World War II we learn about despotism."
 description: "In this short from right after World War II we learn about despotism."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Make Mine Freedom"
-date: 2021-11-19 0027 -0500
+date: 2021-11-19 00:27:00 -0500
 file: https://archive.org/download/MakeMine1948/MakeMine1948_edit.mp4
 summary: "A piece of anti-communist propaganda produced by what was then Harding College in Arkansas.  Today it is known as Harding University.  The main campus is still in Searcy, Arkansas."
 description: "A piece of anti-communist propaganda produced by what was then Harding College in Arkansas.  Today it is known as Harding University.  The main campus is still in Searcy, Arkansas."

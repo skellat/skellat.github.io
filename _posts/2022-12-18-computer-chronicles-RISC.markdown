@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: RISC"
-date: 2022-12-18 2118 -0500
+date: 2022-12-18 21:18:00 -0500
 file: https://archive.org/download/RISC1986/RISC1986_512kb.mp4
 summary: "A 1986 look at the RISC architecture"
 description: "A 1986 look at the RISC architecture"

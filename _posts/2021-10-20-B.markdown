@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exercise and Health"
-date: 2021-10-20 1306 -0400
+date: 2021-10-20 13:06:00 -0400
 file: https://archive.org/download/Exercise1949/Exercise1949.mp4
 summary: "Another installment from our friends at Coronet Films.  This short dates to 1949."
 description: "Another installment from our friends at Coronet Films.  This short dates to 1949."

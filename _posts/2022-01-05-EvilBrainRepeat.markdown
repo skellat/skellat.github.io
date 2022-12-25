@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "REPEAT: Evil Brain From Outer Space"
-date: 2022-01-05 0029 -0500
+date: 2022-01-05 00:29:00 -0500
 file: https://archive.org/download/EvilBrainFromOuterSpace/EvilBrainFromOuterSpace_512kb.mp4
 summary: "From the Star Man quartet of films"
 description: "From the Star Man quartet of films"

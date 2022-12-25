@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shake Hands With Danger"
-date: 2021-11-04 0001 -0400
+date: 2021-11-04 00:01:00 -0400
 file: https://archive.org/download/ShakeHan1970/ShakeHan1970_edit.mp4
 summary:  "Marked EXPLICIT due to simulated construction site and workplace accidents and simulated gore.  This is a 1970s training film produced for Caterpillar Tractor Company with quite the guitar track showing what not to do on a job site."
 description: "Marked EXPLICIT due to simulated construction site and workplace accidents and simulated gore.  This is a 1970s training film produced for Caterpillar Tractor Company with quite the guitar track showing what not to do on a job site."

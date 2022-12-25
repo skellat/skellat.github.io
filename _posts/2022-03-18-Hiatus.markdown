@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Service Suspension"
-date: 2022-03-18 1515 -0400
+date: 2022-03-18 15:15:15 -0400
 file: https://archive.org/download/elptvsuspensionmessage/MOV_1022.MP4
 summary: "Due to the burdens of attempting to both mitigate the fallout of cyber operations from the Russia-Ukraine conflict as well as continue with updates to this service, we have chosen to suspend this service so that we can continue with handling security matters.  Too many strange things have been happening online and we need to continue our efforts in hardening systems.  The expected restoration of this service is post-conflict, we hope."
 description: "Due to the burdens of attempting to both mitigate the fallout of cyber operations from the Russia-Ukraine conflict as well as continue with updates to this service, we have chosen to suspend this service so that we can continue with handling security matters.  Too many strange things have been happening online and we need to continue our efforts in hardening systems.  The expected restoration of this service is post-conflict, we hope."

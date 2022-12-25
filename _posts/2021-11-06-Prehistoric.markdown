@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Voyage To The Planet Of Prehistoric Women"
-date: 2021-11-6 2327 -0400
+date: 2021-11-6 23:27:00 -0400
 file: https://archive.org/download/VoyageToThePlanetOfPrehistoricWomen_20130813/Voyage%20to%20the%20Planet%20of%20Prehistoric%20Women.mp4
 summary: "A reworking of the Soviet film Planeta Bur."
 description: "A reworking of the Soviet film Planeta Bur."

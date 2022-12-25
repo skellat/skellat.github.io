@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Low Cost LANs"
-date: 2022-12-23 1213 -0500
+date: 2022-12-23 12:13:00 -0500
 file: https://archive.org/download/CC713_lans/CC713_lans_512kb.mp4
 summary: "A look at the LAN software of 1989."
 description: "A look at the LAN software of 1989."

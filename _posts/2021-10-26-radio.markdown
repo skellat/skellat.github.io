@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Radio Broadcasting Today"
-date: 2021-10-26 0001 -0400
+date: 2021-10-26 00:01:00 -0400
 file: https://archive.org/download/RadioBroadcastingToday/RadioBroadcastingToday.mp4
 summary: "This is a film out of the Academic Film Archive of North America.  In this film we take a 1940s era look at radio broadcasting."
 description: "This is a film out of the Academic Film Archive of North America.  In this film we take a 1940s era look at radio broadcasting."

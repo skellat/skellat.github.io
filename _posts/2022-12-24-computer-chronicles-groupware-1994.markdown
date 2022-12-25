@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Groupware 1994"
-date: 2022-12-24 1020 -0500
+date: 2022-12-24 10:20:00 -0500
 file: https://archive.org/download/1125/1125_512kb.mp4
 summary: "A look at groupware in 1994."
 description: "A look at groupware in 1994."

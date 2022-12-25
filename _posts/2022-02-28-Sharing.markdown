@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's Share With Others"
-date: 2022-02-28 1913 -0500
+date: 2022-02-28 19:13:00 -0500
 file: https://archive.org/download/LetsShar1950/LetsShar1950.mp4
 summary: "A kid-centered pitch for fair play and thoughtfulness."
 description: "A kid-centered pitch for fair play and thoughtfulness."

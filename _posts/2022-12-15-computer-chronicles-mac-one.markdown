@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Macintosh Computer  "
-date: 2022-12-15 0056 -0500
+date: 2022-12-15 00:56:00 -0500
 file: https://archive.org/download/TheMacin1985/TheMacin1985_512kb.mp4
 summary: "An in-depth look at the early Apple Macintosh computer, available software and hardware add-ons. Originally broadcast in 1985."
 description: "An in-depth look at the early Apple Macintosh computer, available software and hardware add-ons. Originally broadcast in 1985."

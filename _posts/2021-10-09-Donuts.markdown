@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dora's Dunking Donuts"
-date: 2021-10-09 2047 -0400
+date: 2021-10-09 20:47:00 -0400
 file: https://archive.org/download/DorasDunkinDonuts/AVI_ST_Doras_Dunkin_Donuts.mp4
 summary: "A Shirley Temple comedy short."
 description: "A Shirley Temple comedy short."

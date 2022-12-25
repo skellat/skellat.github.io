@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trail of the Rocket"
-date: 2022-02-08 0001 -0500
+date: 2022-02-08 00:01:10 -0500
 file: https://archive.org/download/0406_Trail_of_the_Rocket_00_09_29_00/0406_Trail_of_the_Rocket_00_09_29_00.m4v
 summary: "General Motors made a short film to promote a car engine.  What could go wrong?"
 description: "General Motors made a short film to promote a car engine.  What could go wrong?"

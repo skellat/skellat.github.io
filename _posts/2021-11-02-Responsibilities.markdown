@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Responsibilities of American Citizenship"
-date: 2021-11-02 0005 -0400
+date: 2021-11-02 00:05:00 -0400
 file: https://archive.org/download/Responsi1955/Responsi1955_edit.mp4
 summary: "We sample Cold War propaganda."
 description: "We sample Cold War propaganda."

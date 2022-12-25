@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "REPEAT: Nancy Drew...Reporter"
-date: 2022-01-03 1332 -0500
+date: 2022-01-03 13:32:00 -0500
 file: https://archive.org/download/NancyDrewReporter/Nancy_Drew_Reporter.mp4
 summary: "REPEAT... A 1930s era film featuring Bonita Granville as Nancy Drew.  No, it is nothing like what is seen on the CW today.  Please bear in mind that it is also very much a product of the time when it was produced and may seem quite offensive at points today."
 description: "REPEAT... A 1930s era film featuring Bonita Granville as Nancy Drew.  No, it is nothing like what is seen on the CW today.  Please bear in mind that it is also very much a product of the time when it was produced and may seem quite offensive at points today."

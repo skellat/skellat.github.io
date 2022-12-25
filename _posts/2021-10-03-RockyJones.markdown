@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rocky Jones, Space Ranger -- Crash of the Moons"
-date: 2021-10-03 0001 -0400
+date: 2021-10-03 00:01:00 -0400
 file: https://archive.org/download/CrashoftheMoons/CrashoftheMoons_512kb.mp4
 summary: "Switching gears with this pick, we wind up turning to Rocky Jones.  This is a glimpse at a future that never was.  The concept of a Secretary of Space is kinda nice and perhaps we may end up adopting that some day in our own timeline.  This is a 1950s retro romp through the galaxy so prepare for blast off!"
 description: "Switching gears with this pick, we wind up turning to Rocky Jones.  This is a glimpse at a future that never was.  The concept of a Secretary of Space is kinda nice and perhaps we may end up adopting that some day in our own timeline.  This is a 1950s retro romp through the galaxy so prepare for blast off!"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Invaders From Space"
-date: 2022-01-05 0018 -0500
+date: 2022-01-05 00:18:00 -0500
 file: https://archive.org/download/InvadersFromSpace1965/InvadersFromSpace.mp4
 summary: "This is the final film of the Star Man quartet."
 description: "This is the final film of the Star Man quartet."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Creative Writing Software"
-date: 2022-12-24 1017 -0500
+date: 2022-12-24 10:17:00 -0500
 file: https://archive.org/download/episode_1046/episode_1046_512kb.mp4
 summary: "A 1993 review of software for writers."
 description: "A 1993 review of software for writers."

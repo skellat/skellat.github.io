@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Warning From Space"
-date: 2021-10-06 1234 -0400
+date: 2021-10-06 12:34:00 -0400
 file: https://archive.org/download/WarningFromSpaceImproved1/Warning%20from%20Space%20Improved_1.mp4
 summary: "A rogue planet menaces Earth and only scientists in Japan can save us all..."
 description: "A rogue planet menaces Earth and only scientists in Japan can save us all..."

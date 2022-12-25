@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Computers and the Pentagon 2"
-date: 2022-12-21 1504 -0500
+date: 2022-12-21 15:04:02 -0500
 file: https://archive.org/download/pentagon2/pentagon2_512kb.mp4
 summary: "Originally aired in 1986, a look at how the military uses computers"
 description: "Originally aired in 1986, a look at how the military uses computers"

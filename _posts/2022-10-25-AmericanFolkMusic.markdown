@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Discovering American Folk Music"
-date: 2022-10-25 0043 -0400
+date: 2022-10-25 00:43:00 -0400
 file: https://archive.org/download/DiscoveringAmericanFolkMusic1982/DiscoveringAmericanFolkMusic1982.m4v
 summary: "An academic film about folk music"
 description: An academic film about folk music

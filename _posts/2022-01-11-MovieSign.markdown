@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is Money?"
-date: 2022-01-11 0001 -0500
+date: 2022-01-11 00:01:00 -0500
 file: https://archive.org/download/WhatIsMo1947/WhatIsMo1947_edit.mp4
 summary: "Well before the age of cryptocurrency we have this short educational film talking about what money happens to be..."
 description: "Well before the age of cryptocurrency we have this short educational film talking about what money happens to be..."

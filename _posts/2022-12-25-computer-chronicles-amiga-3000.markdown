@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Amiga 3000"
-date: 2022-12-25 0005 -0500
+date: 2022-12-25 00:05:00 -0500
 file: https://archive.org/download/amiga3000/amiga3000_512kb.mp4
 summary: "A look in 1988 at the Amiga 3000 and its multimedia applications."
 description: "A look in 1988 at the Amiga 3000 and its multimedia applications." 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "REPEAT: Attack From Space"
-date: 2022-01-05 0031 -0500
+date: 2022-01-05 00:31:00 -0500
 file: https://archive.org/download/Attack_From_Space/Attack_From_Space_512kb.mp4
 summary: "Science Fiction from Japan!  Walter Manley Enterprises!  The best that can be said is that this has been riffed by RiffTrax.  This is the unriffed version courtesy the Internet Archive."
 description: "Science Fiction from Japan!  Walter Manley Enterprises!  The best that can be said is that this has been riffed by RiffTrax.  This is the unriffed version courtesy the Internet Archive."

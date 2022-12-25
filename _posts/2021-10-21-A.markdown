@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coronet Films: Communism"
-date: 2021-10-21 1507 -0400
+date: 2021-10-21 15:07:00 -0400
 file: https://archive.org/download/Communis1952/Communis1952.mp4
 summary: "Coronet Films looks at Marxist-Leninist Communism"
 description: "Coronet Films looks at Marxist-Leninist Communism"

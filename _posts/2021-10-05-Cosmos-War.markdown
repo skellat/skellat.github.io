@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cosmos: War of the Planets"
-date: 2021-10-05 2345 -0400
+date: 2021-10-05 23:45:00 -0400
 file: https://archive.org/download/Cosmos_War_of_the_Planets/Cosmos_War_of_the_Planets.mp4
 summary: "A Spaghetti Space Opera.  If you try to play a drinking game with this you will need a liver transplant on standby..."
 description: "A Spaghetti Space Opera.  If you try to play a drinking game with this you will need a liver transplant on standby..."

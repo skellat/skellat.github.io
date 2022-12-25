@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Santa Claus (Silent Movie From 1925)"
-date: 2021-12-07 0006 -0500
+date: 2021-12-07 00:06:00 -0500
 file: https://archive.org/download/silent-santa-claus/Santa%20Claus.mp4
 summary: "A monochromatic silent film from 1925 that proudly proclaims that it was filmed in Alaska.  What could possibly go wrong?"
 description: "A monochromatic silent film from 1925 that proudly proclaims that it was filmed in Alaska.  What could possibly go wrong?"

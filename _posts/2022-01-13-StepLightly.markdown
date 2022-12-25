@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Step Lightly"
-date: 2022-01-13 0002 -0500
+date: 2022-01-13 00:02:00 -0500
 file: https://archive.org/download/StepLightly/StepLightly.m4v
 summary: "A public health film about being seen."
 description: "A public health film about being seen."

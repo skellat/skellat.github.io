@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blasting Cap: Danger"
-date: 2022-01-19 0001 -0500
+date: 2022-01-19 00:01:02 -0500
 file: https://archive.org/download/0412_Blasting_Cap_Danger_12_37_48_00/0412_Blasting_Cap_Danger_12_37_48_00.m4v
 summary: "An unriffed look at this educational short."
 description: "An unriffed look at this educational short."

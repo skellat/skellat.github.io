@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Propaganda Techniques"
-date: 2021-10-22 0007 -0400
+date: 2021-10-22 00:07:00 -0400
 file: https://archive.org/download/PropagandaTechniques/PropagandaTechniques.m4v
 summary: "Coronet Films...Counter-Propaganda..."
 description: "Coronet Films...Counter-Propaganda..."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Computers & The Media"
-date: 2022-12-23 1225 -0500
+date: 2022-12-23 12:25:00 -0500
 file: https://archive.org/download/Programm99/Programm99_512kb.mp4
 summary: "A look at the use of computers in the media sector from the simpler times of 1985."
 description: "A look at the use of computers in the media sector from the simpler times of 1985."

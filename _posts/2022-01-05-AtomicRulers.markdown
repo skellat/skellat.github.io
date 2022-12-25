@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Atomic Rulers of the World"
-date: 2022-01-05 0018 -0500
+date: 2022-01-05 00:18:00 -0500
 file: https://archive.org/download/AtomicRulersOfTheWorld/AtomicRulersOfTheWorld.mp4
 summary: "This is another film of the Star Man quartet."
 description: "This is another film of the Star Man quartet."

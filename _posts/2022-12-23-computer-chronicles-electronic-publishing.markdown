@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Electronic Publishing"
-date: 2022-12-23 1230 -0500
+date: 2022-12-23 12:30:00 -0500
 file: https://archive.org/download/Electron/Electron_512kb.mp4
 summary: "History went in a different direction than many expected with electronic publishing.  In this instance we look back at what was then the state of the art in 1993.  Expectations were different then."
 description: "History went in a different direction than many expected with electronic publishing.  In this instance we look back at what was then the state of the art in 1993.  Expectations were different then."

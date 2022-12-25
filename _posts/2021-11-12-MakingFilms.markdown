@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making Films That Teach"
-date: 2021-11-12 0001 -0500
+date: 2021-11-12 00:01:00 -0500
 file: https://archive.org/download/MakingFi1954/MakingFi1954.mp4
 summary: "An educational film about making educational films.  In an age where everybody can post video online there is a need for good instructional video content."
 description: "An educational film about making educational films.  In an age where everybody can post video online there is a need for good instructional video content."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Evil Brain From Outer Space"
-date: 2021-10-19 0001 -0400
+date: 2021-10-19 00:01:10 -0400
 file: https://archive.org/download/EvilBrainFromOuterSpace/EvilBrainFromOuterSpace_512kb.mp4
 summary: "From the Star Man quartet of films"
 description: "From the Star Man quartet of films"

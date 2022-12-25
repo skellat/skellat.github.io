@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Banks and Credit"
-date: 2022-01-10 0001 -0500
+date: 2022-01-10 00:01:00 -0500
 file: https://archive.org/download/0537_Banks_and_Credit_19_41_46_04/0537_Banks_and_Credit_19_41_46_04.m4v
 summary: "A late 1940s at banks and credit.  The concept of Too Big To Fail most definitely did not exist then."
 description: "A late 1940s at banks and credit.  The concept of Too Big To Fail most definitely did not exist then."

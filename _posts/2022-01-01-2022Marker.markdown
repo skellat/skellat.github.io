@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting 2022"
-date: 2022-01-01 1150 -0500
+date: 2022-01-01 11:50:00 -0500
 file: https://archive.org/download/ELPTV2022ChannelMarker/2021-12-31_21-03-05.mp4
 summary: "Recorded in an undisclosed location, Mike Kellat of the production staff at Erie Looking Productions introduces the ELP TV video podcast channel to the world."
 description: "Recorded in an undisclosed location, Mike Kellat of the production staff at Erie Looking Productions introduces the ELP TV video podcast channel to the world."

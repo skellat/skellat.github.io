@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spinning Levers"
-date: 2022-07-10 0049 -0400
+date: 2022-07-10 00:49:00 -0400
 file: https://archive.org/download/0762_Spinning_Levers_04_45_20_00/0762_Spinning_Levers_04_45_20_00_3mb.m4v
 summary: "This short film by the Jam Handy Organization released during the Great Depression provides some educational material about levers, car transmissions, and how that all works for us."
 description: "This short film by the Jam Handy Organization released during the Great Depression provides some educational material about levers, car transmissions, and how that all works for us."

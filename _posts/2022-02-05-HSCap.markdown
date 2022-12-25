@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Capitalism"
-date: 2022-02-05 0001 -0500
+date: 2022-02-05 00:01:00 -0500
 file: https://archive.org/download/Capitali1948/Capitali1948.mp4
 summary: "Adventuring bravely into the realm of economics, we take a look at how some 1940s high school students might explain capitalism."
 description: "Adventuring bravely into the realm of economics, we take a look at how some 1940s high school students might explain capitalism."

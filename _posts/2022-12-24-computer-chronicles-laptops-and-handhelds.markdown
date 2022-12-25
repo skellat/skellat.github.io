@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Laptops and Handhelds"
-date: 2022-12-24 1015 -0500
+date: 2022-12-24 10:15:00 -0500
 file: https://archive.org/download/episode_929/episode_929_512kb.mp4
 summary: "A look at the portable computing from 1991."
 description: "A look at the portable computing from 1991."

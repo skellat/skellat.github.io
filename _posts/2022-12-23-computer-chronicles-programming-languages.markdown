@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Programming Languages"
-date: 2022-12-23 1222 -0500
+date: 2022-12-23 12:00:22 -0500
 file: https://archive.org/download/Programm99/Programm99_512kb.mp4
 summary: "A look at programming languages from the simpler times of 1999."
 description: "A look at programming languages from the simpler times of 1999."

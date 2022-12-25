@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Trip To The Planets"
-date: 2022-12-04 1406 -0500
+date: 2022-12-04 14:06:00 -0500
 file: https://archive.org/download/ATripToThePlanets-SilentWithAddedSound/ATripToThePlanets-desktop_512kb.mp4
 summary: "A silent film about providing through a fictionalized lens a view of our local star system."
 description: "A silent film about providing through a fictionalized lens a view of our local star system."

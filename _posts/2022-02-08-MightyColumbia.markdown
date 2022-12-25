@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mighty Columbia River"
-date: 2022-02-08 0002 -0500
+date: 2022-02-08 00:02:00 -0500
 file: https://archive.org/download/MightyCo1947/MightyCo1947_edit.mp4
 summary: "Coronet Films...takes a look at the Columbia River in the Pacific Northwest."
 description: "Coronet Films...takes a look at the Columbia River in the Pacific Northwest."

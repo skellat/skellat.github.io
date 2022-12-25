@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'll Be Seeing You"
-date: 2021-12-20 0009 -0500
+date: 2021-12-20 00:09:00 -0500
 file: https://archive.org/download/IWillBeSeeingYou/IBSY.mp4
 summary: "A soldier suffering from combat fatigue meets a young woman on Christmas furlough from prison and their mutual loneliness blossoms into romance."
 description: "A soldier suffering from combat fatigue meets a young woman on Christmas furlough from prison and their mutual loneliness blossoms into romance."

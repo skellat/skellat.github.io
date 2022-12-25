@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Desktop Presentation Graphics - Part One"
-date: 2022-12-17 1546 -0500
+date: 2022-12-17 15:46:01 -0500
 file: https://archive.org/download/CC707_desktop_presentation_graphics_1/CC707_desktop_presentation_graphics_1.mp4
 summary: "The first part of coverage of how we got things like PowerPoint."
 description: "The first part of coverage of how we got things like PowerPoint."

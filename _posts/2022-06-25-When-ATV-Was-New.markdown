@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MacBreak 64: Apple TV"
-date: 2022-06-25 0020 -0400
+date: 2022-06-25 00:20:00 -0400
 file: https://archive.org/download/macbreak-064-450p-h264/macbreak-064-450p-h264.mp4
 summary: "A glimpse into the past from 2007 looking at what the Apple TV was like when it was new."
 description: "A glimpse into the past from 2007 looking at what the Apple TV was like when it was new."

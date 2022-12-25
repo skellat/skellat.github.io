@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suit Up: 50 Years Of Spacewalks"
-date: 2021-12-20 0025 -0500
+date: 2021-12-20 00:25:00 -0500
 file: https://archive.org/download/Suit-Up_50-Years-of-Spacewalks/EVA%2050%20Suit%20Up.mp4
 summary: "A documentary discussing a half-century of space walks."
 description: "A documentary discussing a half-century of space walks."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Killers From Space"
-date: 2021-10-02 0035 -0400
+date: 2021-10-02 00:35:00 -0400
 file: https://archive.org/download/Killers_from_Space_1954/Killers_from_Space_1954.mp4
 summary: "Peter Graves and Coleman Francis?  This film approaches critical mass for craziness..."
 description: "Peter Graves and Coleman Francis?  This film approaches critical mass for craziness..."

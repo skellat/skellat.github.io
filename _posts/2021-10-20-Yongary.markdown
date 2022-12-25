@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yongary"
-date: 2021-10-20 0025 -0400
+date: 2021-10-20 00:25:00 -0400
 file: https://archive.org/download/Yongary-MonsterFromTheDeep/Yongara_512kb.mp4
 summary: "A Korean monster movie."
 description: "A Korean monster movie."

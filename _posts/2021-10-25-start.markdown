@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Atomic Rulers of the World"
-date: 2021-10-25 0001 -0400
+date: 2021-10-25 00:01:00 -0400
 file: https://archive.org/download/AtomicRulersOfTheWorld/AtomicRulersOfTheWorld_512kb.mp4
 summary: "This is another film from the Starman quartet.  There were some deep, deep issues playing out in these monochrome sci-fi/fantasy films coming out of Japan."
 description: "This is another film from the Starman quartet.  There were some deep, deep issues playing out in these monochrome sci-fi/fantasy films coming out of Japan."

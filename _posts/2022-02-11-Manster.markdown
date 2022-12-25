@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Manster"
-date: 2022-02-11 0001 -0500
+date: 2022-02-11 00:01:10 -0500
 file: https://archive.org/download/TheManster_201701/The%20Manster.mp4
 summary: "This is a creature feature mentioned in passing during the pre-roll trailers in the most recent edition of The Mads Are Back."
 description: "This is a creature feature mentioned in passing during the pre-roll trailers in the most recent edition of The Mads Are Back."

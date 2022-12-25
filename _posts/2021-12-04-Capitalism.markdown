@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Capitalism"
-date: 2021-12-04 0022 -0500
+date: 2021-12-04 00:22:00 -0500
 file: https://archive.org/download/Capitali1948/Capitali1948.mp4
 summary: "Coronet Films...gives us a look at what capitalism meant back in the monochromatic days of the 1950s."
 description: "Coronet Films...gives us a look at what capitalism meant back in the monochromatic days of the 1950s."

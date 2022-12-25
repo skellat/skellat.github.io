@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Astronauts: United States Project Mercury, ca. 1960 "
-date: 2021-10-29 0001 -0400
+date: 2021-10-29 00:01:00 -0400
 file: https://archive.org/download/gov.archives.arc.1151850/gov.archives.arc.1151850_512kb.mp4
 summary: "Part of NASA's history files, this film talks about the astronauts of the Mercury project."
 description: "Part of NASA's history files, this film talks about the astronauts of the Mercury project."

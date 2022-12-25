@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dead Right"
-date: 2022-06-26 2323 -0400
+date: 2022-06-26 23:23:00 -0400
 file: https://archive.org/download/2358_Dead_Right_10_21_21_00/2358_Dead_Right_10_21_21_00.m4v
 summary: "The Prelinger Archives brings us an amazing film from the infamous director Sid Davis about traffic safety."
 description: "The Prelinger Archives brings us an amazing film from the infamous director Sid Davis about traffic safety."

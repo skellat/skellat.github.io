@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cinderella (1911)"
-date: 2022-12-04 1410 -0500
+date: 2022-12-04 14:10:00 -0500
 file: https://archive.org/download/Cinderella1911/Cinderella%201911.mp4
 summary: "A short yet silent take on the Cinderella story."
 description: "A short yet silent take on the Cinderella story."

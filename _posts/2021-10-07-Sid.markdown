@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Bottle and the Throttle"
-date: 2021-10-07 0059 -0400
+date: 2021-10-07 00:59:00 -0400
 file: https://archive.org/download/0992_Bottle_and_the_Throttle_The_E00776_01_50_27_08/0992_Bottle_and_the_Throttle_The_E00776_01_50_27_08.m4v
 summary: "Sid Davis...made interesting stuff..."
 description: "Sid Davis...made interesting stuff..."

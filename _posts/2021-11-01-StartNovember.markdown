@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Despotism"
-date: 2021-11-01 2359 -0400
+date: 2021-11-01 23:59:00 -0400
 file: https://archive.org/download/Despotis1946/Despotis1946_512kb.mp4
 summary: "We begin November by learning about despotism."
 description: "We begin November by learning about despotism."

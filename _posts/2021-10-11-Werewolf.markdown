@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Werewolf in a Girls' Dormitory"
-date: 2021-10-11 2326 -0400
+date: 2021-10-11 23:26:00 -0400
 file: https://archive.org/download/Werewolf_In_A_Girls_Dormitory/Werewolf_In_A_Girls_Dormitory_512kb.mp4
 summary: "A B-grade monster movie in monochrome.  This is unriffed.  For a riffed version you should check out RiffTrax."
 description: "A B-grade monster movie in monochrome.  This is unriffed.  For a riffed version you should check out RiffTrax."

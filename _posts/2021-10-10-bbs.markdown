@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Connecting To BBS's In 2017 With The WiFi232 Modem"
-date: 2021-10-10 0007 -0400
+date: 2021-10-10 00:07:00 -0400
 file: https://archive.org/download/2017-06-02-connecting-to-bbss-in-2017-with-the-wi-fi-232-modem/2017-06-02%20-%20Connecting%20to%20BBS%27s%20in%202017%20with%20the%20WiFi232%20Modem.mp4
 summary: "Venturing back into the past through alternative technology arrangements."
 description: "Venturing back into the past through alternative technology arrangements."

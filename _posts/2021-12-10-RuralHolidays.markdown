@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rural Holidays"
-date: 2021-12-10 0001 -0500
+date: 2021-12-10 00:01:00 -0500
 file: https://archive.org/download/rural_holidays/rural_holidays.mp4
 summary: "A classic USDA film providing a look at rural life."
 description: "A classic USDA film providing a look at rural life."

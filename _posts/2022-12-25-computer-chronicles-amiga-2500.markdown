@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Amiga 2500"
-date: 2022-12-25 0005 -0500
+date: 2022-12-25 00:05:00 -0500
 file: https://archive.org/download/amiga_3/amiga_3_512kb.mp4
 summary: "A look in 1989 at the Amiga 2500."
 description: "A look in 1989 at the Amiga 2500."

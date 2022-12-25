@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Spaceship on Venus"
-date: 2021-11-07 0001 -0400
+date: 2021-11-07 00:01:00 -0400
 file: https://archive.org/download/FirstSpaceshipOnVenusMPEG/First_Spaceship_On_Venus.mp4
 summary: "A film from the wrong side of the Iron Curtain painting quite a view of space exploration."
 description: "A film from the wrong side of the Iron Curtain painting quite a view of space exploration."

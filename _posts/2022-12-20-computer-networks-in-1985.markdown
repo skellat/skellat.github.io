@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Networks (1985)"
-date: 2022-12-20 1659 -0500
+date: 2022-12-20 16:59:00 -0500
 file: https://archive.org/download/Computer1985_3/Computer1985_3_512kb.mp4
 summary: "A look in 1985 at computer networking"
 description: "A look in 1985 at computer networking"

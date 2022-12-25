@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marbury v. Madison"
-date: 2021-10-04 0014 -0400
+date: 2021-10-04 00:14:00 -0400
 file: https://archive.org/download/gov.ntis.AVA02153VNB1/AVA02153VNB1_512kb.mp4
 summary: "The Judicial Conference of the United States reenacts proceedings around this seminal case."
 description: "The Judicial Conference of the United States reenacts proceedings around this seminal case."

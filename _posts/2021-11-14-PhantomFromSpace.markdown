@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Phantom From Space"
-date: 2021-11-14 0202 -0500
+date: 2021-11-14 02:02:02 -0500
 file: https://archive.org/download/Phantom_From_Space/Phantom_From_Space.mp4
 summary: "A monster crashes from space in the Los Angeles area and a ragtag crew has to neutralize the threat."
 description: "A monster crashes from space in the Los Angeles area and a ragtag crew has to neutralize the threat."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teenagers From Outer Space"
-date: 2021-11-18 01 -0500
+date: 2021-11-18 01:01:01 -0500
 file: https://archive.org/download/Exercise1949/Exercise1949.mp4
 summary: "This is not the riffed version from Mystery Science Theater 3000."
 description: "This is not the riffed version from Mystery Science Theater 3000."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "20,000 Leagues Under the Sea"
-date: 2021-10-31 0002 -0400
+date: 2021-10-31 00:02:00 -0400
 file: https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4
 summary: "For Halloween we have a silent film.  Yes, we turn to an early film by Universal that does a send-up of a Jules Verne story.  The story originally came out towards the end of the Second Empire in France and the launch of the Third Republic."
 description: "For Halloween we have a silent film.  Yes, we turn to an early film by Universal that does a send-up of a Jules Verne story.  The story originally came out towards the end of the Second Empire in France and the launch of the Third Republic."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Low End Computers (1985)"
-date: 2022-12-21 1502 -0500
+date: 2022-12-21 15:02:00 -0500
 file: https://archive.org/download/LowEndCo1985/LowEndCo1985_512kb.mp4
 summary: "From the days of the Atari ST we look at low end computers..."
 description: "From the days of the Atari ST we look at low end computers..."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web Radio"
-date: 2022-12-18 2114 -0500
+date: 2022-12-18 21:14:00 -0500
 file: https://archive.org/download/WebRadio99/WebRadio99.mp4
 summary: "Online radio circa 1999"
 description: "Online radio circa 1999"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Judge Facts"
-date: 2022-01-14 0001 -0500
+date: 2022-01-14 00:01:00 -0500
 file: https://archive.org/download/HowToJudgeFacts/HowToJudgeFacts.m4v
 summary: "A look from the late 1940s in black and white at how to avoid sensationalism."
 description: "A look from the late 1940s in black and white at how to avoid sensationalism."

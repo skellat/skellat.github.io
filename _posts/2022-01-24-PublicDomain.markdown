@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Celebration Of Sound: Public Domain Day 2022"
-date: 2022-01-24 0001 -0500
+date: 2022-01-24 00:01:00 -0500
 file: https://archive.org/download/a-celebration-of-sound-public-domain-day-2022/A%20Celebration%20of%20Sound%20Public%20Domain%20Day%202022.mp4
 summary: "An event that took place in California at the Internet Archive.  Sound recordings newly available in the public domain were celebrated in a public event with DJs and other attendees."
 description: "An event that took place in California at the Internet Archive.  Sound recordings newly available in the public domain were celebrated in a public event with DJs and other attendees."

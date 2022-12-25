@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Communism"
-date: 2021-11-03 2354 -0400
+date: 2021-11-03 23:54:00 -0400
 file: https://archive.org/download/Communis1952/Communis1952.mp4
 summary: "The nice people at Coronet Films teach us about Communism from a 1950s perspective"
 description: "The nice people at Coronet Films teach us about Communism from a 1950s perspective"

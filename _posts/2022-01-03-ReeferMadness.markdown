@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reefer Madness"
-date: 2022-01-03 1042 -0500
+date: 2022-01-03 10:42:00 -0500
 file: https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4
 summary: "The classic shlock scare film."
 description: "The classic shlock scare film."

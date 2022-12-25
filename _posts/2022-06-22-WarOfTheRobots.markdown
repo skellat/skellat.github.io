@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "War of the Robots"
-date: 2022-06-22 0019 -0400
+date: 2022-06-22 00:19:00 -0400
 file: https://archive.org/download/WarOfTheRobots/WarOfTheRobots1978.mp4
 summary: "More spaghetti sci-fi from the director of Ator and War of the Planets"
 description: "More spaghetti sci-fi from the director of Ator and War of the Planets"

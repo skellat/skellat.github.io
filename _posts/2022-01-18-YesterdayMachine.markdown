@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Yesterday Machine"
-date: 2022-01-18 2359 -0500
+date: 2022-01-18 23:59:59 -0500
 file: https://archive.org/download/TheYesterdayMachine1963_201510/TheYesterdayMachine1963.mp4
 summary: "Nazis and time travel: what could go wrong?  This is another Z-grade film."
 description: "Nazis and time travel: what could go wrong?  This is another Z-grade film."
