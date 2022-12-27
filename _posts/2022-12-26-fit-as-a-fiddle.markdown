@@ -5,7 +5,7 @@ date: 2022-12-26 00:08:00 -0500
 file: https://archive.org/download/2358_Fit_as_a_Fiddle_10_31_28_00/2358_Fit_as_a_Fiddle_10_31_28_00.m4v
 summary: "We return to the world of Sid Davis films as he tackles fitness in 1960s youths.  Pronounce youths as if you were watching My Cousin Vinny, mind you."
 description: "We return to the world of Sid Davis films as he tackles fitness in 1960s youths.  Pronounce youths as if you were watching My Cousin Vinny, mind you."
-duration: "28:07"
+duration: "10:19"
 length: "619"
 explicit: "no" 
 keywords: "Internet Archive"
