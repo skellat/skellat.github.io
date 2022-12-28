@@ -16,7 +16,3 @@ voices: ""
 This is a semi-nostalgic look at the world of the BBS.  Yes, it is possible to return to that which was.  It isn't the same, though.
 
 <iframe src="https://archive.org/embed/2017-06-02-connecting-to-bbss-in-2017-with-the-wi-fi-232-modem" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
-
