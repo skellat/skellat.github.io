@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Cosmos--War of the Planets"
-date: 2022-12-30 00:50:50 -0500
+title: "War of the Planets"
+date: 2022-12-31 21:41:50 -0500
 file: https://archive.org/download/Cosmos_War_of_the_Planets/Cosmos_War_of_the_Planets.mp4
 summary: "Spaghetti sci fi with some odd overdubbing."
 description: "Spaghetti sci fi with some odd overdubbing."
