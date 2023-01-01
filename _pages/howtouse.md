@@ -4,7 +4,7 @@ title: "How To Use This Service"
 permalink: /howtouse
 ---
 
-Shows can be viewed by clicking on the episode titles main page which then brings up an embedded player so you can watch on your device.  That is not the only way you can view shows, though.  
+Shows can be viewed by clicking on the episode title either through the main page or the archives page which then brings up an embedded player so you can watch on your device.  That is not the only way you can view shows, though.  
 
 You can also watch shows via Apple devices (i.e. iPod Touch, iPhone, iPad, Mac, Macbook, Apple TV) using the link below for Apple Podcasts.  On Android devices the link below for AntennaPod will get you set up with a tool that will help you access shows.  We don't presently have direct support for Roku devices *yet* but shows can be "casted" from Apple and Android devices back to the Roku for display on a television according to instructions linked below.  In any other case you will want to use the RSS feed linked below to follow along in your podcast program.
 
