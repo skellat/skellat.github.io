@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Computer Chronicles: Modems and Bulletin Boards"
-date: 2022-12-29 00:01:03 -0500
+title: "Computer Chronicles: Windows 95"
+date: 2023-01-01 00:49:03 -0500
 file: https://archive.org/download/Windows4/Windows4.mp4
 summary: "A look at Windows 95 when it was a new thing."
 description: "A look at Windows 95 when it was a new thing."
