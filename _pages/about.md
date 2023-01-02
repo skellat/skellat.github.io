@@ -4,9 +4,9 @@ title: "About This Effort"
 permalink: /about
 ---
 
-The Ashtabula area lacks its own broadcast television station serving the *entire* county.  There are limited cablecast efforts in the cities of [Conneaut](https://vimeo.com/user126359532) and [Ashtabula](https://www.cityofashtabula.com/stream-live) to provide *some* television programs.  This is an attempt at providing programming accessible to the entire county without a subscription to a [monopoly cable television service](https://simple.wikipedia.org/w/index.php?title=Cable_television&oldid=7493434).  
+The Ashtabula area lacks its own local broadcast television station serving the *entire* county with content local to it.  There are limited cablecast efforts in the cities of [Conneaut](https://vimeo.com/user126359532) and [Ashtabula](https://www.cityofashtabula.com/stream-live) to provide *some* television programs.  This is an attempt at providing programming accessible to the entire county without a subscription to a [monopoly cable television service](https://simple.wikipedia.org/w/index.php?title=Cable_television&oldid=7493434).  
 
-This site remains an *experimental* offering with an erratic posting schedule that we are trying to get hammered out.  We plan to launch regular locally-produced programming at some point in 2023.  An exact date for that launch is not yet decided.
+Later in 2023 this site will begin to provide original programming originating in Ashtabula.  For now it brings reruns from the offerings of the Internet Archive and other select sites online.  As our available resources expand we hope to expand our program offerings.
 
 We have an entire page dedicated to how [you can enjoy this service]({{ site.url }}{{ site.baseurl }}/howtouse.html) on your computer, phone, tablet, and television.  The directions there *should* get you started in terms of making use of this.  There is no single way to enjoy these programs so take advantage of the many opportunities available.
 
