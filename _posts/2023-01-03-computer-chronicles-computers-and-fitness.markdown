@@ -16,4 +16,6 @@ voices: ""
 
 "In 1989 we certainly were not thinking of the Apple Watch and Apple Fitness.  In this episode we look back at the early days of using computers to promote physical fitness."
 
+Episodes of *Computer Chronicles* can be found at the Internet Archive at <https://archive.org/details/computerchronicles>.
+
 <iframe src="https://archive.org/embed/CC712_fitness" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

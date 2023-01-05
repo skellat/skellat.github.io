@@ -16,4 +16,6 @@ voices: ""
 
 "We look at Amiga computers and Video Toaster from the 1988 perspective."
 
+Episodes of *Computer Chronicles* can be found at the Internet Archive at <https://archive.org/details/computerchronicles>.
+
 <iframe src="https://archive.org/embed/amiga_2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

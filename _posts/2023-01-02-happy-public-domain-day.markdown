@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Happy Public Domain Day"
+title: "Happy Public Domain Day: Koko in 1999"
 date: 2023-01-02 00:00:10 -0500
 file: https://archive.org/download/koko-in-1999_1927/koko-in-1999_1927.ia.mp4
 summary: "This is an animation short that newly entered the public domain as of 2023."

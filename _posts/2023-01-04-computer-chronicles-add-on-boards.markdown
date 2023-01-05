@@ -16,4 +16,6 @@ voices: ""
 
 "We look at a variety of add-on boards for desktop computers from the 1988 perspective."
 
+Episodes of *Computer Chronicles* can be found at the Internet Archive at <https://archive.org/details/computerchronicles>.
+
 <iframe src="https://archive.org/embed/CC524_add-on_boards" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
