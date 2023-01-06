@@ -25,7 +25,7 @@
     <itunes:keywords>Video Archives</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
 		
-{% for post in site.posts limit:40 %}
+{% for post in site.posts limit:90 %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
             <itunes:author>{{ site.author }}</itunes:author>
