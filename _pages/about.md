@@ -4,7 +4,7 @@ title: "About This Effort"
 permalink: /about
 ---
 
-We plan to bring weather report programs for the Ashtabula area.  Other programming is planned to follow once resources permit.  Weather recaps will be released on a daily basis.  Until that launches we will be priming the feed by pointing to various public domain items on the Internet Archive.
+We plan to bring weather report programs for the Ashtabula area.  Other programming is planned to follow once resources permit.  Weather recaps are planned to be released on a daily basis.  Until that fully launches we will be priming the feed by pointing to various public domain items on the Internet Archive.
 
 We have an entire page dedicated to how [you can enjoy this service]({{ site.url }}{{ site.baseurl }}/howtouse.html) on your computer, phone, tablet, and television.  The directions there *should* get you started in terms of making use of this.  There is no single way to enjoy these programs so take advantage of the many opportunities available.
 
