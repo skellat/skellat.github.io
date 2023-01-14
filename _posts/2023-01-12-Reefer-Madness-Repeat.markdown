@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reefer Madness (Repeat"
+title: "Reefer Madness (Repeat)"
 date: 2023-01-12 23:59:59 -0500
 file: https://archive.org/download/reefer_madness1938/reefer_madness1938.mp4
 summary: "A repeat of the classic shlock scare film."
