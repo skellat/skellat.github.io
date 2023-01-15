@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Your Weather For January 14th"
-date: 2023-01-14 18:54:00 -0500
+date: 2023-01-14 19:00:00 -0500
 file: https://archive.org/download/ashtabulaweather20230114/20230114.mp4
 summary: "Your evening weather report based upon information from the National Weather Service forecast office in Cleveland, Ohio."
 description: "Your evening weather report based upon information from the National Weather Service forecast office in Cleveland, Ohio."
