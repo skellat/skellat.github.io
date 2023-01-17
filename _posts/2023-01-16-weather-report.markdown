@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Your Weather For January 16th"
-date: 2023-01-16 20:10:00 -0500
+date: 2023-01-16 20:10:10 -0500
 file: https://archive.org/download/ashtabulaweather20230116/Weather%20for%20January%2016%2C%202023.mp4
-summary: "Your evening weather report based upon information from the National Weather Service forecast office in Cleveland, Ohio."
-description: "Your evening weather report based upon information from the National Weather Service forecast office in Cleveland, Ohio."
+summary: "Your evening weather report based upon information from the National Weather Service"
+description: "Your evening weather report based upon information from the National Weather Service"
 duration: "3:39"
 length: "219"
 explicit: "no" 
