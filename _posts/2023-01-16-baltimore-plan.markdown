@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Baltimore"
+title: "The Baltimore Plan"
 date: 2023-01-16 20:12:12 -0500
 file: https://archive.org/download/BaltimorePlan/BaltimorePlan.mp4
 summary: "A monochrome look at urban renewal."
