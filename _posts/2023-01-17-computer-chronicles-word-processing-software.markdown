@@ -4,7 +4,7 @@ title: "Computer Chronicles: Word Processing Software"
 date: 2023-01-17 18:30:02 -0500
 file: https://archive.org/download/WordProc1984/WordProc1984_edit.mp4
 summary: "The year was 1984.  Word processing software looked very different then compared to now.  We take a look back in this episode of Computer Chronicles."
-description: The year was 1984.  Word processing software looked very different then compared to now.  We take a look back in this episode of Computer Chronicles."
+description: "The year was 1984.  Word processing software looked very different then compared to now.  We take a look back in this episode of Computer Chronicles."
 duration: "23:58"
 length: "1438"
 explicit: "no" 
