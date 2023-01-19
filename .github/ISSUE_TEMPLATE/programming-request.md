@@ -3,7 +3,7 @@ name: Programming request
 about: Suggest an idea for this channel
 title: ''
 labels: ''
-assignees: ''
+assignees: 'skellat'
 
 ---
 
