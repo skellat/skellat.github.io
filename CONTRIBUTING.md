@@ -1,4 +1,4 @@
 CONTRIBUTING
 ============
 
-We reserve the right to reject any pull request for any reason or not reason at all.  Please include a rationale statement with your pull request.  PR templates will be provided in due course.
+Please file an issue first explaining your request before proposing a patch.  We reserve the right to take any action necessary to preserve the operation of this site that in our judgment we deem necessary.
