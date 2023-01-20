@@ -7,7 +7,7 @@ summary: "A barely explicable film that defies categorization.  Take a jaunt to 
 description: "A barely explicable film that defies categorization.  Take a jaunt to southern Nevada in the 1960s for a strange story plus Tor Johnson in The Beast of Yucca Flats."
 duration: "53:52"
 length: "3232"
-explicit: "no" 
+explicit: "yes" 
 keywords: "Internet Archive"
 block: "no" 
 categories: vodcast

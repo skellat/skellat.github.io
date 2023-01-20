@@ -1,7 +1,7 @@
 ---
 name: Programming request
-about: Suggest an idea for this channel
-title: ''
+about: Suggesting an idea for this channel
+title: 'A Programming Request'
 labels: ''
 assignees: 'skellat'
 
@@ -21,3 +21,6 @@ assignees: 'skellat'
 
 **Additional context**
 <-- Add any other context here.  Please don't make us chase after you for details but also do not be obtuse in your writing. -->
+
+**Your Contact Details**
+<-- How can you best be reached online? Unless your proposal stands on its own without requiring further explanation we will need to follow up with you. -->
