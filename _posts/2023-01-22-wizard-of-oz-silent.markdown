@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wizard of Oz (1910)(Silent)"
-date: 2023-01-23 00:44:44 -0500
+date: 2023-01-22 00:44:44 -0500
 file: https://archive.org/download/WizardOfOz1910/WizardOfOz1910.mp4
 summary: "A monochromatic rendition of the Wizard of Oz that is rather silent dating to 1910.  What could go wrong?"
 description: "A monochromatic rendition of the Wizard of Oz that is rather silent dating to 1910.  What could go wrong?"
