@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Optical Storage Devices"
-date: 2023-01-25 00:01:01 -0500
+date: 2023-01-25 00:05:05 -0500
 file: https://archive.org/download/OpticalS1985/OpticalS1985_edit.mp4
 summary: "We look at optical storage through the lens of 1985."
 description: "We look at optical storage through the lens of 1985."
