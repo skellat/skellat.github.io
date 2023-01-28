@@ -21,7 +21,7 @@
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes.png" />
     <itunes:type>episodic</itunes:type>
-        <itunes:category text="Arts" />
+        <itunes:category text="Technology" />
     <itunes:keywords>Video Archives</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
 		
