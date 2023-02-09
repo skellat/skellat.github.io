@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Computer Chronicles: Artifical Intelligence"
-date: 2023-02-09 00:01:01 -0500
-file: https://archive.org/download/Artifici1986/Artifici1986_edit.mp4
+title: "Computer Chronicles: Artifical Intelligence (CORRECTED)"
+date: 2023-02-09 00:03:03 -0500
+file: https://archive.org/download/Artifici1986/Artifici1986_256kb.mp4
 summary: "ChatGPT, Bing Chat, and Google's Bard have all been bits of Artificial Intelligence in the news lately.  What did the AI scene look like in 1986?  We find out in this episode of the Computer Chronicles."
 description: "ChatGPT, Bing Chat, and Google's Bard have all been bits of Artificial Intelligence in the news lately.  What did the AI scene look like in 1986?  We find out in this episode of the Computer Chronicles."
 duration: "29:24"
