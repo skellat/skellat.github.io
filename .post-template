@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
-date: 2023-02-01 00:01:10 -0500
+date: 2023-02-10 00:01:10 -0500
 file: Link to MP4 on Internet Archive
 summary: "Write the summary here"
 description: Must match summary so copy-paste it here
@@ -15,5 +15,7 @@ voices: ""
 ---
 
 Post here.  Generally use what you wrote in the summary here too.
+
+Episodes of *INSERT HERE* can be found at the Internet Archive at <https://archive.org/details/computerchronicles>.
 
 Embedded player from IA here
