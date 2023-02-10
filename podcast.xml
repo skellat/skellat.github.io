@@ -21,7 +21,7 @@
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/itunes.png" />
     <itunes:type>episodic</itunes:type>
-        <itunes:category text="Society & Culture" />
+        <itunes:category text="Arts" />
     <itunes:keywords>Video Archives</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
 		
@@ -39,7 +39,7 @@
             <itunes:explicit>{{ post.explicit }}</itunes:explicit>
             <description>{{ post.summary | xml_escape }} 
 
-Complete show post at {{ site.url }}{{ site.baseurl }}{{ post.url }}</description>
+A complete show post is found at {{ site.url }}{{ site.baseurl }}{{ post.url }}</description>
             <itunes:keywords>{{ post.keywords }}</itunes:keywords>
             <itunes:block>{{ post.block }}</itunes:block>
 		</item>
