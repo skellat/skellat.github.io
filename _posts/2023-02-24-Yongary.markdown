@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Movie Sign: Yongary"
-date: 2023-02-25 00:05:00 -0500
+title: "Movie Sign RELOADED: Yongary"
+date: 2023-02-24 01:05:00 -0500
 file: https://archive.org/download/Yongary-MonsterFromTheDeep/Yongara_512kb.mp4
 summary: "A Korean monster movie."
 description: "A Korean monster movie."

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Computer Chronicles: Information Overload"
-date: 2023-02-25 00:20:02 -0500
+title: "Computer Chronicles: Information Overload (RELOADED)"
+date: 2023-02-24 00:59:02 -0500
 file: https://archive.org/download/Informat96/Informat96.mp4
 summary: "Life was a bit more optimistic in 1996.  The Internet was new in the popular consciousness.  Bill Clinton was campaigning hard for his second term as President of the United States.  In this episode of the Computer Chronicles we learn how people of that time dealt with information overload."
 description: "Life was a bit more optimistic in 1996.  The Internet was new in the popular consciousness.  Bill Clinton was campaigning hard for his second term as President of the United States.  In this episode of the Computer Chronicles we learn how people of that time dealt with information overload."
