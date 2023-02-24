@@ -3,7 +3,7 @@ The Coyote Works
 
 This is the Jekyll tooling for the video "podcast" site.  You're peeking behind the curtain.  This is normally modified using VS Code (both the downloaded version and github.dev) though we hope to create shell scripting as soon as possible.  Increasingly we're using [BBEdit](https://www.barebones.com/products/bbedit/) too.  Consult <https://erielookingproductions.info> for further details about us.
 
-We continue to work on getting locally-produced programming up and running.  As of early February 2023 discussions remain in play.  They are running slowly.  This is par for the course in this community, though.
+We continue to work on getting locally-produced programming up and running.  As of early February 2023 discussions continue.  We hope to launch *something* in the second quarter of 2023.
 
 Requests and suggestions as to programming should be made via [issues on GitHub](https://github.com/skellat/skellat.github.io/issues).  Follow the template posted there.  Failure to follow the template there may result in summary closure of an issue.  We're working hard to get things working right.  Not everything work correctly, though.
 
