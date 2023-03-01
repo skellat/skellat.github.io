@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movie Sign RELOADED: Yongary"
+title: "Movie Sign RELOADED: Bride of the Gorilla"
 date: 2023-02-26 00:02:00 -0500
 file: https://archive.org/download/bride_of_a_gorilla/bride_of_a_gorilla.mp4
 summary: "Sometimes marriages lead to curses, eh?"
