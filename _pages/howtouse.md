@@ -8,7 +8,7 @@ Shows can be viewed by clicking on the episode title either through the main pag
 
 You can also watch shows via Apple devices (i.e. iPod Touch, iPhone, iPad, Mac, Macbook, Apple TV) using the link below for Apple Podcasts.  On Android devices the link below for AntennaPod will get you set up with a tool that will help you access shows.  We don't presently have direct support for Roku devices *yet* but shows can be "casted" from Apple and Android devices back to the Roku for display on a television according to instructions linked below.  In any other case you will want to use the RSS feed linked below to follow along in your podcast program.
 
-Due to a lack of support on their part we are **not** listed in Google's podcast directory.  This is not expected to change at any time in the near term.  We are not listed in Spotify's directory either.  That is not expected to change in the near term as well.
+Due to a lack of support on their part we are **not** listed in Google's podcast directory.  This is not expected to change at any time in the near term.  We are not listed in Spotify's directory either.  That is not expected to change in the near term as well.  We are monitoring the introduction of podcasts to YouTube Music and currently do not know how we will address that platform.
 
 We continue to investigate how to watch this most directly on a Roku device.  Due to platform limitations and manpower limitations on our part there is no simple direct means available *yet*.  We would need to create a Roku channel and do not have the resources with which to do that.  Please follow the directions below to view these programs on your TV using a Roku at this time.
 
