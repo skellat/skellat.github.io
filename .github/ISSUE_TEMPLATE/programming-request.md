@@ -1,6 +1,6 @@
 ---
 name: Programming request
-about: Suggesting an idea for this channel
+about: Suggesting an idea for this effort
 title: 'A Programming Request'
 labels: ''
 assignees: 'skellat'
