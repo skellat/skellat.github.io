@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bronenosets Potyomkin (Battleship Potemkin)"
-date: 2023-03-17 00:01:03 -0500
+date: 2023-03-17 00:01:03 -0400
 file: https://archive.org/download/BattleshipPotemkin/Battleship_Potemkin_512kb.mp4
 summary: "A film masterpiece from 1925 that came out of Russia."
 description: "A film masterpiece from 1925 that came out of Russia."
