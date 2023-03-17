@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computer Chronicles: Intel 386 - The Fast Lane"
-date: 2023-03-16 00:20:23 -0400
+date: 2023-03-17 00:20:23 -0400
 file: https://archive.org/download/Intel3861987/Intel3861987.mp4
 summary: "In 1987 the introduction of the 80386 by Intel was a game-changer for computing.  Things got faster then.  From the perspective of 2023 it all seems a wee bit slow.  We look back at this episode of the Computer Chronicles and wonder what it was like to see these things for the first time."
 description: "In 1987 the introduction of the 80386 by Intel was a game-changer for computing.  Things got faster then.  From the perspective of 2023 it all seems a wee bit slow.  We look back at this episode of the Computer Chronicles and wonder what it was like to see these things for the first time."
