@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Telegram For America"
-date: 2023-03-18 01:02:01 -0400
-file: https://archive.org/download/Preliminary_Analysis_of_WWV_Experimental_Tone_Signals/Preliminary_Analysis_of_WWV_Experimental_Tone_Signals.ia.mp4
+title: "Telegram For America (RELOAD)"
+date: 2023-03-18 01:22:01 -0400
+file: https://archive.org/download/Telegram1956/Telegram1956.mp4
 summary: "A promotional film by Western Union about telegrams.  The film is dated to approximately 1956."
 description: "A promotional film by Western Union about telegrams.  The film is dated to approximately 1956."
 duration: "19:30"
