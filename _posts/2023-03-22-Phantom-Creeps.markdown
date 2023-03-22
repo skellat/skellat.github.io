@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Phantom Creeps"
-date: 2023-03-22 00:01:03 -0500
+date: 2023-03-22 00:35:03 -0400
 file: https://archive.org/download/ThePhantomCreeps/ThePhantomCreeps.mp4
 summary: "A cut-down compilation of the serial with the same name from the 1930s."
 description: "A cut-down compilation of the serial with the same name from the 1930s."
