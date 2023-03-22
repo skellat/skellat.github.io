@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Net Cafe: UFOs"
-date: 2023-03-21 00:20:20 -0400
-file: https://archive.org/download/Lasersan1985/Lasersan1985_edit.mp4
+title: "Net Cafe: UFOs (RELOADED)"
+date: 2023-03-22 00:10:10 -0400
+file: https://archive.org/download/nc102_ufos/nc102_ufos_512kb.mp4
 summary: "In 1996 the gang takes a look at the UFO subculture online."
 description: "In 1996 the gang takes a look at the UFO subculture online."
 duration: "26:16"

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Physical Fitness with Health Expert Aurora Buffington"
-date: 2023-03-21 00:03:03 -0400
-file: https://archive.org/download/gov.archives.arc.36837/gov.archives.arc.36837_512kb.mp4
+title: "Physical Fitness with Health Expert Aurora Buffington (RELOADED)"
+date: 2023-03-22 00:03:03 -0400
+file: https://archive.org/download/Physical_Fitness_with_Health_Expert_Aurora_Buffington/Physical_Fitness_with_Health_Expert_Aurora_Buffington.HD.mov
 summary: "A film from the most populated county in Nevada promoting physical fitness at the parks of that county."
 description: "A film from the most populated county in Nevada promoting physical fitness at the parks of that county."
 duration: "3:33"
