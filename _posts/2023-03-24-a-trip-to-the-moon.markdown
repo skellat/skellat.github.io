@@ -20,5 +20,4 @@ A variety of silent films can be found at the Internet Archive at <https://archi
 
 A variety of films by Georges Méliès can be found at the Internet Archive at <https://archive.org/details/georgesmelies>.
 
-
 <iframe src="https://archive.org/embed/ThePhantomoftheOpera" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
