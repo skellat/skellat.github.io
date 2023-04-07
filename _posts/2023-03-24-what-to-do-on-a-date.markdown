@@ -15,6 +15,6 @@ voices: ""
 ---
 Another item from the wonderful folks at Coronet Films...
 
-Items from the Prelinger Archives collection can be found at the Internet Archive at <hhttps://archive.org/details/prelinger>.
+Items from the Prelinger Archives collection can be found at the Internet Archive at <https://archive.org/details/prelinger>.
 
 <iframe src="https://archive.org/embed/0248_What_to_Do_on_a_Date_E01668_19_40_42_00" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

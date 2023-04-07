@@ -16,6 +16,6 @@ voices: ""
 
 An employee orientation film about the telephone system from the 1950s.  
 
-Items from the Prelinger Archives collection can be found at the Internet Archive at <hhttps://archive.org/details/prelinger>.
+Items from the Prelinger Archives collection can be found at the Internet Archive at <https://archive.org/details/prelinger>.
 
 <iframe src="https://archive.org/embed/Townandt1950" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

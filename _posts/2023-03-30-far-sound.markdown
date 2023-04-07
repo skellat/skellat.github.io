@@ -15,6 +15,6 @@ voices: ""
 ---
 An AT&T training film about telecommunications
 
-Items from the Prelinger Archives collection can be found at the Internet Archive at <hhttps://archive.org/details/prelinger>.
+Items from the Prelinger Archives collection can be found at the Internet Archive at <https://archive.org/details/prelinger>.
 
 <iframe src="https://archive.org/embed/0670_Far_Sound_The_02_01_03_00" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
