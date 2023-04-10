@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Computer Chronicles: Speech Recognition and Synthesis"
+title: "Computer Chronicles: Speech Recognition and Synthesis (1987)"
 date: 2023-03-30 00:01:00 -0400
 file: https://archive.org/download/SpeechRe1987/SpeechRe1987_256kb.mp4
 summary: "Being able to talk to Siri is a new thing to be able to do.  Back in the 1980s we were only just starting out having computers trying to comprehend what people were saying.  Speech synthesis by computers was also only beginning then too.  It sounded nothing like what we hear today.  We learn more about this in this episode of the Computer Chronicles."
