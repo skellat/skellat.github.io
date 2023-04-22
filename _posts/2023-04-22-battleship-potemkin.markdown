@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bronenosets Potyomkin (Battleship Potemkin)"
-date: 2023-03-17 00:01:03 -0400
+date: 2023-04-22 00:00:01 -0400
 file: https://archive.org/download/BattleshipPotemkin/Battleship_Potemkin_512kb.mp4
-summary: "A film masterpiece from 1925 that came out of Russia."
-description: "A film masterpiece from 1925 that came out of Russia."
+summary: "A silent film masterpiece from 1925 Russia.  This rendering includes a musical score aligned with the film footage."
+description: "A silent film masterpiece from 1925 Russia.  This rendering includes a musical score aligned with the film footage."
 duration: "73:01"
 length: "4381"
 explicit: "no" 
@@ -13,7 +13,7 @@ block: "no"
 categories: vodcast
 voices: ""
 ---
-A film masterpiece from 1925 that came out of Russia.
+A silent film masterpiece from 1925 Russia.  This rendering includes a musical score aligned with the film footage.
 
 A variety of silent films can be found at the Internet Archive at <https://archive.org/details/silent_films>.
 
