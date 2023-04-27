@@ -7,11 +7,11 @@
 
 # Site settings
 title: "ELP Television" 
-subtitle: "Experimental Television For Our Ashtabula"  
+subtitle: "The Experimental Video Podcast-Based Television For Our Ashtabula"  
 email: ashtabulaecv197@gmail.com
 lang: en-us
 author: Erie Looking Productions
-description: "The experimentation test-bed in providing vodcasting to Ashtabula County."
+description: "The video podcasting experimentation test-bed in Ashtabula County."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://coyote.works" # the base hostname & protocol for your site
 #twitter_username: writer_smk
