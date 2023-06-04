@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Fire"
+date: 2023-06-04 00:30:00 -0400
+file: https://archive.org/download/Fire1946/Fire1946.mp4
+summary: "If you were curious what a monochromatic instructional film about firm might look like then you're in luck..."
+description: "If you were curious what a monochromatic instructional film about firm might look like then you're in luck..."
+duration: "10:23"
+length: "623"
+explicit: "no" 
+keywords: "Internet Archive"
+block: "no" 
+categories: vodcast
+voices: ""
+---
+
+If you were curious what a monochromatic instructional film about firm might look like then you're in luck...
+
+Items from the Prelinger Archives can be found at the Internet Archive at <hhttps://archive.org/details/prelinger>.
+
+<iframe src="https://archive.org/embed/Fire1946" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
