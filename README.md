@@ -3,7 +3,7 @@ The Coyote Works
 
 This is the Jekyll tooling for the video "podcast" site.  You're peeking behind the curtain.  This is normally modified using VS Code (both the downloaded version and github.dev) though we hope to create shell scripting as soon as possible.  Increasingly we're using [BBEdit](https://www.barebones.com/products/bbedit/) too.  Consult <https://erielookingproductions.info> for further details about us.
 
-We continue to work on getting locally-produced programming up and running.  Right now this runs rather quite inconsistently in parallel with [69 Admins](https://69admins.com).  Looming economic worries make it seem like this will be all there will be for the moment and that original productions will be a backburner matter for quite a while.
+We continue to work on getting locally-produced programming up and running through the WGA strike and the potentially upcoming SAG-AFTRA strike decrease the likelihood we'll see that happen in 2023.  Right now this effort runs rather quite inconsistently in parallel with [69 Admins](https://69admins.com).  Right now the world is craving *sports* programming to exclusion of pretty much everything else so this is slowly but surely becoming an anachronism.
 
 Requests and suggestions as to programming should be made via [issues on GitHub](https://github.com/skellat/skellat.github.io/issues).  Follow the template posted there.  Failure to follow the template there may result in summary closure of an issue.  We're working hard to get things working right.  Not everything work correctly, though.
 
