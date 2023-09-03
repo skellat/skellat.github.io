@@ -2,8 +2,10 @@
 layout: default
 ---
 
+<p align=center>To find more episodes, visit the archives tab.</p>
+
 <div class="post-list">
-    {% for post in site.posts limit:30 %}
+    {% for post in site.posts limit:5 %}
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
         </h2>
