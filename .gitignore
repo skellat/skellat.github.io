@@ -2,3 +2,4 @@
 .jekyll-cache/
 ._*
 
+.DS_Store
