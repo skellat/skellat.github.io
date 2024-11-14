@@ -1,0 +1,6 @@
+[book]
+authors = ["Stephen Michael Kellat"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Coyote Works: Operations Log"
