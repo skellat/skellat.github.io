@@ -1,3 +1,0 @@
-# Boop
-
-Stay Alive Bumper
