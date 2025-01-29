@@ -1,0 +1,20 @@
+site_name: skellat.github.io
+# theme: readthedocs
+# locale: en
+site_url: https://skellat.github.io/
+site_description: The GitHub Pages Website of Stephen Michael Kellat
+site_author: Stephen Michael Kellat
+repo_url: https://github.com/skellat/skellat.github.io
+repo_name: GitHub
+remote_branch: master
+docs_dir: page
+site_dir: docs
+copyright: Copyright © 2019-2025 Stephen Michael Kellat.  
+plugins: []
+markdown_extensions:
+  - smarty
+  - toc:
+      permalink: true
+  - sane_lists
+nav:
+     - Home: index.md

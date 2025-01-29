@@ -1,6 +1,6 @@
 ---
 name: General Patch
-about: A Proposed Patch 
+about: A Proposed Patch
 title: 'Patch Proposal'
 labels: ''
 assignees: ''
